@@ -1,0 +1,7 @@
+{
+  "name": "recipee.pruim",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

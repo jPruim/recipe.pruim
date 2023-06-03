@@ -1,0 +1,26 @@
+<!-- <ion-content> -->
+  <app-header></app-header>
+  <div class ="main-page background-color-theme-black">
+    <div class="section background-color-theme-black">
+      <div class="container-header-text">
+        <h1 class="header-text color-theme-2"> {{ recipe?.title }} </h1>
+      </div>
+      <div class="subsection">
+        <div *ngIf="hasImage">
+          <app-image [imageLink]="recipe?.imageLink || ''" [caption]="''"></app-image>
+        </div>
+        <p class="intro-text">
+          {{ recipe?.intro }}
+        </p>
+        <app-steplist [steps]="recipe?.steps || []"></app-steplist>
+        <p class="description-text"> 
+          {{ recipe?.description}}
+        </p>
+        <p class="outro-text"> 
+          {{ recipe?.outro}}
+        </p>
+        
+      </div>
+    </div>
+  </div>
+<!-- </ion-content> -->

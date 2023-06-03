@@ -1,0 +1,13 @@
+<h2>
+Instructions
+</h2>
+<div *ngFor="let step of steps" class="marginless">
+  <div class="step-section marginless">
+    <div class="column step-border" [ngClass]="step.ingredients ? 'w-50' : 'w-100' ">
+      <p class="step-text"> {{ step.instruction }}</p>
+    </div>
+    <div *ngIf="step.ingredients" class="column step-border w-50">
+      <p *ngFor="let ingredient of step.ingredients" class="step-text"> {{ ingredient }}</p>
+    </div>
+  </div>  
+</div>

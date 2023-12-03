@@ -13,7 +13,7 @@ const routes: Routes = [
   },
   {
     path: 'recipe/:bookID/:recipeID',
-    loadChildren: () => import('./pages/recipe/recipe.module').then( m => m.RecipeePageModule)
+    loadChildren: () => import('./pages/recipe/recipe.module').then( m => m.recipePageModule)
   },
   {
     path: 'table-of-contents',

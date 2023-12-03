@@ -1,15 +1,19 @@
-<!-- <ion-content> -->
-  <app-header></app-header>
-  <div class ="main-page background-color-theme-black">
-    <div class="section background-color-theme-black">
-      <div class="container-header-text">
-        <h1 class="header-text color-theme-2">Table of Contents</h1>
-      </div>
-      <div class="subsection">
-        <!-- <ion-card *ngFor="let recipee of recipeeArray">
-          <ion-card-title>{{recipee.name}}</ion-card-title>
-        </ion-card> -->
+<app-header></app-header>
+<ion-content [fullscreen]="true">
+  <div class="page-container background-color-black">
+    <div class="main-page background-color-theme-black">
+      <div class="section background-color-theme-black">
+        <div class="container-header-text">
+          <h1 class="header-text color-theme-2">Table of Contents</h1>
+        </div>
+        <div class="subsection">
+          <ion-searchbar shape="round" size="10" class="searchbar background-color-theme-white" placeholder="Search by title" [debounce]="1000" (ionInput)="search($event)"></ion-searchbar>
+          <div class="array" *ngFor="let recipe of recipeArray">
+            <app-card [title]="recipe.title || ''" [description]="recipe.intro || recipe.description"
+              [destination]="'recipe' + '/' + recipe.originalBookID + '/' + recipe.recipeNumber"></app-card>
+          </div>
+        </div>
       </div>
     </div>
   </div>
-<!-- </ion-content> -->
+</ion-content>

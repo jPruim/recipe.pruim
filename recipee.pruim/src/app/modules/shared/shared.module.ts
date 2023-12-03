@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { HeaderComponent } from 'src/app/components/header/header.component';
 import { ImageComponent } from 'src/app/components/image/image.component';
 import { SteplistComponent } from 'src/app/components/steplist/steplist.component';
+import { CardComponent } from 'src/app/components/card/card.component';
 
 
 
@@ -11,6 +12,7 @@ import { SteplistComponent } from 'src/app/components/steplist/steplist.componen
     HeaderComponent,
     ImageComponent,
     SteplistComponent,
+    CardComponent,
   ],
   imports: [
     CommonModule
@@ -22,6 +24,7 @@ import { SteplistComponent } from 'src/app/components/steplist/steplist.componen
     HeaderComponent,
     ImageComponent,
     SteplistComponent,
+    CardComponent,
   ]
 })
 export class SharedModule { }

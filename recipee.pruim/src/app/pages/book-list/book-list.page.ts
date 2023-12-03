@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { BookData } from 'src/assets/data';
 
 @Component({
   selector: 'app-book-list',
@@ -6,10 +7,18 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./book-list.page.scss'],
 })
 export class BookListPage implements OnInit {
-
+  public bookArray : any[] = [];
   constructor() { }
 
   ngOnInit() {
+    this.bookArray = BookData;
+    console.log(this.bookArray);
+    this.bookArray.forEach( (el) => {
+      el?.intro?.length ?? 0 > 150 ? el.intro = el.intro.slice(0,140) + "...": '';
+    })
+    console.log(this.bookArray);
+  
   }
+  
 
 }

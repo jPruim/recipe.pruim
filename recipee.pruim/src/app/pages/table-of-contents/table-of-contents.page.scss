@@ -1,0 +1,27 @@
+ion-searchbar{
+    --border-radius: 5px;
+    --border-width: 1px;
+    --border-style: solid;
+    --border-color: var(--ion-color-dark)
+    --box-shadow: 2px gray;
+    --background: var(--ion-color-light);
+    --color: var(--ion-color-dark);
+    --padding-start: 1em;
+    --padding-top: 2px;
+    --padding-bottom: 2px;
+    border-radius: 1em;
+    height: 1em;
+    width: 20em;
+    margin: 0 auto;
+    padding: 0;
+}
+.searchbar ion-searchbar {
+    padding: 0;
+    max-height: 1em;
+    height: 1em;
+    margin-bottom: 1em;
+}
+
+.array {
+    margin-top: 2em;
+}

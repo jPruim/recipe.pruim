@@ -19,4 +19,4 @@ import { SharedModule } from 'src/app/modules/shared/shared.module';
   ],
   declarations: [RecipePage]
 })
-export class RecipeePageModule {}
+export class recipePageModule {}

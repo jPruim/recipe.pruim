@@ -22,7 +22,7 @@ export class RecipePage implements OnInit {
     this.recipeID = parseInt(this.activatedRoute.snapshot.paramMap.get('recipeID') ?? "");
 
     let recipes = RecipeData.filter( (el) => {
-      return el.recipeeNumber == this.recipeID && el.originalBookID == this.bookID
+      return el.recipeNumber == this.recipeID && el.originalBookID == this.bookID
     });
     if( recipes.length < 1) {
       this.router.navigate(['/page-not-found'])

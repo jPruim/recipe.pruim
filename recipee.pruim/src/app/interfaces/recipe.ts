@@ -4,11 +4,17 @@ export interface Recipe {
     description?: string;
     outro?: string;
     originalBookID?: number;
-    recipeeNumber?: number;
+    recipeNumber?: number;
     steps?: Step[];
     imageLink?: string; 
     categoryID?: number;
     lastEdit?: string;
+    links?: RecipeRef[];
+}
+
+export interface RecipeRef {
+    originalBookID: number,
+    recipeNumber: number,
 }
 
 export interface IngredientList {
@@ -16,10 +22,11 @@ export interface IngredientList {
 }
 
 export interface Book {
-    name: string;
+    title: string;
     id: number;
     imageLink?: string;
     edition?: number;
+    intro?: string;
 }
 
 export interface Category {

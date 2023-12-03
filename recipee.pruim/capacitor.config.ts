@@ -2,7 +2,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
-  appName: 'recipee.pruim',
+  appName: 'recipe.pruim',
   webDir: 'www',
   server: {
     androidScheme: 'https'

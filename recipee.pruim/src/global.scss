@@ -108,60 +108,75 @@ h1, h2, h3 {
     justify-content: top;
 }
 
+.page-container{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+}
 .main-page{
+    margin-top: 0;
+    padding-top: 0.5rem;
     width: 100%;
     margin: 0 auto;
     min-height: 100%;
     max-width: 1300px;
 }
 
+
+
+
 // CSS Colors
-
-
 .color-theme-dark {
-    color:#0D0221
+    color:#0D0221  !important;
 }
 
 .background-color-theme-dark {
-    background-color: #0D0221
+    background-color: #0D0221 !important;
 }
 
 .color-theme-1 {
-    color:#2274A5
+    color: var(--ion-color-primary)  !important;
 }
 .background-color-theme-1 {
-    background-color: #2274A5;
+    background-color: var(--ion-color-primary)  !important;
 }
 
 .color-theme-2 {
-    color: #E7DFC6;
+    color: var(--ion-color-secondary)  !important;
 }
 .background-color-theme-2 {
-    background-color: #E7DFC6;
+    background-color: var(--ion-color-secondary)  !important;
 }
 
 .color-theme-3 {
-    color: #816C61;
+    color: var(--ion-color-tertiary)  !important;
 }
 .background-color-theme-3 {
-    background-color: #816C61;
+    background-color: var(--ion-color-tertiary)  !important;
 }
 
 .color-theme-white {
-    color: #E9F1F7;
+    color: var(--ion-color-light)  !important;
 }
 .background-color-theme-white {
-    background-color: #E9F1F7;
+    background-color: var(--ion-color-light)  !important;
 }
 
 
 .color-theme-black {
-    color: #131B23;
+    color: var(--ion-color-dark)  !important;
 }
 .background-color-theme-black {
-    background-color: #131B23;
+    background-color: var(--ion-color-dark) !important;
 }
-
+.color-black {
+    color: #000000 !important;
+}
+.background-color-black {
+    background-color: #000000 !important;
+}
 
 .section{
     width: 80%;
@@ -173,6 +188,7 @@ h1, h2, h3 {
     margin: 0 auto;
     width: 100%;
     text-align: center;
+    padding: 0;
 }
 
 .section-row{
@@ -186,6 +202,9 @@ h1, h2, h3 {
 .subsection{
     border-radius: 15px;
     padding: 30px;
+    p{
+        color: var(--ion-color-light);
+    }
 }
 
 .subsection-header {
@@ -194,7 +213,8 @@ h1, h2, h3 {
 }
 
 .header-text {
-    margin-top: 4rem;
+    margin-top: 5rem;
+    margin-bottom: 1rem;
     font-weight: bolder;
     font-size: xx-large;
 }
@@ -246,6 +266,7 @@ a:active { text-decoration: none; }
     }
     .subsection {
         margin: 30px;
+        padding: 0;
     }
     
 }

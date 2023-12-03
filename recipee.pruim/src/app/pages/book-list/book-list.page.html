@@ -1,13 +1,21 @@
-<ion-header [translucent]="true">
-  <ion-toolbar>
-    <ion-title>book-list</ion-title>
-  </ion-toolbar>
-</ion-header>
-
+<app-header></app-header>
 <ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">book-list</ion-title>
-    </ion-toolbar>
-  </ion-header>
+  <div class="page-container background-color-black">
+    <div class="main-page background-color-theme-black">
+      <div class="section background-color-theme-black">
+        <div class="container-header-text">
+          <h1 class="header-text color-theme-2">Table of Contents</h1>
+        </div>
+        <div class="subsection">
+          <p class="subsection-text">
+            A list of the recipe works of the prime family
+          </p>
+          <div *ngFor="let book of bookArray">
+            <app-card [title]="book.title || ''" [description]="book.intro"
+              [destination]="''"></app-card>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </ion-content>

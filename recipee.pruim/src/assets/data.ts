@@ -392,30 +392,573 @@ export const RecipeData : Recipe[] = [
         recipeNumber: 13,
         intro: "Shepherd’s pie traditionally is made with lamb. If you use beef, you call it “Cottage Pie.”",
         description: "If your meal contains mashed potatoes and gravy, it’s comfort food. So, shepherd’s pie is the perfect comforting meal to put together with Sunday leftovers. The only problem with that plan is that it’s really difficult to make too much mashed potatoes and gravy. Somehow, even when you peel and cook an extra six potatoes, you don’t end up with enough leftovers to make this recipe. People see the extra potatoes and help themselves to generous seconds or even thirds. My tip: make extra potatoes and extra gravy and keep them hidden in pots in the kitchen and do NOT give in to anyone at the table scraping the potato bowl clean and sighing longingly. Be strong! When you make this cottage pie a few days later, they’ll thank you.",
-        outro: "'Artisan' bread doesn’t take an artist’s touch, just a good recipe and your commitment to try.",
+        outro: "“What I say is that, if a man likes potatoes, he must be a pretty decent sort of fellow.”-A. A. Milne",
         steps: [
             {
-                instruction: "Mix dry ingredients in a very large container or bowl. Add the water and stir until there are no dry spots, about 2 minutes. Put a lid on the container or cover the bowl with a silicon cover. Let the dough sit on the counter at least 4 hours or overnight. Then either use the dough OR put it in the refrigerator until ready to use.",
+                instruction: "Brown meat and onion in a large fry pan. ",
                 ingredients: [
-                    "6 cups flour",
-                    "1 ½ t dry yeast",
-                    "2 t salt",
-                    "3 cups lukewarm water",
+                    "1 1/2 pounds ground beef",
+                    "1 onion chopped",
                 ],
             },{
-                instruction: "On baking day: "+
-                "\nIf you’re baking bread from some dough that was in the fridge, let the dough come to room temperature before proceeding with the “On baking day” instructions." +
-                "\nTwenty minutes before baking time, oil your cast-iron Dutch oven OR your stoneware baker(s) and place them into a cold oven. Preheat to 435 F. After 20 minutes, remove your bakeware from the oven (with oven mitts on!). Optional: sprinkle a small amount of cornmeal into the bottom of your baking pan/pot. "+
-                "\nStir down your dough. If you’re making a small loaf, save half the dough to a covered container in the fridge for another day and proceed. Otherwise the whole recipe works well in a 5-quart Dutch oven. Scrap your dough into your hot-from-the oven pot or baker. Pat the dough into a nice shape.",
-            },
-            {
-                instruction: "If using a Dutch oven, put your dough in the Dutch oven pot. Put the lid back on and reposition the pot in the oven. Bake a smaller loaf 30 minutes or a larger loaf for 35 minutes. Remove the lid and bake another 10-15 minutes",
+                instruction: "Make gravy in the pan with the meat still in the pan. Stir in ½ cup flour. Cook and stir for 1-2 minutes. Then stir in 2 cups broth. Cook and stir until bubbly.",
                 ingredients: [
-                    "If using stone bakeware without a lid, put an empty broiler pan or rectangle cake pan on the bottom shelf of the oven when you pre-heat. After you place your dough loaves into the oven, pour 1 ¼ cups of lukewarm water onto the hot broiler pan and shut the door quickly. Be careful not to get burned by any pans, shelves, or steam. For smaller loaves bake 30-35 minutes and remove from oven. Larger loaves 30-40 minutes."
+                    "1/2 cup flour",
+                    "2 cups beef broth",
                 ]
             },
             {
-                instruction: "Tip the crusty, baked loaves out onto the counter and allow to cool on a wire rack. ",
+                instruction: "Lightly grease a large casserole or 8x10 glass pan. Layer the meat and gravy mixture on the bottom. Layer 2 cups frozen (and slightly thawed) green beans or green peas or a mixture of both on top of the meat. Then carefully cover the top with 4-5 cups of leftover mashed potatoes",
+                ingredients: [
+                    "Cook 5-6 cups of peeled, chopped potatoes for 20 minutes or until the largest piece falls off your fork when you poke it and hold it above the bubbling water.",
+                    "Drain the potatoes. Add 1 T butter and ¼-1/2 cup warm milk. Mash until it is a reasonable mashed potato texture. Do NOT use your hand blender or you will end up with wall paper paste."
+                ]
+            },
+            {
+                instruction: "Bake at 350 for 40-50 minutes if your ingredients were warm at the start. If your ingredients were cool or cold, bake 60-70 minutes.",
+            },
+            {
+                instruction: "Options: "+
+                "\n\tIn the last 10 minutes of baking, sprinkle shredded cheese on top of the potato layer."+
+                "\n\tMake your entire cottage pie in a pastry-lined pie pan, but only if you have the extra time to make the pie crust happen.",
+            }
+        ]
+    },    {
+        title: "Pot Pie or Meat Pie (if you are in New Zealand)",
+        originalBookID: 1,
+        recipeNumber: 14,
+        intro: "No one said making comfort food was always fast and easy. ",
+        description: "New Zealand. Beside beautiful landscapes and amazing hiking, what we miss about New Zealand is meat pies – Individual, hold-in-your-hand pies filled with savory fillings in a variety of flavors. Unfortunately, in the USA meat pies are not a common fast food available almost everywhere like they are in New Zealand. So, even though making this recipe takes a lot of effort, you’re not going to get a good meat pie around here any other way. The important difference between American pot pies and New Zealand meat pies? New Zealand meat pies have a higher proportion of meat to veggies, lots of extra flavorful gravy, and an array of flavor and filling options.",
+        outro: "A pie warm and fresh from the oven, whether savory or sweet, screams LOVE.",
+        steps: [
+            {
+                instruction: "You need to make two pie crusts.",
+                ingredients: [
+                    "See the Pecan Pie recipe (#29) for how to make pie crusts.",
+                ],
+            },{
+                instruction: "For the filling, mix together 5-6 cups of stuff from the list below, choosing your ingredients and proportions to please your audience … or yourself. "+
+                "\n\tpeeled potatoes, chopped small"+
+                "\n\tpeeled carrots, chopped small"+
+                "\n\tpeeled, finely chopped onion"+
+                "\n\tfrozen and thawed peas or beans"+
+                "\n\tcooked chopped meat (beef roast, hamburger, chicken, lamb, ham, bacon, steak, etc.)"+
+                "\n\tchopped sautéed mushrooms"+
+                "\n\tStir in 2 cups of gravy. Use chicken, beef, or veggie gravy - whichever makes sense with your mélange choices, stirring in 1 Tablespoon of soy sauce to boost the flavor."+
+                "\n\tMix in salt and pepper to taste.",
+            },
+            {
+                instruction: "Basically, you’re making a savory pie. Use your fine mélange as a pie filling. Put one rolled out crust in your pie plate. Spoon in the meaty mélange. Brush the crust edges all around lightly with a small amount of water to help the two crusts seal together. Cover your pie with a second rolled out pie crust, pressing lightly all around the dish to seal up the two crusts.",
+            },
+            {
+                instruction: "Trim and shape the crust edges as you see fit. Cut four small slits in the top of your pie so that it doesn’t explode in the oven. Really don’t forget this step or you might have a real mess.",
+            },
+            {
+                instruction: "Bake your pie at 350 for 75 minutes. You might want to cover the edges of your crust for the first 45 minutes to keep them from getting too brown. Use a pie edge cover. (Yes, these exist.) Or use strips of aluminum foil.",
+            },
+            {
+                instruction: "Remove from oven when the crust is light brown and you can see gravy bubbling up a little through the slits you made. If you can resist, let the pie rest for at least 5 minutes before slicing and serving",
+            },
+            {
+                instruction: "Options:"+
+                "\n\tAdd a cup of shredded cheese to your mélange before spooning it into the pie plate."+
+                "\n\tMix 1-2 teaspoons of curry powder and 1/3 cup tomato paste into your gravy. Great with either beef or chicken."+
+                "\n\tJust use beef, mushrooms, and gravy. Ahhh!"+
+                "\n\tYes, you can make your “meat pie” vegetarian.",
+            }
+        ]
+    },{
+        title: "Hamburger Stroganoff",
+        originalBookID: 1,
+        recipeNumber: 15,
+        intro: "Although I’ve never bought or eaten hamburger helper, I’m sure this is way better.",
+        description: "Yes, sometimes recipes become a lowest-common-denominator thing. You can make this stroganoff with no onions and no mushrooms. You can even eliminate the sour cream and increase the amount of beef broth to 2 ½ cups, to please the person who doesn’t like the sour cream tang. Then you end up with meat and gravy, but that’s still comfort food. Someday though, I’m going to make this recipe with a whole pound of mushrooms and 3 onions. Just for me."+
+        "\n2021: Tofu Stroganoff.  Adapt this recipe to create a vegetarian stroganoff by sauteing chunks of extra-firm tofu instead of beef and adding dried basil, 1 Tablespoon of soy sauce, and extra pepper to the seasonings. If you’re cooking for spice lovers, feel free to add a small amount of red pepper flakes and extra garlic. (I’m not adding those things, but you could.) Remove your sauteed tofu to a bowl while you make the gravy using a flavorful mushroom- or veggie-based stock instead of the beef stock. When you have added the milk and your sauce is almost warm enough, gently stir in your sauteed tofu and warm everything to your favorite eating temperature. Serve with either cooked pasta or good rice, and set out the soy sauce bottle to add extra flavoring at the end.",
+        outro: "“Stroganoff” is originally a Russian dish with chunks of beef and sour cream. Go figure.",
+        steps: [
+            {
+                instruction: "Brown meat and onion and garlic in a large fry pan. Season to taste.",
+                ingredients: [
+                    "1 pound ground beef",
+                    "1 chopped onion",
+                    "1 cup chopped mushrooms",
+                    "1-2 t minced garlic",
+                    "salt and pepper to taste",
+                ],
+            },{
+                instruction: "Add flour to the pan with your meats. Keep cooking and stirring mixture for 1-2 minutes.",
+                ingredients:[
+                    "1/2 cup flour",
+                ]
+            },
+            {
+                instruction: "Add broth and keep stirring while it warms back up to a bubbly simmer. The sauce should be thick.",
+                ingredients: [
+                    "1 1/2 cups beef broth",
+                ]
+            },
+            {
+                instruction: "Add milk and sour cream. Heat until warm but not boiling. Serve with cooked pasta or rice.",
+                ingredients:[
+                    "1 cup milk",
+                    "1/2-3/4 cup sour cream (or plain yogurt)",
+                ]
+            },
+            {
+                instruction:"options: \\n\t add dried basil or parsley. Stir in 1 T soy sauce for added flavor. \n\t Use other cuts of beef, sliced thin and lightly sauteed. \n\t Use leftover beef roast cut into bite-sized pieces",
+            }
+        ]
+    },{
+        title: "Cooked Rice",
+        originalBookID: 1,
+        recipeNumber: 16,
+        intro: "Start with good rice",
+        description: "The family favorite is long grain, new crop Jasmine. You might as well buy this in the 20 lb bags at the Asian import store because you know you’ll use it up eventually, and probably quicker than you think. You can always have extra rice to serve with butter and brown sugar for dessert OR to save for making fried rice later. \nIf you regularly cook more than 3 cups, you probably should buy a rice cooker."+
+        "\nThe whole family will complain about bad rice which gets served often in restaurants and certain college cafeterias. (And let’s not even talk about the rice served in hospitals!) Just stick with the good stuff: long grain, new crop JASMINE. And if we catch you trying to serve grocery store brand rice, or rice that cooks in a minute, or rice that doesn’t stick together, you may be banned from the kitchen."+
+        "\n2021: I used to be perhaps the only Asian in the US we knew of who didn’t own a rice cooker. Then one after the other dorm- or campus-dwelling child desperately wanted rice and had no good stove or system for obtaining this life necessity. Thus, after 30 years of cooking rice in a cheap pot on the gas stove … rice cookers entered the family. Honestly though, rice cooked the old way on the stove is superior. If you need to spoil yourself and have just a few extra minutes, it IS worth it.",
+        outro: "Rice is the most important grain for human consumption. In Chinese the word for rice also means “food” or “meal.”",
+        steps: [
+            {
+                instruction: "Start by measuring your rice into a pot. Fill the pot with room-temperature water to just above the rice. Stir briefly, then drain off the water. Next add twice as much water as you have rice. Add salt. ",
+                ingredients:["1 part Rice to 2 parts water to 1/2 t salt."],
+            },{
+                instruction: "Bring to a boil on the stove, stirring frequently. As soon as the water is bubbling a little, give it a good stir to make sure the rice grains aren’t stuck to the bottom of your pot, put the cover on your pot, and reduce to as low heat as possible. Do NOT remove the lid while it simmers. Be patient.",
+            },
+            {
+                instruction: "Allow to simmer on very low for 22 minutes. Turn off the stove and let it sit for another 3-5 minutes. Do not remove the cover to sneak a peek. Trust the process. It will be okay.",
+            },
+            {
+                instruction: "Add milk and sour cream. Heat until warm but not boiling. Serve with cooked pasta or rice.",
+                ingredients:[
+                    "1 cup milk",
+                    "1/2-3/4 cup sour cream (or plain yogurt)",
+                ]
+            },
+            {
+                instruction:"options: \\n\t add dried basil or parsley. Stir in 1 T soy sauce for added flavor. \n\t Use other cuts of beef, sliced thin and lightly sauteed. \n\t Use leftover beef roast cut into bite-sized pieces",
+            }
+        ]
+    },{
+        title: "Spanish Rice Casserole",
+        originalBookID: 1,
+        recipeNumber: 17,
+        intro: "",
+        description: "Spanish rice was one of Penny’s favorites until she married a no-green pepper person whose favorite comfort food was not rice. She still serves this when she can, especially to round out a Mexican buffet. "+
+        "\n2021: Make this Spanish Rice vegetarian or vegan by using a vegan sausage in place of the breakfast sausage OR just using some extra veggies, chopped celery, and no meat at all. Optional add-ins include 1 cup of frozen or canned corn, 1 cup of canned cooked black beans, or 1 cup of edamame for a protein boost.",
+        outro: "'Artisan' bread doesn’t take an artist’s touch, just a good recipe and your commitment to try.",
+        steps: [
+            {
+                instruction: "Brown sausage in a large fry pan. Add and sauté optional vegetables.",
+                ingredients: [
+                    "1 pound ground breakfast sausage",
+                    "1 cup chopped onion",
+                    "1 cup chopped green pepper",
+                    "1 cup chopped mushroomsr",
+                ],
+            },{
+                instruction: "Mix in herbs and seasonings well.",
+                ingredients:[
+                    "1 T sugar, 1 T chili powerder",
+                    "1 t cumin, 1t dired oregano",
+                    "1 T choopped garlic, 1/2-1 t salt",
+                    "ground black pepper and hot sauce to taste"
+                ]
+            },
+            {
+                instruction: "Put your fried mixture into a 3-quart casserole that has a cover. "+
+                "\n\tMix in the tomatoes, rice, and water.",
+                ingredients: [
+                    "1 1/2 cups rice",
+                    "1 28-oz can chopped tomatoes or tomato puree",
+                    "3 cups water",
+                ]
+            },
+            {
+                instruction: "Cover the casserole and bake at 350 for 1 ¼ - 1 ½  hours. Serve with optional toppings: shredded cheddar, chopped lettuce, refried beans, salsa, guacamole.",
+            }
+        ]
+    },{
+        title: "Crockpot Risotto",
+        originalBookID: 1,
+        recipeNumber: 18,
+        intro: "Creamy comfort without the cream",
+        description: "Many risotto recipes involve lots of stirring and time at the stove. So, we’d rather order it at a restaurant, right? Alas, risottos are often made with cream, so, as with so many comforting foods, the lactose- intolerant can only dream of ordering this at that nice Italian place. Enter the Crockpot Risotto recipe. Hooray!"+
+        "\n2021: Creamy coconut rice.  Substitute some coconut milk or whisked coconut cream for part or most of the broth. This is different from the coconut rice Mom makes on the stove but it’s much easier",
+        outro: "",
+        steps: [
+            {
+                instruction: "Pour 1 T olive oil in your 4-quart crockpot. Brush around to coat the sides and bottom of the crock.",
+            },{
+                instruction: "Add rice and another tablespoon of olive oil. Stir until grains are coated.",
+                ingredients:[
+                    "1 1/4 cups rice",
+                ]
+            },
+            {
+                instruction: "Add the liquid and any of the optional ingredients. \nStir, cover, and cook on high for 2.5 hours.",
+                ingredients: [
+                    "4 cups broth",
+                    "1 cup shopped sauteed mushrooms (optional)",
+                    "1/2 cup shopped sauteed onion (optional)",
+                    "1/2-1 cup frozen, thawed peas (optional)",
+                ]
+            },
+            {
+                instruction: "Option: After the risotto is done cooking, remove from crock and stir in 1 cup shredded parmesan.",
+            }
+        ]
+    },{
+        title: "Chop Suey or Hamburger-Rice Casserole",
+        originalBookID: 1,
+        recipeNumber: 19,
+        intro: "Rice-y comfort that at least 4 of 5 people will love.",
+        description: "I have no idea why this is called chop suey. That’s how the original recipe came down to us from Grandma Pruim. This is a simple, rice-y casserole with soy sauce as its main flavoring. A warm bowl of this rice dish, whether fresh or as leftovers, definitely qualifies as “comfort food”. One day when we were out of celery, Dad substituted carrots, and ever since then carrots are part of our chop suey recipe. This is a crowd-pleasing potluck dish and a winner with most kids. Just don’t order “chop suey” in a Chinese restaurant and expect anything like this."+
+        "\n2021:  Google says that “chop suey” is a mixture of cooked vegetables, sometimes also with meat, along with sauces that is served over already cooked rice or noodles. (This definition only being somewhat helpful since this describes a good two-thirds of the items on any Chinese restaurant menu.) In contrast, “chow mein” is a chop suey-like mixture but with cooked noodles stirred into the dish. Anyway, although this recipe arguably does involve some “chop”, it obviously has nothing to do with “suey” nor “mein”. So, let’s agree to call this “Hamburger-Rice Casserole.” "+
+        "\nEven though I know that neither Andrew nor Jason are great fans of this particular comfort food recipe, I’m going to guess that any future little versions of themselves or other youngsters in their lives would probably like this dish. This truly is a popular recipe among most children (confirmed by completely unscientific Pruim-family research over two decades). So, if you’re looking for a kid-friendly homemade potluck dish and you can’t just order pizza because of lactose or gluten issues among your guests, remember THIS recipe. ",
+        outro: "",
+        steps: [
+            {
+                instruction: "Brown meat in a large fry pan. \nAdd and sauté vegetables for a few minutes.",
+                ingredients: [
+                    "1 pound ground beef",
+                    "1/2 cup choppped onion",
+                    "1 cup peeled, chopped carrot",
+                    "1 cup washed, chopped celery",
+                ]
+            },{
+                instruction: "Mix in seasonings.",
+                ingredients:[
+                    "2 T soy sauce",
+                    "1 t minced garlic",
+                    "salt and pepper to taste",
+                    "Optional: some beef bouillon powder",
+                ]
+            },
+            {
+                instruction: "Transfer mixture to a 3-quart covered casserole. \nAdd rice and water.",
+                ingredients: [
+                   "1 1/2 cups rice",
+                   "3 cups water or a mix of water and beef broth",
+                ]
+            },
+            {
+                instruction: "Cover the casserole and bake at 350 for 1 – 1.5 hours.",
+            }
+        ]
+    },{
+        title: "Creamy Vegetable Soup",
+        originalBookID: 1,
+        recipeNumber: 20,
+        intro: "A Fall favorite. Unless you’re in New Zealand, in which case it’s an “Autumn” favorite.",
+        description: "This used to be called “Potato Soup” so that all kinds of vegetables could be included without a certain child being the wiser. This was NOT dishonesty. The soup always has potatoes…except when it doesn’t."+
+        "\n2021: A favorite Autumn variety is Butternut Squash Soup: Potatoes + Onions + Butternut Squash. With its golden color, you can actually hide an obscene amount of cheddar cheese in this soup OR convince a certain someone that there is already more cheese in the soup than there actually is. "+
+        "\nJason’s favorite is Broccoli Cheese Soup: Use 5-6 cups of chopped broccoli, one chopped onion, and a chopped potato (although the potato is optional). At the end, after adding the milk and heating through, stir in a generous portion of shredded cheddar cheese. Serve with more cheese. Did I mention cheese?"+
+        "\nCheater clam chowder: Use potatoes and onions or leeks for the vegetables. Stir in canned clams with their juice at the end when you add the milk and heat through. "+
+        "\nPotatoes. I recommend Idaho/russets, golden, or white potatoes for making soups like this one."+
+        "\nTurnips: These are round, sort of ball-shaped, and are really an okay, if slightly expensive, addition. However, I cannot recommend Parsnips (which look like white carrots). I’ve had more than one batch of expensive and bitter farmers’ market parsnips. With so many other friendly root vegetables, why bother. Remember: “Turnips should Turn Up sometimes. But be Persnickety about Parsnips.”",
+        outro: "To make this comforting soup into a comfort feast serve it with homemade bread.",
+        steps: [
+            {
+                instruction: "Put all vegetables in a good large pot on the stove and add water until all the vegetables are covered with a generous ½ inch of water." +
+                "\nBring to a boil and simmer for 20 minutes or until you can pierce the biggest piece with a fork, lift it above the water, and the veggie falls easily off the fork – kerplunk - back into your pot.",
+                ingredients: [
+                    "5-6 cups total of washed/peeled and chopped vegetables. Use a selet/crafted mix of the fllowing, depending what you have on hand:",
+                    "potatoes",
+                    "carrots",
+                    "butternut squash",
+                    "white onions or leeks",
+                    "turnips",
+                    "cauliflower",
+                    "broccoli",
+                    "rutabagas (an option you are unlikely to have, but who knows",
+                ]
+            },{
+                instruction: "Make a thickener brew: In a bowl or very large mug, mix flour and water together to form a paste. Add a ladle of the hot broth from your soup pot. Whisk together well.",
+                ingredients:[
+                    "1/2 cup flour",
+                    "1 cup cool water",
+                ]
+            },
+            {
+                instruction: "Add your thickener to your pot of cooked veggies. "+
+                "\nCook over low-medium heat, stirring often, until thickened and slightly bubbly. "+
+                "\nTurn off the heat and blend with a stick blender until the consistency is smooth and creamy.",
+            },
+            {
+                instruction: "Option 1: Add the milk and bring to a simmer but not a boil, stirring frequently to prevent any burning. \nOption 2: Add the broth or water and bring to a simmer, stirring frequently.",
+                ingredients: [
+                    "2 cups milk",
+                    "OR",
+                    "1-2 cups broth or water + bouillon",
+                    "season with salt, pepper, garlic, basil, etc."
+                ]
+            }
+        ]
+    },{
+        title: "Hot and Sour Soup",
+        originalBookID: 1,
+        recipeNumber: 21,
+        intro: "Honestly as good as chicken soup when you have a cold, possibly better.",
+        description: "I have always loved eating out at Chinese-American restaurants, and hot and sour soup was one of the reasons. When budgets were tight and eating out with kids wasn’t relaxing, I had to figure out how to make hot and sour soup for myself. I keep the leftovers in 1-pint glass jars and bring it to work for lunch. Yummm!"+
+        "\n2021: Souper COVID-times. Dropping off glass jars of soup curb-side and contact-free is one way to stay connected to people. If you are connecting socially distant outside in cool weather, you can also serve up large mugs of a soup like this one to keep everyone warm and happy while you chat. "+
+        "\nReasons I love this soup: "+
+        "\n\tIt is cheap and I can make it anytime with ingredients I always have in the house. Let it be known, however, that I am against Penny pinching. ;)"+
+        "\n\tOther non-Asian folks can be so easily impressed that a tasty hot-and-sour soup can be had somewhere other than their local Chinese restaurant. "+
+        "\n\tThough I am not guaranteeing this, I believe this is a pretty low-calorie soup, and even though it is considered a broth-based and “thin” soup, I find it very satisfying. "+
+        "\n\tWhen folks have a cold or are feeling a wee bit queasy because of chemotherapy, this soup goes down easily, warms you up, and makes you feel loved. Quintessential comfort food. … but with a fun Asian twist.",
+        outro: "",
+        steps: [
+            {
+                instruction: "In a large saucepan, sauté veggies in 1 T vegetable oil. All the veggies in this Step 1 are optional. If you don’t want or have these in the house, just skip to Step 2.",
+                ingredients: [
+                    "1-2 cups chopped bok choy or napa cabbage",
+                    "½ cup chopped onion OR 1 washed and chopped leek",
+                    "1 cup chopped mushrooms",
+                ]
+            },{
+                instruction: "Add broth, bring to a simmer and cook for 5 minutes.",
+                ingredients:[
+                    "4 cups chicken, beef, or vegetable stock (Confession: I regularly cheat and make this with bouillon and water.)",
+                ]
+            },
+            {
+                instruction: "Whisk together these ingredients in a small bowl. Then whisk into the soup."+
+                "\nHeat, stirring occasionally until the soup has thickened and is bubbling gently.",
+                ingredients: [
+                    "2 T corn starch",
+                    "4 T water",
+                    "2 T soy sauce",
+                    "3 T rice wine vinegar",
+                    "½ t ground black pepper",
+                    "1 t sesame oil",
+                    "a shake of dried red pepper flakes",
+                ]
+            },
+            {
+                instruction: "In a cup, whisk the eggs. Then drizzle the egg mixture into your bubbling soup slowly while stirring your soup, so that strands (and not clumps) of egg cook up and get mixed throughout."+
+                "\nServe hot.",
+                ingredients: [
+                    "2 eggs",
+                ]
+            },
+            {
+                instruction: "Optional before stirring in the whisked egg, add some of the following and heat through:"+
+                "\n\t½ cup chopped cooked chicken."+
+                "\n\t½ cup chopped extra firm tofu (optional: saute your tofu first in a small amount of oil)"+
+                "\n\t½ cup chopped canned bamboo shoots."+
+                "\n\t½ cup chopped canned Asian mini-corns."+
+                "\n\tAll the veggies in step 1 above are optional. Omit all veggies, if you just want a brothy soup for sipping.",
+            },
+        ]
+    },{
+        title: "Molasses Strips",
+        originalBookID: 1,
+        recipeNumber: 22,
+        intro: "Easier than traditional molasses cookies and just as yummy.",
+        description: "Whatever you do, do not forget somehow to add the sugar. The children will remember always that although you may have made thirty batches of cookies every year for their entire childhood, once … ONCE … you forgot the sugar in the molasses strips and the family was left with curiously dry molasses crackers."+
+        "\n2021: I had thought that by admitting the one – O N E - sugarless cookie incident, I could put it behind me. And yet, the story continues to return, like a bad penny. (No pun intended. And where does that phrase come from anyway. What is this “bad penny”? There is no such thing!)"+
+        "\nLet it be known: Until the very recent drop-off in cookie production, for the entire childhoods of the Pruim children there were ample sweet treats for lunches and there was always a yummy dessert option – and almost always something homemade (or ice cream … which we will NOT now years later complain about).",
+        outro: "“There’s a lot of art in cooking. There’s a lot of chemistry in baking.”",
+        steps: [
+            {
+                instruction: "Preheat oven to 375. If you can find two clean cookie sheets, you can bake these all in one batch in the oven.",
+            },{
+                instruction: "Cream together.",
+                ingredients:[
+                    "1 cup sugar",
+                    "1/2 cup vegetable oil",
+                    "1/4 cup molasses",
+                    "1 egg",
+                ]
+            },
+            {
+                instruction: "In a separate bowl combine dry ingredients. Then stir into the creamed mixture until a dough forms."+
+                "\nHeat, stirring occasionally until the soup has thickened and is bubbling gently.",
+                ingredients: [
+                    "1 cup white flour",
+                    "1 cup wheat flour",
+                    "1 ½ t baking soda",
+                    "½ t ground ground cloves",
+                    "½ t salt",
+                    "½ t cinnamon",
+                    "½ t ground ginger",
+                ]
+            },
+            {
+                instruction: "Divide dough into four pieces. Press each piece onto a cookie sheet into a rectangle strip about 3 inches wide and 9 inches long. You can fit two strips onto one good baking sheet. Bake at 375 for 6-7 minutes, or a little longer if you prefer crispy to soft. Remove from oven. Let rest 2 minutes. Cut into strips using a pizza cutter.",
+            },
+        ]
+    },{
+        title: "Zimtsterne - Cinnamon Stars",
+        originalBookID: 1,
+        recipeNumber: 23,
+        intro: "A very German cookie, in the best way.",
+        description: "Cinnamon stars have been a favorite of Dad for as long as the kids can remember. In fact, he usually makes these sometime around Christmas – a big enough batch to bring some to his students and still have some to keep the homebodies happy. These are the opposite of the chewy, sweet cookies that tend to be the family favorites. And yet there’s something about them showing up every December. Even niece Paige said one December after she had moved away, that she missed these cookies."+
+        "\n2021: When Jason traveled back to Germany as an adult in January 2020 (Yes, squeezing that trip in just before the COVID crises effectively shut down international travel for the common person), he made a point to visit Wiblingen where we lived for 6 months when he was 5 years old. He visited the monastery complex where our apartment building stood (where Napoleon stabled his horses), the tiny neighborhood grocer, the local bakery, his nursery school, and the park with the very free-ranging chickens. And he brought back a cookie cutter in the shape of the famous nearby Ulmer cathedral. Although Cinnamon Stars are by definition “stars,” you can, of course, use any cookie cutters that make you happy. My very special Ulm cathedral cookie cutter is mostly a Christmas tree ornament, but I’m thinking that “Cinnamon Cathedrals” has a nice ring to it. Besides if the cookies are bigger, you get to eat more cookie with each serving. Not that anyone ever felt deterred from grabbing two or three stars at a time. In fact, now that I’m thinking about it: I think everyone always takes at least two stars at a time. Inquiring minds want to know: if the Cinnamon stars were Cinnamon cathedrals, would folks serve themselves only one cookie?",
+        outro: "Nothing says “Welcome home!” like freshly baked homemade cookies cooling in the kitchen.",
+        steps: [
+            {
+                instruction: "Preheat oven to 350.",
+            },{
+                instruction: "Mix ingredients together into a stiff dough. "+
+                "\nYou might choose to mix the dry ingredients, then cut in the margarine with a pastry blender, and then work in the eggs until a nice smooth, stiff dough forms."+
+                "\nOR use your Kitchen Aid.",
+                ingredients:[
+                    "4 cup flour",
+                    "3 cups powdered sugar",
+                    "4/5 T cinnamon (yes Tablespoons. Afterall, these are called CINNAMON stars.)",
+                    "1/2 cup margarinne or unsalted butter",
+                    "2 eggs + 2 egg whites (save the yolks for the glaze)",
+                ]
+            },
+            {
+                instruction: "Whisk together your amazing rum glaze and set aside.",
+                ingredients: [
+                    "2 egg yolks",
+                    "2 T rum",
+                ]
+            },
+            {
+                instruction: "Roll out dough to ¼ - 1/3 inch thick. Use your star-shaped cookie cutters and have at it! Other shapes taste equally good. Place your cut-outs onto a cookie sheet and brush with a thin layer of the rum glaze."
+            },
+            {
+                instruction: "Bake 12-15 minutes. Remove to wire rack to cool.",
+            }
+        ]
+    },{
+        title: "Crescent Christmas Cookies",
+        originalBookID: 1,
+        recipeNumber: 24,
+        intro: "Akin to Mexican wedding cookies.",
+        description: "Penny and Aunt Paula grew up with these. They’re called “Christmas Cookies” because they only got made at Christmas and they were always part of Grandma Dykstra’s holiday cookie trays. Alas, when the nut-averse person married into the family, the tradition waned. But now that this recipe has made it into the family Comfort Food Cookbook, someone may have to revive this tradition."+
+        "\n2021: Thanks to Paula for catching the omission of the almond extract in the 2018 version. Grandma Dykstra never forgot the almond extract, one of her favorite baking flavors.",
+        outro: "“C is for cookie.” Especially when it’s shaped like a crescent.",
+        steps: [
+            {
+                instruction: "Preheat oven to 350.",
+            },{
+                instruction: "Mix in order into a stiff dough."+
+                "\nShape 1-inch balls into crescents and circles. Put on greased cookie sheet.",
+                ingredients:[
+                    "1 cup butter",
+                    "¾ cup powdered sugar",
+                    "1 t vanilla",
+                    "1 t almond extract",
+                    "1 cup chopped walnuts",
+                    "2 ½ cups flour",
+                ]
+            },
+        ]
+    },{
+        title: "Banana Cake",
+        originalBookID: 1,
+        recipeNumber: 25,
+        intro: "When your child texts you from a party to ask for the recipe, you better include it.",
+        description: "Our first Valentine’s Day as a married couple, Dad wanted to bake me a cake. Who am I to turn down love, right? I sat doing my homework hearing the mixing and clanging of that love in the kitchen. Things were smelling pretty good when the timer went off. Then there was a gasp. He had tried to tip the cake out of the pan right away without waiting that 10 minutes. Oops. The rough-edged middle of the cake was sitting on the plate while a ring of cake was still stuck in his pan. There was no gluing that together with frosting. Later that evening I did get a very cute, rather small wobbly-heart-shaped single layer cake dessert. And the next day we enjoyed cake crumbles on ice cream. I’m not sure he’s attempted cake since then. But years later I can still feel the love.",
+        outro: "“A party without a cake is just a meeting.”",
+        steps: [
+            {
+                instruction: "Preheat oven to 350. Grease and flour two 9-inch round pans or a 9x13 pan.",
+            },{
+                instruction: "Mix all the wet ingredients together well.",
+                ingredients:[
+                    "3 ripe bananas, peeled and mashed",
+                    "1/2 cup vegetable oil",
+                    "2/3 cup milk mixed with 1 T lemon juice",
+                    "2 eggs",
+                    "1 t vanilla",
+                ]
+            },
+            {
+                instruction: "In a separate bowl, combine dry ingredients. Then mix the dry ingredients into the wet ingredients. Beat on medium for 2 minutes but don’t overdo it.",
+                ingredients: [
+                    "2 1/2 cups flour",
+                    "1 1/2 cups sugar",
+                    "1 1/2 t baking powder",
+                    "1 t baking soda",
+                    "1 t salt",
+                ]
+            },
+            {
+                instruction: "Pour batter into prepared pans. Bake at 350 for 30 minutes or till done. If using 9-inch round pans to make a layered cake, then allow your cake to cool 10 minutes before gently removing the cake from pans to cool on wire racks. Set a timer so you don’t forget. If you cannot manage this last bit, then just make your cake in a 9x13 pan."
+            },
+            {
+                instruction: "Buttercream frosting or cream cheese frosting. Mix together, adjusting as needed for your desired consistency. Do not frost your cake until it has completely cooled.",
+                ingredients: [
+                    "½ cup butter or margarine",
+                    "2 ½ - 3 ½ cups powdered sugar, alternately with tablespoons of milk (about ¼ cup total)",
+                    "1 t vanilla",
+                ]
+            }
+        ]
+    },{
+        title: "Mrs. Miller's Almond Bars",
+        originalBookID: 1,
+        recipeNumber: 26,
+        intro: "These are so rich you can cut small squares and make the pan serve a small army.",
+        description: "For years, every Thursday morning, Grandma Dykstra would meet up with Mrs. Betty Miller. They both worked at and managed the medical offices of their husbands. On Thursdays they both took the morning off, religiously, in order to take turns at each other’s home having coffee. They both cared for their husbands through long, trying illnesses. They both retired, were widowed, and found joy in their children and grandchildren. Grandma was sad when Mrs. Miller moved 3 hours north to be closer to family. Years later they are both buried in the same cemetery, less than a stone’s throw away from each other. I guess now they’re as close as ever.",
+        outro: "Good recipes, like the memories of good friends, linger long in the life of a family.",
+        steps: [
+            {
+                instruction: "Preheat oven to 300.",
+            },{
+                instruction: "In a large mixing bowl cream butter and almond paste. Beat in sugar and eggs, then flour and salt.",
+                ingredients:[
+                    "1 cup butter, softened",
+                    "1 package (8 oz) almond paste",
+                    "1 3/4 cups sugar",
+                    "2 eggs",
+                    "1/2 t salt",
+                    "2 cups flour",
+                ]
+            },
+            {
+                instruction: "Spread batter into a greased 9x13 pan. Bake for 35-45 minutes until lightly browned. ",
+            },
+            {
+                instruction: "Meanwhile mix up your glaze. Combine the powdered sugar, extract, and milk into a nice glaze consistency. Being able to determine “glaze consistency” is life skill. Fortunately, there is also a lot of freedom in deciding what is acceptable glaze consistency. It’s pretty much sugar so you can hardly go wrong.",
+                ingredients:[
+                    "1 1/2 cups powdered sugar",
+                    "1/2 t almond extract",
+                    "3 T milk",
+                ]
+            },
+            {
+                instruction: "Glaze the bars while still warm. When cooled, the glaze will harden slightly. Allow to cool, then cut into small but oh-so-rich bars. Ideal size: 1-inch squares.",
+            }
+        ]
+    },{
+        title: "Sour Cream Almond Coffee Cake",
+        originalBookID: 1,
+        recipeNumber: 27,
+        intro: "The almond recipes go with the Dutch side of the family.",
+        description: "When Penny got sick, baked goods would sometimes show up. This one was so amazing, we had to ask for the recipe. It makes a very special gift. And since the recipe makes two 9-inch cakes, you get to give one away and still have one to enjoy yourself! Carefully remove your cake from the pan and onto a paper plate before glazing and gifting. You will make someone’s day with this special baked treat."+
+        "\n2021: Spending decades in West Michigan, I never realized how challenging it can be to procure almond paste. If it shows up near you around Christmas, buy extra to stock up for baking this almond coffee cake and Mrs. Miller’s Almond bars (Recipe 26). The almond paste takes up room in your fridge, but it’s worth it.",
+        outro: "Nothing says “I care” like something homemade that looks like it took a lot of time, even if it didn’t.",
+        steps: [
+            {
+                instruction: "Preheat oven to 350.",
+            },{
+                instruction: "Cream almond paste and eggs until smooth. Add margarine and sugar and Beat well.",
+                ingredients:[
+                    "1 cup almond paste (8 oz.)",
+                    "2 eggs",
+                    "1 3/4 cup sugar",
+                    "1 cup margarine, softened",
+                ]
+            },
+            {
+                instruction: "Mix in remaining ingredients.",
+                ingredients: [
+                    "1 cup sour createMayBeForwardRefExpression",
+                    "2 cups flour",
+                    "1 t baking powder",
+                    "1/4 t salt",
+                    "1 t vanilla",
+                ]
+            },
+            {
+                instruction: "Pour into two 9-inch round pans. Bake 40-45 minutes. When cool drizzle with a powdered sugar glaze. (Try 1 cup powdered sugar and 1-2 T milk.) Optional: Top with slivered almonds. This freezes well if wrapped in plastic wrap and a freezer bag.",
             }
         ]
     },

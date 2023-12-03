@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site":"pruim-cookbook",
     "public": "www",
     "ignore": [
       "firebase.json",

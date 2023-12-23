@@ -939,7 +939,7 @@ export const RecipeData : Recipe[] = [
             {
                 instruction: "Preheat oven to 350.",
             },{
-                instruction: "Cream almond paste and eggs until smooth. Add margarine and sugar and Beat well.",
+                instruction: "Cream almond paste and eggs until smooth. Add margarine and sugar and beat well.",
                 ingredients:[
                     "1 cup almond paste (8 oz.)",
                     "2 eggs",
@@ -950,7 +950,7 @@ export const RecipeData : Recipe[] = [
             {
                 instruction: "Mix in remaining ingredients.",
                 ingredients: [
-                    "1 cup sour createMayBeForwardRefExpression",
+                    "1 cup sour",
                     "2 cups flour",
                     "1 t baking powder",
                     "1/4 t salt",
@@ -961,7 +961,901 @@ export const RecipeData : Recipe[] = [
                 instruction: "Pour into two 9-inch round pans. Bake 40-45 minutes. When cool drizzle with a powdered sugar glaze. (Try 1 cup powdered sugar and 1-2 T milk.) Optional: Top with slivered almonds. This freezes well if wrapped in plastic wrap and a freezer bag.",
             }
         ]
+    },{
+        title: "Boterkoek (Almond Butter Cake)",
+        originalBookID: 1,
+        recipeNumber: 28,
+        intro: "When you want something Dutchy but don’t have real almond paste in the fridge.",
+        description: "There was a period of several years, when Grandma Dykstra made banket – a lovely log-shaped pastry with a flakey outer dough layer and a yummy almond paste and sugar filling. We all miss her banket which really was better than the store-bought varieties. Boterkoek has some of those same flavors. In fact, folks think this recipe has almond paste in it, even though the lovely flavor is just from almond extract. That makes the recipe a frugal option – even Dutch-ier."+
+        "\n2021: The GREAT thing about this recipe is that it calls for almond extract which is cheaper and easier to find than almond paste. Also, while you should check this out for yourself to be sure, I hear that McCormick brand almond extract is actually nut-free. So, when Hannah who actually loves nuts but is mildly allergic married into the family, I surprised her with this delicious almondy snack that she could enjoy."+
+        "\nThis recipe baked in a 9x13 pan is perfect if you have to provide individually wrapped goods for a bake sale. One of my colleagues had a daughter who made her middle school pocket money by having her dad put out a box of these Boterkoek treats for sale every week at work. ",
+        outro: "Real butter is so often worth it. If you’re not sure, just give it a try.",
+        steps: [
+            {
+                instruction: "Preheat oven to 350.",
+            },{
+                instruction: "Combine with an electric mixer. Beat until fluffy.",
+                ingredients:[
+                    "2 sticks (1 c up) butter, room temperature",
+                    "2 cups white sugar",
+                ]
+            },
+            {
+                instruction: "Add eggs one at a time.",
+                ingredients: [
+                    "3 large eggs (reserve on yolk)"
+                ]
+            },
+            {
+                instruction: "Add dry ingredients. Beat until incorporated. Add the extract. Beat until well-mixed.",
+                ingredients: [
+                    "3 cups flour",
+                    "1 t baking powder",
+                    "2 t almond extract",
+                ]
+            },
+            {
+                instruction: "Divide batter between 2 pie plates or 2 8-inch round or square baking pans. Pie wedges seem more like something you eat with a cute, small dessert fork. Square-ish baked goods can easily be packed in a lunch and served up as finger food. Flatten batter and then brush the top with the reserve egg yolk.",
+            },
+            {
+                instruction: "Bake for 30-35 minutes. Do not overbake. This is better slightly moist and not too dry.",
+            }
+        ]
+    },{
+        title: "Mom's Choclate Pecan Pie (with Pie Crust)",
+        originalBookID: 1,
+        recipeNumber: 29,
+        intro: "A good pecan pie with the extra richness of chocolate.",
+        description: "The family is divided on the nuts. So you know, all the almond and other nutty things aren’t for everyone. These recipes - especially pecan pie - are for those of us who love the flavors and yumminess and are willing to eat dessert alone. BTW:  D-E-S-S-E-R-T has two S’s because FOOD has two O’s."+
+        "\n2021: Tip B: Invest in a silicon pie crust rolling mat. It’s worth it because homemade pie crust is worth the investment."+
+        "\nTip C: This recipe is for two crusts. If you’re bothering to make the bowl, pastry cutter, and mat dirty, you should really just make two crusts (or possibly even four!). If you’re not immediately using more than one crust, then freeze the remaining crust(s), each shaped and placed into a pie plate inside a 2-gallon Ziploc. Having a ready-to-go homemade pie crust in your freezer, makes it a breeze to whip up a quiche and pretty easy to get an apple crumb pie baked in time to serve your in-laws who suggested they could just stop by later this evening",
+        outro: "A mediocre pecan pie isn’t worth eating. A good pecan pie? Worth every decadent bite.",
+        steps: [
+            {
+                instruction: "Make a pie crust (recipe makes 2)",
+            },{
+                instruction: "In a bowl mix together",
+                ingredients:[
+                    "2 cups flour",
+                    "1/2 teaspoon salt",
+                ]
+            },
+            {
+                instruction: "Cut in with a pastry cutter",
+                ingredients: [
+                    "2/3 cup Crisco (shortening)",
+                    "2 T unsalted butter",
+                ]
+            },
+            {
+                instruction: "When your mixture resembles fine crumbles, stir in 4 tablespoons cold water with a fork until a ball starts forming. Your ball should hold together well and not stick too much to your fingers. Adjust as needed by adding a tad more water to a dry mixture or a tad more flour to a wet mixture."+
+                "Form a ball. Divide in half. Roll out each half into a 10 1/2 inch circle. "+
+                "\nTip: Roll this out in between two sheets of wax paper dusted with a little flour. Peel one paper back. The circle of dough should be stuck to the other piece of wax paper and can be easily swooped off the counter and centered over your pie plate. Carefully peel away the second piece of wax paper. And fidget with the dough and the edges until it looks like a pie crust.",
+            },
+            {
+                instruction: "Preheat oven to 400.",
+            },
+            {
+                instruction: "Melt in a saucepan on the stove.",
+                ingredients: [
+                    "1/2 cup butter",
+                ]
+            },
+            {
+                instruction: "Stir in the remaining ingredients and mix well. You can make an excellent pecan pie (sans chocolate) by omitting the chocolate chips and perhaps adding another 1/2 cup of pecans.",
+                ingredients: [
+                    "1 cup brown sugar",
+                    "1/4 cup white sugar",
+                    "2 eggs, beaten",
+                    "1 T flour",
+                    "1 T milk",
+                    "1 t vanilla",
+                    "1 cup chopped pecans",
+                    "3/4 cup choclate chips",
+                ]
+            },
+            {
+                instruction: "Pour mixture into your 9-inch pie crust. Bake at 400 for 10 minutes. Reduce temperature to 350 and back 30-40 minutes."
+            }
+
+        ]
+    },{
+        title: "Danish Puff Pastry (with Sugar glaze)",
+        originalBookID: 1,
+        recipeNumber: 30,
+        intro: "From Grandma Pruim’s files",
+        description: "Store-bought pastries can be a bit dry but this pastry has a moist base and a puff top that is a lot like a cream puff. Don’t bake it too long. Putting this out on a holiday morning is the perfect thing for folks to have with their tea or coffee. If you divide the dough into four pieces and make four smaller sized pastries, they are great for giving as a gift to cheer up someone’s day.",
+        outro: "Danishes do not come from Denmark but rather from Vienna. In fact, danishes in Denmark are called Wienerbrod.",
+        links: [
+            {
+                originalBookID: 1,
+                recipeNumber: 25,
+            }
+        ],
+        steps: [
+            {
+                instruction: "Preheat oven to 350.",
+            },{
+                instruction: "Cut butter into flour. Sprinkle with water. Sitr with fork until reasonably mixed. Using your hand, form a ball. Divide in half. Pat each half into a 4x8 inch strip on a cookie sheet.",
+                ingredients:[
+                    "1 cup flour",
+                    "1/2 cup butter",
+                    "2 T water",
+                ]
+            },
+            {
+                instruction: "Boil butter and water. Remove from heat. Add the flavoring extract. Stir in flour. Then blend in eggs one at a time. Beat after each egg. Spread half of the goo over each pastry strip.",
+                ingredients: [
+                    "1/2 cup butter",
+                    "1 cup water",
+                    "1 t almond or vanilla extract",
+                    "1 cup flour",
+                    "3 eggs",
+                ]
+            },
+            {
+                instruction: "Bake 55-60 minutes.",
+            },
+            {
+                instruction: "Frost with a buttercream frosting. (Refer to Recipe 25 - Banana Cake.)  Alternatively, make sugar glaze (see following)",
+            },
+            {
+                instruction: "Whisk together. Adjust milk for desired consistency",
+                ingredients: [
+                    "1/2 T melted butter",
+                    "1 cup powdered sugar",
+                    "1/2 t vanilla",
+                    "few drops milk",
+                ]
+            }
+        ]
+    },{
+        title: "Lemon Poppy Seed Bread",
+        originalBookID: 1,
+        recipeNumber: 31,
+        intro: "The perfect lemony quick bread to take anywhere.",
+        description: "I generally don’t like pre-packaged stuff. Not on its own and not included in other home cooking. But this recipe is an exception. The lemon cake mix just smells and tastes lemony-er and everyone appreciates the sunshiny flavor.",
+        outro: "A lemony quick bread can please almost as many strangers as chocolate.",
+        steps: [
+            {
+                instruction: "Preheat oven to 350. Grease two 8x5 bread pans.",
+            },
+            {
+                instruction: "Beat all ingredients together until well mixed. Pour into two 8x5 bread pans.",
+                ingredients:[
+                    "1 package lemon cake mix",
+                    "1 package instant vanilla pudding (3 oz)",
+                    "1/4 cup poppy seeds (or fewer if you're not the biggest fan of seedy quick breads)",
+                    "4 eggs",
+                    "1/2 cup vegetable oil",
+                    "1 cup hot tap water",
+                    "lemon essential oil or t lemon zest (optional)",
+                ]
+            },
+            {
+                instruction: "Bake for 40-50 minutes. When toothpick inserted in the middle comes out clean, the breads are done. Remove from oven. Cool 10 minutes. Then carefully remove from pans and allow to finish cooling on a cooling rack.",
+                ingredients: [
+                    "1/2 cup butter",
+                    "1 cup water",
+                    "1 t almond or vanilla extract",
+                    "1 cup flour",
+                    "3 eggs",
+                ]
+            },
+            {
+                instruction: "Bake 55-60 minutes.",
+            },
+            {
+                instruction: "Frost with a buttercream frosting. (Refer to Recipe 25 - Banana Cake.)  Alternatively, make sugar glaze (see following)",
+            },
+            {
+                instruction: "Whisk together. Adjust milk for desired consistency",
+                ingredients: [
+                    "1/2 T melted butter",
+                    "1 cup powdered sugar",
+                    "1/2 t vanilla",
+                    "few drops milk",
+                ]
+            }
+        ]
+    },{
+        title: "Mudballs/Cow Pie Cookies",
+        originalBookID: 1,
+        recipeNumber: 32,
+        intro: "If a peanut butter cup married a box of fudge, these would be their children.",
+        description: "Grandma Dykstra didn’t bake a lot, but at Christmas she always made these cookies. She would carefully measure out the oats and peanut butter in advance so that she could stir them in quickly after the chocolate mixture had boiled just the right amount of time. Then it was a mad dash to drop the mudball mixture onto the cookie sheets while the mixture is still soft and gooey. Perfect glossy mudball cookies were always part of Grandma’s holiday cookie trays. (And once in a while when they weren’t perfectly glossy, we all happily ate them up anyway.)"+
+        "\n2021: Be sure to use quick cook oats in this recipe. Using old-fashioned rolled oats result in an odd texture. This is a decadent chocolatey cookie and should not feel like some strange fiber supplement as you chew. ",
+        outro: "Holidays are all about family and friends and thankfulness and giving. “We don’t want Grandma to make cookies,” said no one ever.",
+        steps: [
+            {
+                instruction: "Measure out the peanut butter and oats first so they’re ready to go, says Grandma Dykstra.",
+            },
+            {
+                instruction: "In a pot, cook together on stove. Bring to a good roiling boil and boil for 1 full minute.",
+                ingredients:[
+                  "2 cups sugar",
+                  "1/2 cup milk",
+                  "1/2 cup margarine",
+                  "1/2 cup cocoa",
+                ]
+            },
+            {
+                instruction: "Remove from heat.",
+            },
+            {
+                instruction: "Stir in as quickly as possible.",
+                ingredients: [
+                    "1/2 cup peanut butter (until melted and mixed in)",
+                    "3 cups quick cook oats",
+                ]
+            },
+            {
+                instruction: "Immediately drop by spoonfuls onto a cookie sheet and let harden. (You can line the sheets with wax paper if you wish.) If you cooked the stuff just the right amount of time the cookies will harden nicely and look glossy. ",
+            },
+        ]
+    },{
+        title: "Nik's Chocolate Chip Cookies",
+        originalBookID: 1,
+        recipeNumber: 33,
+        intro: "Voted best in class by the whole family.",
+        description: "Nik spent a year tweaking chocolate chip cookie recipes to get to this final awesome recipe winner. Yes, the brothers suffered through a year of cookie testing. Poor things. This recipe is purposely twice the size of most cookie recipes because otherwise there are not enough cookies to keep the natives from getting restless … or greedy. Seriously."+
+        "\nAfter years of being the cookie sous chef for Anika, Jason determined that he can indeed make these cookies all by himself. Plus, with his big brother living across town, Jason can easily control how many cookies to allot to his cookie-monster sibling. And another delightful Jason discovery is that you can store made cookie dough in the refrigerator for at least a week, making it easy to have fresh, warm, gooey cookies right now and then again in a few days. This is true unless someone in the house has a secret addiction to raw cookie dough. (This has not been proven to be the case, but occasionally we have our suspicions.)",
+        outro: "“Think what a better world it would be if we all, the whole world, had cookies and milk about three o’clock every afternoon and then lay down on our blankets for a nap.” – Barbara Jordan",
+        steps: [
+            {
+                instruction: "Preheat oven to 350. Make sure no one has snooped your precious chocolate chips.",
+            },
+            {
+                instruction: "Cream shortening and butter/margarine together until smooth. Then mix in brown sugar and sugar until evenly mixed.",
+                ingredients:[
+                  "1 cup shortening",
+                  "1 cup butter/margarine",
+                  "2 cups brown sugar",
+                  "1 cup sugar",
+                ]
+            },
+            {
+                instruction: "beat in eggs one at a time. Then beat in vanilla.",
+                ingredients: [
+                    "4 eggs",
+                    "2 t vanilla (more never hurt)",
+                ]
+            },
+            {
+                instruction: "In a separate bowl combine dry ingredients. Then slowly add the dry stuff to the butter mixture until smooth.",
+                ingredients: [
+                    "5 cups flour",
+                    "1 t baking soda",
+                    "1/2 t salt",
+                ]
+            },
+            {
+                instruction: "You do know what to do with these, right? “Eat half of them while making the cookie dough” is not the answer.",
+                ingredients: [
+                    "2 1/2 cups chocolate chips",
+                ]
+            },
+            {
+                instruction: "Scoop large spoonfuls onto ungreased cookie sheets. Bake at 350 for 9-12 minutess (it always takes longer....) or until edges start to brown. Remove from oven and cool on racks."
+            }
+        ]
+    },{
+        title: "Cocoa Dough Cookies",
+        originalBookID: 1,
+        recipeNumber: 34,
+        intro: "A chocolate cookie dough with stir-ins.",
+        description: "Once in a great while you need a change from Anika’s chocolate chip cookies. These fit the bill while still providing a serious chocolate fix.", 
+        outro: "““Fruit … or cookie … fruit … cookie. Me Cookie Monster! This no-brainer.” - Cookie Monster",
+        steps: [
+            {
+                instruction: "Preheat oven to 350.",
+            },
+            {
+                instruction: "Cream together until light and fluffy.",
+                ingredients:[
+                  "1 1/4 cups butter or margarine",
+                  "2 cups sugar",
+                ]
+            },
+            {
+                instruction: "Add and beat well.",
+                ingredients: [
+                    "2 eggs",
+                    "2 t vanilla",
+                ]
+            },
+            {
+                instruction: "Combine dry ingredients in a separate bowl. Then blend into creamed mixture.",
+                ingredients: [
+                    "2 cups flour",
+                    "3/4 cup cocoa",
+                    "1 t baking soda",
+                    "1/2 t salt",
+                ]
+            },
+            {
+                instruction: "Fold in your chosen stir-ins.",
+                ingredients: [
+                    "2 cups (12 oz) peanut butter or",
+                    "2 cups chocolate chips or",
+                    "2 cups white chocolate chips or",
+                    "2 cups total of raisings, nuts , and baking chips",
+                ]
+            },
+            {
+                instruction: "Drop by spoon-fuls onto ungreased cookie sheets. Bake 8-9 minutes. Cool slightly, then remove from pan onto cooling rack.",
+            }
+        ]
+    },{
+        title: "Snicker Surprise Cookies",
+        originalBookID: 1,
+        recipeNumber: 35,
+        intro: "These seem like regular peanut butter cookies until you bite into the gooey snicker yum in the middle. Surprise!",
+        description: "The most difficult part about making these cookies is buying the bag of snicker bars and then not eating them up before you get around to baking the cookies. Unwrapping the candy and cutting the bars into small squares is a great job for one of the kids. Just be sure to purchase enough candy bars to pay your workers.", 
+        outro: "Life is short. Surround yourself with good people and only eat good cookies.",
+        steps: [
+            {
+                instruction: "Preheat oven to 350.",
+            },
+            {
+                instruction: "Combine in a bowl.",
+                ingredients:[
+                  "1 3/4 cups flour",
+                  "1/2 cup sugar",
+                  "1/2 t baking soda",
+                  "1/4 t salt",
+                ]
+            },
+            {
+                instruction: "Cut in with a pastry cutter.",
+                ingredients: [
+                    "/2 cup butter or margarine",
+                    "1/2 cup peanut butter",
+                ]
+            },
+            {
+                instruction: "Add and mix into a dough.",
+                ingredients: [
+                    "1/4 cup honey",
+                    "1 T milk",
+                ]
+            },
+            {
+                instruction: "Cut snicker bars into small bits. You’ll need 30-36 of them. Buy accordingly because you will want to have some candy bars for snacking. Shape dough thinly around each piece of snickers. You can eat these “raw” but you really should bake them. Place the balls of dough on a cookie sheet and bake for 15 minutes.",
+            }
+        ]
+    },{
+        title: "Mom's Brownies",
+        originalBookID: 1,
+        recipeNumber: 36,
+        intro: "Way better than brownies from a box. Way.",
+        description: "Let’s set the record straight: Brownie points DO sometimes turn into brownies. It’s just that a pan of from-scratch homemade brownies doesn’t last very long – everyone who wanders through the kitchen cuts themselves a little square or two little squares … aw, heck, two biggish squares … and then before you know it, the brownies are gone. I have planned on serving brownies for dessert but when we open the lid, BEHOLD there’s not enough left for satisfactory dessert portions for everyone. This is not the fault of the mother. Just saying. You know who you are.", 
+        outro: "“True love is when there are only two brownies left, and he takes the smaller one.”",
+        steps: [
+            {
+                instruction: "Preheat oven to 350. Grease a 9x13 pan.",
+            },
+            {
+                instruction: "Microwave for 3-4 minutes, stirring a couple times, until bubbly and mixed.",
+                ingredients:[
+                    "1 stick butter/margarine",
+                    "2 cups sugar",
+                    "2 T water",
+                ]
+            },
+            {
+                instruction: "Stir in until melted.",
+                ingredients: [
+                    "4 oz unsweetened baking chocolate",
+                ]
+            },
+            {
+                instruction: "Stir in one at a time until completely mixed.",
+                ingredients: [
+                    "2 eggs",
+                ]
+            },
+            {
+                instruction: "Mix in a separate bowl. Then stir into the chocolate mixture until mixed, but don’t keep stirring after that.",
+                ingredients: [
+                    "1 1/3 cups flour",
+                    "1/4 t. baking soda",
+                    "1/4 t salt",
+                ]
+            },
+            {
+                instruction: "Stir in.",
+                ingredients: [
+                    "1 t vanilla or 2 t if you're trying to impress a new girlfriend."
+                ]
+            },
+            {
+                instruction: "Pour into your greased baking pan. Bake at 350 for 15-20 minutes."
+            }
+        ]
+    },{
+        title: "Peanut Butter Chocolate Chip Bars",
+        originalBookID: 1,
+        recipeNumber: 37,
+        intro: "Peanut butter and chocolate again? Trust me. No one complains.",
+        description: "Sometimes you want a cookie but you don’t have the time or quite enough energy to make a good batch. These bars are your answer. They whip up pretty quickly and no one who sees a plate-full of these bars complains about not having cookies.", 
+        outro: "“Peanut butter is the paté of childhood.” – Florence Fabricant",
+        steps: [
+            {
+                instruction: "Preheat oven to 350. Grease a 9x13 pan.",
+            },
+            {
+                instruction: "Cream together until light and fluffy.",
+                ingredients:[
+                    "1/2 cup butter",
+                    "1/2 cup sugar",
+                    "1/2 cup brown sugar",
+                    "1/2 cup peanut butter",
+                ]
+            },
+            {
+                instruction: "Beat into mixture.",
+                ingredients: [
+                    "1 egg",
+                    "1 t vanilla",
+                ]
+            },
+            {
+                instruction: "Combine in a separate bowl. Then mix these dry ingredients into your creamed batter.",
+                ingredients: [
+                    "1 cup flour",
+                    "1/2 cup quick cooking oats",
+                    "1 t baking soda",
+                    "1/4 t salt",
+                ]
+            },
+            {
+                instruction: "Spread the dough evenly into your pan. Sprinkle chocolate chips over the top.",
+                ingredients: [
+                    "1 cup chocolate chips",
+                ]
+            },
+            {
+                instruction: "Bake for 20-25 minutes or until lightly brown. Remove from oven and allow to cool for 10 minutes.",
+            },
+            {
+                instruction: "Whisk together icing ingredients and drizzle on top of the baked bars. Cool completely, unless you can’t help yourself and have to exercise some quality control while the bars are still warm. When cool cut into bars.",
+                ingredients: [
+                    "1/2 cup powdered suar",
+                    "2 T creamy peanut butter",
+                    "1-2 T milk",
+                ]
+            }
+        ]
+    },{
+        title: "Deep Black Magic Cake",
+        originalBookID: 1,
+        recipeNumber: 38,
+        intro: "Moist, rich chocolatey. Everyone’s favorite.",
+        description: "This is the most often requested birthday dessert, but I resisted calling this “birthday cake.” All our birthdays are in the first half of the year. This hasn’t changed even since two significant others joined the family. Their birthdays are also in the early months of the year. So sometimes we just have to bake the cake when there is no birthday. After all, you really can’t expect us to go eight months without this amazing chocolate cake. FYI: If someone (anyone) in the extended Pruim family requests chocolate cake, they mean THIS RECIPE.", 
+        outro: "“All you need is love. But a little chocolate now and then doesn’t hurt.” – Charles M. Schulz",
+        steps: [
+            {
+                instruction: "Preheat oven to 350. Grease and flour two 9-inch round baking pans or one 9x13 pan.",
+            },
+            {
+                instruction: "Blend dry ingredients in a large bowl.",
+                ingredients:[
+                    "2 cups sugar",
+                    "1 3/4 cups flour",
+                    "3/4 cup cocoa, preferably dark",
+                    "2 t baking soda",
+                    "1 t baking powder",
+                    "1 t salt",
+                ]
+            },
+            {
+                instruction: "Add wet ingredients and beat at medium speed for 2 minutes. The batter will be thin. Don’t tell anyone there is coffee in the batter. It doesn’t taste at all like mocha, just super rich chocolate.",
+                ingredients: [
+                  "2 eggs",
+                  "1 cup strong black coffeee (or 2 t instant coffee plus 1/2 cup boiling water and 1/2 cup cold water)",
+                  "1 cup milk with 1 T lemon juice mixed in",
+                  "1/2 cup vegetable oil",
+                  "1 t vanilla, or 2 t vanilla if you're feeling giddy",
+                ]
+            },
+            {
+                instruction: "Pour batter into prepared pan(s). Bake 30-35 minutes for round pans or 35-40 minutes for a rectangular pan or until wooden pick inserted in the center comes out clean. Cool 10 minutes. Remove from pans carefully to wire racks. Cool completely before frosting as desired.",
+            },
+            {
+                instruction: "Spread the dough evenly into your pan. Sprinkle chocolate chips over the top.",
+                ingredients: [
+                    "1 cup chocolate chips",
+                ]
+            },
+            {
+                instruction: "Bake for 20-25 minutes or until lightly brown. Remove from oven and allow to cool for 10 minutes.",
+            },
+            {
+                instruction: "Whisk together icing ingredients and drizzle on top of the baked bars. Cool completely, unless you can’t help yourself and have to exercise some quality control while the bars are still warm. When cool cut into bars.",
+                ingredients: [
+                    "1/2 cup powdered suar",
+                    "2 T creamy peanut butter",
+                    "1-2 T milk",
+                ]
+            },
+            {
+                instruction: "Frosting option 1 -- Cocoa buttercream frosting. Mix together in order, adjusting as needed for your ideal consistency.",
+                ingredients: [
+                    "1/2 cup u nsalted butter, softened",
+                    "1/2 cup cocoa",
+                    "2 1/2 -3 cups powdered sugar alternately with tablespoons of milk (about 1/4 cup total)",
+                    "1 t vanilla",
+                ]
+            },
+            {
+                instruction: "Frosting option 2 -- Chocolate glaze. In a small saucepan stir together over medium heat until mixture begins to boil. Remove from heat and stir in 1 cup chocolate chips until melted. Cool to room temperature then pour glaze over your Bundt cake or the top of your round cake and let it drip down the sides. If you use this glaze on the top of a layer cake, put flavored whipped cream or cool whip in between your cake layers.",
+                ingredients: [
+                    "3 T butter",
+                    "3 T light corn syrup",
+                    "1 T water",
+                ]
+            }
+        ]
+    },{
+        title: "Mocha Chip Muffins",
+        originalBookID: 1,
+        recipeNumber: 39,
+        intro: "When you need to send or offer up cupcakes for any occasion, whip these up. Much better than from a box.",
+        description: "Whether it’s your first-grader’s birthday treat, the soccer team snacks, or the need to bribe your committee into alertness at that 8 o’clock meeting, these mocha treats whip up pretty quickly, travel well, and make people happy. Plus, they are so moist and rich that you don’t need frosting. I’m not saying you can’t put some yummy topping on them, but you don’t have to. They stand on their own.", 
+        outro: "What’s the difference between a muffin and a cupcake? Muffins can be eaten any time of day without guilt.",
+        steps: [
+            {
+                instruction: "Preheat oven to 375. Put muffin papers in your muffin tin.",
+            },
+            {
+                instruction: "Mix dry ingredients together in a large bowl.",
+                ingredients:[
+                   "1 1/2 cups flour",
+                   "3/4 cup sugar",
+                   "1/4 cup cocoa",
+                   "2 1/2 t baking powder",
+                   "1/2 t salt",
+                   "2 t instant coffee powcer",
+                ]
+            },
+            {
+                instruction: "In a second bowl whisk together wet ingredients.",
+                ingredients: [
+                    "1 cup milk",
+                    "1/2 cup canola oil",
+                    "3 T yogurt",
+                    "1 t vanilla",
+                ]
+            },
+            {
+                instruction: "Stir wet ingredients into dry ingredients until everything is evenly moist but don’t over stir. Fold in the chocolate chips. (“Fold” is a fancy way to say “mix with as little stirring as possible.”)",
+                ingredients: [
+                    "1/2 cup chocolate chips",
+                ]
+            },
+            {
+                instruction: "Fill muffin cups three-quarters full. Bake 18-20 minutes or until toothpick inserted in the middle comes out clean.",
+            },
+            {
+                instruction: "Option: Since there’s no eggs in this recipe, you can easily make these vegan by using vegan milk and yogurt options.",
+            },
+        ]
+    },{
+        title: "Chocolate Pudding",
+        originalBookID: 1,
+        recipeNumber: 40,
+        intro: "Barely more work than pudding from a box and you can adjust the recipe in yummy ways.",
+        description: "I was strictly a pudding-from-a-box person until I lived in New Zealand. Either the boxed stuff was too expensive or I didn’t find them in the store. In any case, homemade pudding became one of our go-to desserts. Italian cocoa is a dessert that a friend in Germany made for me from a box imported from Italy. It was a super thick and rich drinkable cocoa and was so much like pudding I figured I could figure out how to make it myself from scratch back in the USA."+
+            "\nXtra Dark Chocolate Pudding - Use extra dark cocoa and add an extra T of cocoa and an extra T of sugar. Xtra Rich Chocolate Pudding - Increase the butter to 3 tablespoons and the vanilla to 2 teaspoons. Xtra Creamy Pudding - Use whole milk or 2% instead of skim. Yup. Yum.", 
+        outro: " “There is nothing better than a friend, unless it is a friend with chocolate.” – Linda Grayson",
+        steps: [
+            {
+                instruction: "Basic pudding",
+            },
+            {
+                instruction: "In a saucepan mix together dry ingredients.",
+                ingredients: [
+                    "1/2 cup sugar",
+                    "1/3 cup cocoa",
+                    "1/4 cup cornstarch",
+                    "1/4 t salt",
+                ]
+            },
+            {
+                instruction: "Whisk in milk. Cook over medium heat stirring constantly until thick and bubbly.",
+                ingredients:[
+                  "3 cups milk"
+                ]
+            },
+            {
+                instruction: "Remove from heat and stir in butter and vanilla. Pour into cups or small bowls. Serve warm. Vanilla ice cream is optional but highly recommended. Or you can let it cool and chill it for cold pudding later, but don’t be surprised if that cup of warm pudding you’re trying to cool for later mysteriously disappears.",
+                ingredients: [
+                    "1 T butter",
+                    "1 t vanilla",
+                ]
+            },
+            {
+                instruction: "Mom's Italian Cocoa",
+            },
+            {
+                instruction: "In your saucepan mix together these ingredients.",
+                ingredients: [
+                    "1/2 cup sugar",
+                    "1/4 cup powdered sugar",
+                    "1/2 cup cocoa",
+                    "1/4 cup cornstarch",
+                    "1/4 t salt",
+                ],
+            },
+            {
+                instruction: "Whisk in milk. Cook over medium heat stirring constantly until thick and bubbly.",
+                ingredients: [
+                    "4 cups milk",
+                ]
+            },
+            {
+                instruction: "Remove from heat and stir in vanilla. Pour into cups or small mugs. Serve warm. This version is almost drinkable but you’ll still want a spoon.",
+                ingredients: [
+                    "1-2 t vanilla",
+                ]
+            }
+        ]
+    },{
+        title: "Hot fudge Pudding Cake",
+        originalBookID: 1,
+        recipeNumber: 41,
+        intro: "If you’ve got 15 minutes, you can do this. Let it bake during dinner. Everyone will thank you.",
+        description: "Hot fudge pudding cake used to be the go-to recipe when the kids needed some love and mom was short on time. Then somehow it became a favorite homey dessert. Nowadays with fewer people regularly around the table there are even leftovers which a certain somebody likes to eat for breakfast. Yes, breakfast. It’s probably healthier than chocolate donuts, so who am I to judge. It has been duly noted that daughter-in-law Hannah frequently makes this recipe, proving that with the right recipe it is possible to keep the choco-holics in your circle of care satisfied while managing your full-time job, a new home, and three pets.", 
+        outro: "“Chocolate is comfort without words.” – Ursula Kohaupt",
+        steps: [
+            {
+                instruction: "Oven version",
+            },
+            {
+                instruction: "Preheat oven to 350. Find the 9-inch square pan you save for this dessert.",
+            },
+            {
+                instruction: "In medium bowl, stir together dry ingredients.",
+                ingredients:[
+                    "3/4 cup sugar",
+                    "1 cup flour",
+                    "3 T cocoa",
+                    "2 t baking powder",
+                    "1/4 t salt",
+                ]
+            },
+            {
+                instruction: "In a glass bowl or pitcher, melt the butter in the microwave. Then add milk and vanilla.",
+                ingredients: [
+                    "1/3 cup butter or margarine",
+                    "1/2 cup milk",
+                    "1 1/2 t vanilla",
+                ]
+            },
+            {
+                instruction: "Pour liquids into dry ingredients and mix until smooth. Spread cake batter evenly into a 9-inch square pan.",
+            },
+            {
+                instruction: "In a separate bowl stir together the pudding ingredients. Then sprinkle this pudding powder over the top of your cake batter.",
+                ingredients: [
+                   "1/2 cup sugar",
+                   "1/2 cup light brown sugar",
+                   "4 T cocoa",
+                ],
+            },
+            {
+                instruction: "Pour hot water over the top of the pudding powder but do not stir.",
+                ingredients: [
+                    "1 1/4 cups hot water",
+                ]
+            },
+            {
+                instruction: "Bake 35-40 minutes until center is almost set. Let stand 10-15 minutes. Serve up, being sure to spoon up sauce from the bottom of the pan for each serving, so that no one complains about not getting enough fudge. Vanilla ice cream? Whipped cream? YES!",
+            },
+            {
+                instruction: "Crock pot version. For when turning on the oven is too much work.",
+            },
+            {
+                instruction: "Grease your slow cooker crock pot.",
+            },
+            {
+                instruction: "Mix together in a bowl.",
+                ingredients: [
+                    "1 cup flour",
+                    "1/2 cup sugar",
+                    "2 T cocoa",
+                    "2 t baking powder",
+                    "1/2 t salt",
+                ]
+            },
+            {
+                instruction: "Stir in the liquid ingredients. Then spread the batter evenly in your createSocket.",
+                ingredients: [
+                    "1/2 cup milk",
+                    "2 T oil",
+                    "1 t avnilla",
+                ]
+            },
+            {
+                instruction: "In a small bowl whisk together into a syrup.",
+                ingredients: [
+                    "3/4 cup brown sugar",
+                    "1/4 cup cocoa",
+                    "1 1/2 cups hot water",
+                ]
+            },
+            {
+                instruction: "Pour the syrup evenly over batter. Cover the crock and cook on HIGH heat setting for 2 – 2.5 hours or until toothpick comes out clean. Turn off crockpot. Uncover. Let stand 30 minutes unless the chocolatey yummy smells overwhelm you and you find yourself digging in a little sooner."
+            }
+        ]
+    },{
+        title: "Chocolate Cheesecake",
+        originalBookID: 1,
+        recipeNumber: 42,
+        intro: "Creamy and tangy and fudgy and yum.",
+        description: "This chocolate cheesecake used to be one of the oft requested birthday desserts until 3/5 of us became lactose intolerant. So, when I make this for the 2/5 of us, you KNOW it is love."+
+            "\n2021: Alas, it seems that we are now 4/7 lactose intolerant. How can this happen to a Green Bay Packers fan and an avowed cheese-a-holic?! The good news is that cheesy or creamy goodness is still possible using many of the recipes and recipe options in the Comfort Food cookbook. In many cases, all you have to do is use lactose-free milk options for the milk ingredient and, when appropriate, reach for a modest amount of aged cheese or parmesan.", 
+        outro: "Chocolate is cheaper than therapy, and you don’t need an appointment.",
+        steps: [
+            {
+                instruction: "Prepare graham cracker crust. Mix the crust ingredients. Then press mixture onto bottom and halfway up side of a 9-inch springform pan.",
+                ingredients: [
+                    "1 1/2 cups graham cracker crumbs",
+                    "1/3 cup sugar",
+                    "1/3 cup melted butter or margarine",
+                ]
+            },
+            {
+                instruction: "Beat cream cheese. Then mix in sugar, cocoa and vanilla until light and fluffy. Add eggs and blend well. Pour into prepared crust.",
+                ingredients: [
+                    "2 (8 oz) packages cream cheese",
+                    "3/4 cup sugar",
+                    "1/2 cup cocoa",
+                    "1 t vanilla",
+                    "2 eggs."
+                ]
+            },
+            {
+                instruction: "Bake at 375 for 20 minutes. Remove from oven. Cool 15 minutes.",
+            },
+            {
+                instruction: "Combine sour cream, sugar and vanilla. Stir until smooth. Spread evenly over baked filling. ",
+                ingredients: [
+                    "1 cup sour cream",
+                    "2 T sugar",
+                    "1 t vanilla",
+                ]
+            },
+            {
+                instruction: "Bake at 425 for 10 minutes. Cool. Chill several hours or overnight.",
+            },
+        ]
+    },{
+        title: "Cheese Fondue",
+        originalBookID: 100,
+        recipeNumber: 1,
+        intro: "Cheese is the main course. Cheese is delicious. Cheese fondue is delicious",
+        description: "Cheese fondue is best served with sliced apple and bread. Honeycrisp apples and homemade bread are the go to favorites. Feel free to scale the recipe up or down to suit your needs. 1 pound of cheese feeds 4-5.", 
+        outro: "There can never be too much cheese",
+        steps: [
+            {
+                instruction: "Choose your cheeses. Gruyere is the classic fondue cheese. This is the default cheeses for the family. Shred cheese into a large bowl.",
+                ingredients: [
+                    "1/3 lb. Gruyere",
+                    "1/3 lb. Fontina",
+                    "1/3 lb. Gouda (not smoked)",
+                ]
+            },
+            {
+                instruction: "Add to cheese and mix thoroughly.",
+                ingredients: [
+                    "2 T cornstarch",
+                ]
+            },
+            {
+                instruction: "Rub garlic into the fondue pot before heating.",
+                ingredients: [
+                    "1-2 cloves garlic (or minced in a pinch)",
+                ]
+            },
+            {
+                instruction: "Pour liquids into the fondue pot and heat.",
+                ingredients: [
+                    "1 cup dry white wine (e.g. Sauvignon Blanc)",
+                    "1 T lemon juice (optional)",
+                ]
+            },
+            {
+                instruction: "Add in cheese mixture slowly. Stir continuously to prevent the cheese from turning stringy. If the cheese is refusing to combine with the wine, add extra cornstarch to the cheese. Strangely enough cornstarch facilitates the mixing of wine and cheese.",
+            },
+            {
+                instruction: "Serve immediately.",
+            },
+        ]
     },
+    // {
+    //     title: "Pork Braised with Chilies",
+    //     originalBookID: 100,
+    //     recipeNumber: 10,
+    //     intro: "Sometimes you want pork, othertimes you have pork and don't know what to do with it. This recipe is your solution.",
+    //     description: "", 
+    //     outro: "",
+    //     steps: [
+    //         {
+    //             instruction: "The day before, salt poke generously and refrigerate.",
+    //             ingredients: [
+    //                 "4 pounds boneless pork shoulder",
+    //                 "salt"
+    //             ]
+    //         },
+    //         {
+    //             instruction: "Preheat 325",
+    //         },
+    //         {
+    //             instruction: "Seperate the garlic head into cloves. Then slice the cloves in half and set aside until later.",
+    //         },
+    //         {
+    //             instruction: "Heat a Dutch oven over medium-high heat. ",
+    //             ingredients: [
+    //                 "2 cups flour",
+    //                 "3/4 cup cocoa",
+    //                 "1 t baking soda",
+    //                 "1/2 t salt",
+    //             ]
+    //         },
+    //         {
+    //             instruction: "Fold in your chosen stir-ins.",
+    //             ingredients: [
+    //                 "2 cups (12 oz) peanut butter or",
+    //                 "2 cups chocolate chips or",
+    //                 "2 cups white chocolate chips or",
+    //                 "2 cups total of raisings, nuts , and baking chips",
+    //             ]
+    //         },
+    //         {
+    //             instruction: "Drop by spoon-fuls onto ungreased cookie sheets. Bake 8-9 minutes. Cool slightly, then remove from pan onto cooling rack.",
+    //         }
+    //     ]
+    // },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     
 
 ]
@@ -972,6 +1866,13 @@ export const BookData : Book[] = [
         id: 1,
         imageLink: "",
         intro: "For Jason who has been asking for the family recipes for years",
+        edition: 2,
+    },
+    {
+        title: "Recipes from Family and Friends",
+        id: 100,
+        imageLink: "",
+        intro: "A collection of miscellaneous recipes not located in any of Penny's books",
         edition: 2,
     }
 ]

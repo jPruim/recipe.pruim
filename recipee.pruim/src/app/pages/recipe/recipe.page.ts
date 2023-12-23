@@ -29,9 +29,6 @@ export class RecipePage implements OnInit {
     } else {
       this.recipe = recipes[0];
       this.hasImage = this.recipe.imageLink !== undefined && this.recipe.imageLink !== "";
-      console.log(this.recipe.imageLink);
     }
-
   }
-
 }

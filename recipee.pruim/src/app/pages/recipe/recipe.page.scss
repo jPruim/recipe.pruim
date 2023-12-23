@@ -2,12 +2,16 @@
     white-space: pre-wrap;
     text-align: center;
     font-style: italic;
+    color: var(--ion-color-light);
 }
 .outro-text{
     white-space: pre-wrap;
     text-align: center;
     font-style: italic;
+    color: var(--ion-color-light);
 }
 .description-text{
-    white-space: pre-wrap;
+    white-space: wrap;
+    color: var(--ion-color-light);
+
 }

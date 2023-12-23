@@ -28,18 +28,15 @@ const routes: Routes = [
     path: 'book-list',
     loadChildren: () => import('./pages/book-list/book-list.module').then( m => m.BookListPageModule)
   },
-
-
-
-
-
-
-
-
+  {
+    path: 'book-content/:bookID',
+    loadChildren: () => import('./pages/book-content/book-content.module').then( m => m.BookContentPageModule)
+  },
   {
     path: '**',
     loadChildren: () => import('./pages/page-not-found/page-not-found.module').then( m => m.PageNotFoundPageModule)
   },
+
 ];
 
 

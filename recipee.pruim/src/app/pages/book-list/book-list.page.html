@@ -1,10 +1,10 @@
 <app-header></app-header>
 <ion-content [fullscreen]="true">
-  <div class="page-container background-color-black">
-    <div class="main-page background-color-theme-black">
-      <div class="section background-color-theme-black">
+  <div class="page-container background-color-theme-4">
+    <div class="main-page background-color-theme-4">
+      <div class="section background-color-theme-4">
         <div class="container-header-text">
-          <h1 class="header-text color-theme-2">Table of Contents</h1>
+          <h1 class="header-text color-theme-2">Books and Collections of Recipes</h1>
         </div>
         <div class="subsection">
           <p class="subsection-text">
@@ -12,7 +12,7 @@
           </p>
           <div *ngFor="let book of bookArray">
             <app-card [title]="book.title || ''" [description]="book.intro"
-              [destination]="''"></app-card>
+              [destination]="'book-content' + '/' + book.id"></app-card>
           </div>
         </div>
       </div>

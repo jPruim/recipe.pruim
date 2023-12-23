@@ -1,0 +1,23 @@
+<app-header></app-header>
+<ion-content [fullscreen]="true">
+  <div class="page-container background-color-theme-4">
+    <div class="main-page background-color-theme-4">
+      <div class="section background-color-theme-4">
+        <div class="container-header-text">
+          <h1 class="header-text color-theme-2">{{book.title}}</h1>
+        </div>
+        <div class="subsection">
+          <app-image></app-image>
+          <p class="subsection-text color-theme-light">
+            {{book.intro}}
+          </p>
+          <div class="background-color-theme-2 recipe-list-container">
+            <div *ngFor="let recipe of recipes" >
+              <a href="{{'recipe/'+recipe.originalBookID + '/'+ recipe.recipeNumber}}" class="color-theme-black recipe-list-link">{{recipe?.recipeNumber}}: {{recipe?.title}}</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</ion-content>

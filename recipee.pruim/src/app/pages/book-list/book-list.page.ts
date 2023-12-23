@@ -12,12 +12,9 @@ export class BookListPage implements OnInit {
 
   ngOnInit() {
     this.bookArray = BookData;
-    console.log(this.bookArray);
     this.bookArray.forEach( (el) => {
       el?.intro?.length ?? 0 > 150 ? el.intro = el.intro.slice(0,140) + "...": '';
-    })
-    console.log(this.bookArray);
-  
+    })  
   }
   
 

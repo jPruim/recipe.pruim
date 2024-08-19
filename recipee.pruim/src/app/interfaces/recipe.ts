@@ -8,6 +8,8 @@ export interface Recipe {
     steps?: Step[];
     imageLink?: string; 
     categoryID?: number;
+    reviews?: Reviews;
+    preparationTime?: string;
     lastEdit?: string;
     links?: RecipeRef[];
 }
@@ -15,6 +17,11 @@ export interface Recipe {
 export interface RecipeRef {
     originalBookID: number,
     recipeNumber: number,
+}
+
+
+export interface Reviews {
+    [key:string]: string
 }
 
 export interface IngredientList {

@@ -1768,6 +1768,43 @@ export const RecipeData : Recipe[] = [
             },
         ]
     },
+    {
+        title: "Pancakes",
+        originalBookID: 2,
+        recipeNumber: 1,
+        preparationTime: "15 minutes",
+        intro: "Homemade pancakes are a warm, comforting wakeup. Ready mixes are popular, but these homemade ones are free of preservatives  and anti-caking agents. And, hey, they’re HOMEMADE which should create warm appreciation from all the eaters.",
+        description: "Tips: The reason why Grandma likes the pancakes at the Old Country restaurant is because they fry their batter on very greasy griddles.  After years of trying to make very healthy pancakes on non-stick surfaces, we’ve decided that if we just put a little bit of oil on the  griddle or fry pan, folks are more likely to rave about the results. In any case, if the first batch is cooked in a lightly oiled pan,  everyone will decide it’s worth having a good portion, even if subsequent batches are almost fat-free. Then we will deem breakfast  worth making. Of course, even very healthy pancakes cooked with no oil will be eaten if smothered, layered or rolled with enough of  the right toppings. ", 
+        outro: "Legal Cheats: Mix dry stuff in bowl #1 and wet stuff in bowl #2 the night before (storing the liquids in fridge). Wait until morning  to combine (which only takes 40 seconds and can be done easily while yawning and before your eyes have completely adjusted to the  kitchen light). Illegal Cheats: Do not cook up pancakes the night before if you want warm ones for breakfast. If you try to microwave them back  to life, they’ll get soggy. If you think the toaster is a good option, … just buy the frozen ones. Up early? Mix up the batter and let it sit while you take a shower. This relaxes the batter. You may not have known that the batter  was stressed to begin with, but letting the batter be bored for a few minutes seems to make for friendlier pancakes. Resist stirring the  batter again when you start frying cakes. Too much stirring annoys the batter. Happy batter makes happy pancakes. ",
+        reviews: {
+            "AJ": "The more chocolate the better.",
+            "NQ":  "Thinner is better, rolled up with strawberry jam and tgopped with enough whipped topping to make Mom just frown",
+            "JJ: Pancakes aren't my Favorite, but I like snowman shapes if Mom uses chocolate chips for the buttons and not raisins",
+        },
+        steps: [
+            {
+                instruction: "Mix dry stuff in bowl #1",
+                ingredients: [
+                    "1 1/4 cups flour",
+                    "2 t baking powder",
+                    "2 T sugar",
+                ]
+            },
+            {
+                instruction: "Mix wet stuff in bowl #2",
+                ingredients: [
+                    "1 egg",
+                    "1 1/4 cup milk",
+                    "1 T vegetable oil",
+                    "1 t lemon juice (for fluffiness)"
+                ]
+            },
+            {
+                instruction: "Combine the dry stuff and the wet stuff with as few strokes as possible. Pour a 4-5 inch circle of batter onto a hot greased, seasoned or non-stick griddle (about 325 degrees). When bubbles form and barely begin  popping, flip the pancakes. Remove pancakes after another 30-60 seconds and serve.",
+            },
+        ]
+    },
+    
     // {
     //     title: "Pork Braised with Chilies",
     //     originalBookID: 100,
@@ -1860,6 +1897,13 @@ export const BookData : Book[] = [
         id: 1,
         imageLink: "",
         intro: "For Jason who has been asking for the family recipes for years",
+        edition: 2,
+    },
+    {
+        title: "The Joy of Breakfast for Normal People",
+        id: 2,
+        imageLink: "",
+        intro: "For JJ. Happy Birthday! May you always have the option of enjoyhing delicious breakfasts and someone good to share them with.4 ",
         edition: 2,
     },
     {

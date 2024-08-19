@@ -1463,12 +1463,6 @@ export const RecipeData : Recipe[] = [
                 instruction: "Pour batter into prepared pan(s). Bake 30-35 minutes for round pans or 35-40 minutes for a rectangular pan or until wooden pick inserted in the center comes out clean. Cool 10 minutes. Remove from pans carefully to wire racks. Cool completely before frosting as desired.",
             },
             {
-                instruction: "Spread the dough evenly into your pan. Sprinkle chocolate chips over the top.",
-                ingredients: [
-                    "1 cup chocolate chips",
-                ]
-            },
-            {
                 instruction: "Bake for 20-25 minutes or until lightly brown. Remove from oven and allow to cool for 10 minutes.",
             },
             {

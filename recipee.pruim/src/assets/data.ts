@@ -1804,6 +1804,12 @@ export const RecipeData : Recipe[] = [
             {
                 instruction: "Combine the dry stuff and the wet stuff with as few strokes as possible. Pour a 4-5 inch circle of batter onto a hot greased, seasoned or non-stick griddle (about 325 degrees). When bubbles form and barely begin  popping, flip the pancakes. Remove pancakes after another 30-60 seconds and serve.",
             },
+            {
+                instruction: "Creative Options",
+            },
+            {
+                instruction: "Dry stuff"
+            }
         ]
     },
     {

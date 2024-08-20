@@ -10,16 +10,10 @@
           <div *ngIf="hasImage">
             <app-image [imageLink]="recipe?.imageLink || ''" [caption]="''"></app-image>
           </div>
-          <p class="intro-text">
-            {{ recipe?.intro }}
-          </p>
+          <p class="intro-text">{{ recipe?.intro }}</p>
           <app-steplist [steps]="recipe?.steps || []"></app-steplist>
-          <p class="description-text"> 
-            {{ recipe?.description}}
-          </p>
-          <p class="outro-text"> 
-            {{ recipe?.outro}}
-          </p>
+          <p class="description-text">{{ recipe?.description}}</p>
+          <p class="outro-text">{{ recipe?.outro}}</p>
           
         </div>
       </div>

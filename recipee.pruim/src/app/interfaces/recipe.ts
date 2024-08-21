@@ -1,17 +1,17 @@
 export interface Recipe { 
     title: string; 
+    originalBookID?: number;
+    recipeNumber?: number;
+    preparationTime?: string;
+    categoryID?: number;
+    lastEdit?: string;
     intro?: string;
     description?: string;
     outro?: string;
-    originalBookID?: number;
-    recipeNumber?: number;
-    steps?: Step[];
-    imageLink?: string; 
-    categoryID?: number;
     reviews?: Reviews;
-    preparationTime?: string;
-    lastEdit?: string;
+    imageLink?: string; 
     links?: RecipeRef[];
+    steps?: Step[];
 }
 
 export interface RecipeRef {

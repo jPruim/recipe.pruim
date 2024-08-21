@@ -322,9 +322,10 @@ export const RecipeData : Recipe[] = [
         originalBookID: 1,
         recipeNumber: 10,
         intro: "",
-        description: "Make the plain or cheesy white sauce. Mix your sauce with 1 pound of cooked pasta and 1 large or 2 small cans of tuna, drained. Spoon into a lightly greased 3-quart casserole dish. Cover and bake at 350 for 30-40 minutes, if your casserole is still warm from preparing, or bake 50-60 minutes, if the ingredients cooled off before baking. Options: "+
-        "\nIn the last 10 minutes, uncover the casserole and sprinkle with crunchy chow mein noodles, crushed potato chips, or more shredded cheese."+
-        "\nBefore baking, mix in 1 cup frozen, thawed peas, unless certain eaters will consider this addition of a possibly healthy green element as an affront to the concept of comfort food.",
+        description: "Make the plain or cheesy white sauce. Mix your sauce with 1 pound of cooked pasta and 1 large or 2 small cans of tuna, drained. Spoon into a lightly greased 3-quart casserole dish. Cover and bake at 350 for 30-40 minutes, if your casserole is still warm from preparing, or bake 50-60 minutes, if the ingredients cooled off before baking. \
+        \n\nOptions: "+
+        "\n\tIn the last 10 minutes, uncover the casserole and sprinkle with crunchy chow mein noodles, crushed potato chips, or more shredded cheese."+
+        "\n\tBefore baking, mix in 1 cup frozen, thawed peas, unless certain eaters will consider this addition of a possibly healthy green element as an affront to the concept of comfort food.",
         outro: "Tuna is a simple source of protein, perfectly suited to college life -Jason",
        links: [{originalBookID:1, recipeNumber: 8}],
     },{
@@ -1808,7 +1809,27 @@ export const RecipeData : Recipe[] = [
                 instruction: "Creative Options",
             },
             {
-                instruction: "Dry stuff"
+                instruction: "Dry stuff\
+                \nYou must use 2 teaspoons baking power.\
+                \n\tAdd 1 T flaxseed meal or cocoa.\
+                \n\tReplace half the flour with whole wheat flour\
+                \n\tReplace the sugar with honey, molasses, or brown sugar."
+            },
+            {
+                instruction: "Wet stuff \
+                \n\tYou must use 1 egg or egg substitue.\
+                \n\tReplace some or all of the milk with any of the follwoing equaling about 1-1 1/4 cup: applesauce, apple cider, orange juice, buttermilk, sourdough starter, yogurt, milk substitute, 1 t vanilla, 1/4 t cinnamon.\
+                \n\tMore wet stuff makes for thinner, crepe-like pancakes. Less or thicker wet stuff makes cakier, taller pancakes. Experiment. \
+                \n\tIf you use any applesauce, then the addition of 1 T oil is optional."
+            },
+            {
+                instruction: "Fun ideas (you must have a little fun in life.\
+                \n\tAdd 1/4 cup berries to the batter\
+                \n\tMake chocolate chip smiley faces in the bubbling batter before you flip the cakes.\
+                \n\tServe pancakes with peanut butter, sliced bananas and maple sugar.\
+                \n\tServe with a fruity jam and whipped topping.\
+                \n\tDouble or triple the recipe and make pancake sandwiches with peanut butter and jelly for lunches.\
+                \n\tChocolate hazelnut spread. Need I say more?"
             }
         ]
     },

@@ -13,6 +13,8 @@ export class TableOfContentsPage implements OnInit {
 
   ngOnInit() {
     this.recipeArray = RecipeData;
+    console.log("JSON Object");
+    console.log(JSON.stringify(RecipeData));
     this.shortenDescriptions();
   }
 

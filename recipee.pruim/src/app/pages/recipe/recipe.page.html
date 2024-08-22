@@ -1,20 +1,21 @@
 <app-header></app-header>
 <ion-content [fullscreen]="true">
   <div class="page-container background-color-theme-4">
-    <div class ="main-page background-color-theme-4">
+    <div class="main-page background-color-theme-4">
       <div class="section background-color-theme-4">
         <div class="container-header-text">
           <h1 class="header-text color-theme-2"> {{ recipe?.title }} </h1>
         </div>
-        <div class="subsection">
-          <div *ngIf="hasImage">
-            <app-image [imageLink]="recipe?.imageLink || ''" [caption]="''"></app-image>
+        <div *ngFor="let segment of recipe?.segments">
+          <div class="subsection">
+            <div *ngIf="segment?.imageLink">
+              <app-image [imageLink]="segment.imageLink || ''" [caption]="''"></app-image>
+            </div>
+            <p class="intro-text">{{ segment?.intro }}</p>
+            <app-steplist [steps]="segment?.steps || []"></app-steplist>
+            <p class="description-text">{{ segment?.description}}</p>
+            <p class="outro-text">{{ segment?.outro}}</p>
           </div>
-          <p class="intro-text">{{ recipe?.intro }}</p>
-          <app-steplist [steps]="recipe?.steps || []"></app-steplist>
-          <p class="description-text">{{ recipe?.description}}</p>
-          <p class="outro-text">{{ recipe?.outro}}</p>
-          
         </div>
       </div>
     </div>

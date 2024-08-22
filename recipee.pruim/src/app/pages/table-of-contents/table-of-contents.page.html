@@ -9,7 +9,7 @@
         <div class="subsection">
           <ion-searchbar shape="round" size="10" class="searchbar" placeholder="Search by title" [debounce]="1000" (ionInput)="search($event)"></ion-searchbar>
           <div class="array" *ngFor="let recipe of recipeArray">
-            <app-card [title]="recipe.title || ''" [description]="recipe.intro || recipe.description"
+            <app-card [title]="recipe.title || ''" [description]="recipe?.segments[0]?.intro || recipe?.segments[0]?.description"
               [destination]="'recipe' + '/' + recipe.originalBookID + '/' + recipe.recipeNumber"></app-card>
           </div>
         </div>

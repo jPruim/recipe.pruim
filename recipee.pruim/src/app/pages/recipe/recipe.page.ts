@@ -28,7 +28,7 @@ export class RecipePage implements OnInit {
       this.router.navigate(['/page-not-found'])
     } else {
       this.recipe = recipes[0];
-      this.hasImage = this.recipe.imageLink !== undefined && this.recipe.imageLink !== "";
+      // this.hasImage = this.recipe.-imageLink !== undefined && this.recipe.imageLink !== "";
     }
   }
 }

@@ -1,4 +1,4 @@
-import { Recipe } from "src/app/interfaces/recipe";
+import { Book, Recipe } from "src/app/interfaces/recipe";
 
 export const RecipeData : Recipe[] = [
   {
@@ -1954,5 +1954,34 @@ export const RecipeData : Recipe[] = [
               "outro": "Legal Cheats: Mix dry stuff in bowl #1 and wet stuff in bowl #2 the night before (storing the liquids in fridge). Wait until morning  to combine (which only takes 40 seconds and can be done easily while yawning and before your eyes have completely adjusted to the  kitchen light). Illegal Cheats: Do not cook up pancakes the night before if you want warm ones for breakfast. If you try to microwave them back  to life, they’ll get soggy. If you think the toaster is a good option, … just buy the frozen ones. Up early? Mix up the batter and let it sit while you take a shower. This relaxes the batter. You may not have known that the batter  was stressed to begin with, but letting the batter be bored for a few minutes seems to make for friendlier pancakes. Resist stirring the  batter again when you start frying cakes. Too much stirring annoys the batter. Happy batter makes happy pancakes. "
           }
       ]
+  }
+]
+
+
+
+
+
+//books
+export const BookData : Book[] = [
+  {
+      title: "Comfort Foods",
+      id: 1,
+      imageLink: "",
+      intro: "For Jason who has been asking for the family recipes for years",
+      edition: 2,
+  },
+  {
+      title: "The Joy of Breakfast for Normal People",
+      id: 2,
+      imageLink: "",
+      intro: "For JJ. Happy Birthday! May you always have the option of enjoyhing delicious breakfasts and someone good to share them with.4 ",
+      edition: 2,
+  },
+  {
+      title: "Recipes from Family and Friends",
+      id: 100,
+      imageLink: "",
+      intro: "A collection of miscellaneous recipes not located in any of Penny's books",
+      edition: 2,
   }
 ]

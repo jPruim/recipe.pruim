@@ -2030,7 +2030,182 @@ export const RecipeData: Recipe[] = [
         },
       },
     ]
-  }
+  },
+  {
+    "title": "Baked Apple Pan Cake",
+    "originalBookID": 2,
+    "recipeNumber": 4,
+    "preparationTime": "25 minutes",
+    "segments": [
+      {
+        "intro": "Imagine poofy hot appley baked cake bordering on a popover but sweet and cinnamon-a-licious. I enjoyed something very similar in a rare relaxing breakfast all by myself in a restaurant in San Diego. I had a good book and didn't have to run off anywhere for hours. Such a luxury hadn't happened in my first 40 years and it may never happen again. Everything about that breakfast was wonderful - except I couldn't finish the baked apple pancake. I needed someone to share it with.",
+        "steps": [
+          {
+            "instruction": "In an oven-proof frying pan, melt butter. Then saute apples with cinnamon and brown sugar",
+            "ingredients": [
+              "3 T butter",
+              "2 apples (peeled, cored, and diced)",
+              "4 T brown sugar",
+            ]
+          },
+          {
+            "instruction": "Mix together in a bowl",
+            "ingredients": [
+              "3 eggs",
+              "3/4 cups milk",
+              "1/2 t vanilla",
+              "1/2 t baking soda",
+              "1 T white sugar",
+            ]
+          },
+          {
+            instruction: "Pour your batter into your apple mixture. Place the entire fry pan into your preheated oven. Bake 13-15 minutes. It should puff up. \n\nServe with powdered sugar and syrup."
+          },
+        ],
+        "description": "A freshly baked Apple Pan Cake pulled from the oven looks glorious. Call all the sleepy heads while it's still in the oven and when it's done, get in on the table ASAP. This smells amazing and looks impressive and then ... it deflates into something that can be easily cut and served. Shortly (and I mean shortly) thereafter .. it disappears like magic.",
+        "reviews": {
+          "AJ": "Okay. How come these pieces are so small?",
+          "NQ": "This is worth getting up for.",
+          "JJ": "When the big kids go off to college, I'll get a bigger share."
+        },
+      },
+      {
+        "bulletList": {
+            header: "Cheating",
+            list: [
+              "You can mix the batter up the night before and put it in the fridge, but it doesn't save you much time really, unless yhou are zesting your fresh lemon - which is worth it if you can ever remmeber to have a lemon on hand. In the morning you'll have to whisk the sleeping batter again.",
+              "You don't have to peel your apples, if you don't mind eating the sauteed apples with their skins on. I don't mind but a certain someone at my home is 'textgure sensitive.",
+              "Yes, this recipe does not use a griddle, but the fry pan + oven combination will have to be explored further because you work for 10 minutes and then can almost get your shower in before breakfast is ready to come out of the oven."
+            ]
+        },
+        "outro": "Life, within doors, has few pleasanter prospects than a neatly arranged and well provisioned breakfast table - Nathaniel Hawthorn"
+      },
+    ]
+  },
+
+  {
+    "title": "Pan Crepes",
+    "originalBookID": 2,
+    "recipeNumber": 5,
+    "preparationTime": "20 minutes",
+    "segments": [
+      {
+        "intro": "I remember buying crepes from the street vendors in Paris decades ago. Now you can find them on street corners in Cambodia. Why do we not make these delights in our home? because we think we need to own one of those little carts? people! Crepes are in principle really flat pancakes. If you have a crepe pan, great! If not haul out any small fry pan you have or that griddle and go!",
+        "steps": [
+          {
+            "instruction": "Mix together dry ingredients",
+            "ingredients": [
+              "3/4 cup flour",
+              "1/2 t salt",
+              "1 t baking powder",
+              "2 T powdered sugar",
+            ]
+          },
+          {
+            "instruction": "Mix together wet ingredients",
+            "ingredients": [
+              "2 eggs, beaten",
+              "2/3 cup milk",
+              "1/3 cup water",
+              "1/2 t vanilla (optional)",
+            ]
+          },
+          {
+            instruction: "Mix the wet and dry ingredients briskly with a whisk. The batter should be quite thin and runny. You are ready to start cooking. \n\nMakes 8 small crepes",
+          },
+        ],
+        "description": "Cooking Crepes:\n\nUse about 1/4 cup of batter per crepe. Pour it all at once onto a hot griddle and use your nifty crepe spreader (which you don't have so just go for a good rubber spatula) to spread the batter quickly into a thin circle. Don't worry about being perfectly even or round. It's breakfast for the kids, not dessert for royalty. Cover any particularly uneven spots with extra chocolate spread after they are done cooking. Who is going to complain?\
+        \n\nIF you own a crepe pan, yolu already know what to do. (... unless it was an unexpected gift from your in-laws and you've just remembered it's packed in a box in the back corner of the attic. In this case, pour the 1/4 cup of batter in your preheated and seaseoned crepe pan and then swirl the pan around so that the watery batter flows all over the pan evenly. A 7-inch nonstick fry pan also works.) When the edges of your crepe are slightly brown, flip the crepe over and allow it 15-30 seconds on the other side.",
+        bulletList: {
+          header: "Sweet Somethings",
+          list: [
+            "Put a nice generous smear of filling on your open crepe anyway that pleases you. Then roll up yhour crepe and enjoy. This can be finger food, unless you have declared it to be a royal feast day where all young ladies and knights bmust use silver-wares. (this actually worked once. Everyone ate crepes with a fork and knife and used words like lovely. It was weird).",
+            "The obvious favorite filling at thiss house is Nutella or hazelnut chocolate spread. It's no wonder that this combo is sold by every crepe-making street vendor the world over.",
+            "Second place goes to homemade strawberry jam in the middle and powdered sugar sprinkled on top."
+          ]
+        },
+        reviews: {
+          "AJ": "Not better than your best pancakes, but you get a higher nuella to cake ratio with the crepes.",
+          "NQ": "Stop complaining and hand over the strawberry jam.",
+          "JJ": "If I don't roll my crepe can I put more nutella on it and eat it all open?"
+        }
+      },
+      {
+        "description": "Cheating\nYou can get these Pancrepes on the table even faster in the morning with this simple trick: Mix up the batter the night beforfe. Cover your bowl and put it in the fridge. In the morning give it a couple good whisks and you're ready to start making crepes.",
+        bulletList: {
+          header: "Tips",
+          list: [
+            "The first crepe never turns out. Make the first one a little one and eat it yourself when no one is looking.",
+            "Some griddles and unseasoned or ornery pans need a very small swipe of oil to make crepes without frustration. If you are on good terms with your griddles, you will easily determine what, if any, oiling is needed. If you haven't spent much time with either your small fry pan/crepe pan, or griddle, perhaps you should jump start that relationship with a different recipe."
+          ]
+        }
+      },
+      {
+        steps: [
+          {
+            instruction: "Fun\nFry sausage links. Roll'em in ketchup. Marta stewart isn't looking."
+          },
+          {
+            instruction: "Funner\n Fill up your crepe with a smear of orange marmalade and scrambled eggs.",
+          },
+          {
+            instruction: "Funnest (stolen from teh southwest region of Germany)\nIn each crepe place a thin slice of cooked deli ham and two spears of steamed young asparagus. Roll up and top it all witha very light white wine and cream sauce and three shavings of real parmesan. (Okay so this idea really belongs in the next cookbook: An Eclectic Introduction to Kid-friendly International Cooking.)"
+          }
+        ],
+        outro: "Is Crepes Suzette just a small version of crepes Susan?"
+      }
+    ]
+  },
+  {
+    "title": "Breakfast Oatsy Risotto",
+    "originalBookID": 2,
+    "recipeNumber": 6,
+    "preparationTime": "12 minutes the night before: 1 minute in the morning",
+    "segments": [
+      {
+        "intro": "I used to think that crock pots were a way to simmer brothy soups without having to stir all day. But then I realized that crock pots  could work the night shift. This means you do all the math and handle the sharp knives in the evening, when you’re actually awake, AND when you wake up, really yummy smells are filling your home. ",
+        "steps": [
+          {
+            "instruction": "The night before:\nLightly butter your 4-quart crock. Put in ingredients and stir briefly. Set the crock to cook on LOW for 10 hours.",
+            "ingredients": [
+              "3 cups water",
+              "1 cup milk",
+              "1/2 cup half-and-half",
+              "1/4 cup brown sugar",
+              "1/2 t vanilla",
+              "1/4 t cinnamon",
+              "1/4 t salt (optional)",
+              "1/4 cup cracked wheat",
+              "1/2 cup rice",
+              "1 cup rolled, old-fashioned oats",
+            ]
+          },
+          {
+            "instruction": "In the morning:\
+            \nSleep. Notice the alarm soundning off. Hit snooze. Hit snooze again (optional).\n\nWake up as you stir your oatsy risotto. Dis up warm, delicikous bowls of sweet, appley breakfast.\n Drizzle with honey and serve (if desired with a drizzle of milk or half-and half, too).",
+          },
+        ],
+        "description": "Tips:\nIf you hate both oatmeal and risotto, you are unlikely to try this recipe and rightly so. However, certain members of my household  known to be pretty lukewarm about oatmeal found this recipe to be an acceptable change-up. Extra honey helps. ",
+        "reviews": {
+          "AJ": "Not as good as the breakfast scrambles, but a good change of pace from Mom’s Real Worth-it Oatmeal.",
+          "NQ": "If I had a little more time, I’d eat more.",
+          "JJ": "I need something salty to go with this."
+        },
+      },
+      {
+        "description": "Creative Options:\nSweet and savory. If you are like JJ who always craves something a bit salty to offset the sweet breakfasts, then you can consider  frying breakfast sausage links, slicing them into bite-size pieces and letting folks enjoy a few pieces on top of this sweet risotto. It  sounds a bit strange, but think about the apples and brown sugar mixing with the pork. Ah, now you’re getting the idea. • All grown-up. If you dare, add ½ cup raisins and ¼ teaspoon nutmeg. ",
+        "bulletList" : {
+          header: "Aboutt Crock pot cooking",
+          list: [
+            "Decades of discovery. Until I was twenty I thought that crock pots were designed to make baked beans once each year for the  family reunion. In my twenties, I realized that crock pots were in fact meant for simmering soups and stews. When in my thirties  I was first in charge of large feasts for extended family, I used the crock pot to give me a fifth burner to keep things warm or  simmering. It wasn’t until a later decade, that I discovered that crock pots worked for porridges, rice puddings, bread puddings  and risottos. I wonder what I’ll figure out in the next decades. ",
+            "All wet. The trick to cooking thick-ish things in a crock pot is having the right ratio of liquids to solids, complicated by the fact  that different solids need varying amounts of liquid to turn out the way you like them. No one  likes goopy bread pudding and dry porridge is a contradiction in terms. Measure carefully, watch  the overall cooking time and adjust cautiously. ",
+            "Sticky business. Lightly greasing or oiling the crock pot really helps make the clean up more  reasonable. I must admit that when I do crock pot breakfasts, I have been known to leave the  crock pot soaking in the sink while we’re all gone for the day. No one is around but the dog and I  made her promise not to tell anyone.  ",
+          ]
+        },
+        "outro": "“She was perfectly quiet now, but not asleep – only soothed by sweet porridge and warmth…” George Eliot, English Victorian novelist"
+      },
+    ]
+  },
 ]
 
 

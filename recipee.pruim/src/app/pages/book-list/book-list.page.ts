@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { BookData } from 'src/assets/data-old';
+import { BookData } from 'src/assets/data';
 
 @Component({
   selector: 'app-book-list',

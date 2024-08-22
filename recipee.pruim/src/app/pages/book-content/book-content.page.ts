@@ -1,8 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 import { Book, Recipe } from 'src/app/interfaces/recipe';
-import {  RecipeData } from 'src/assets/data';
-import { BookData } from 'src/assets/data-old'
+import {  RecipeData, BookData } from 'src/assets/data';
 
 @Component({
   selector: 'app-book-content',

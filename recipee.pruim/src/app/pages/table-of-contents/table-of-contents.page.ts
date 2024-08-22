@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { PageSegment, Recipe, RecipeOld } from 'src/app/interfaces/recipe';
 import { RecipeData } from 'src/assets/data';
-import { RecipeDataOld } from 'src/assets/data-old';
 
 @Component({
   selector: 'app-table-of-contents',
@@ -22,10 +21,8 @@ export class TableOfContentsPage implements OnInit {
   }
 
   ngOnInit() {
-    let oldData = RecipeDataOld;
     this.recipeArray = RecipeData;
     this.shortenDescriptions();
-    let newData: any = [];
   }
 
   shortenDescriptions(){

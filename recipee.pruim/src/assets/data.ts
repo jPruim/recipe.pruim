@@ -2753,6 +2753,359 @@ export const RecipeData: Recipe[] = [
       },
     ],
   },
+  {
+    "title": "Breakfast Bars",
+    "originalBookID": 2,
+    "recipeNumber": 15,
+    "segments": [
+      {
+        "intro": "Make ahead. This is called planning, not cheating. A nutrition specialist recently confided to me that some of the granola and breakfast bars out there actually have a lower nutritional  density value than run-of-the-mill store-bought cookies. When AJ started running 30 miles per week and wanting to grab granola  bars whenever he could, I looked into those high-protein nutrition bars. They turned out to be so expensive, I needed another  everyday option – one that could also substitute for breakfast on the run, because no matter how important I say breakfast is, some  certain persons still do not always manage to leave enough time for a good sit down breakfast, especially on Tuesdays",
+        "steps": [
+          {
+            instruction: "The recipe makes a 9 by 13 inch pan. Preheat oven to 350F.",
+          },
+          {
+            "instruction": "Mix together wet stuff in large bowl.",
+            "ingredients": [
+              "1/4 cup unsalted butter or peanut butter",
+              "1/4 cup vegetable oil",
+              "1/2 cup honey",
+              "3/4 c brown sugar",
+              "1 egg",
+            ]
+          },
+          {
+            instruction: "In a separate bowl combine.",
+            ingredients: [
+              "1/2 cup flour",
+              "1/2 cup whole wheat flour",
+              "1/4 cup soy flour",
+              "2 T flax seed meal",
+              "1 t baking soda",
+              "1/4 cup powdered milk",
+              "1 t cinnamon",
+            ]
+          },
+          {
+            instruction: "Add dry stuff to wet stuff. Stir 'till combined. Then stir in",
+          },
+          {
+            "instruction": "For the crumble toppint mix together.",
+            ingredients: [
+              "3 cups rolled oats",
+              "1 cup raisins (optional)",
+              "1/2 cup chopped nuts (optional)",
+              "1/2 cup flaked coconut (optional)",
+              "1 cup chocolate chips (not optional)",
+            ]
+          },
+          {
+            instruction: "Press into greased 9x13 pan. Bake at 350 for 25 minutes.  When slightly cooled, cut into your favorite bar shapes.",
+          },
+        ],
+        bulletList: {
+          header: "Tips",
+          list: [
+            "These breakfast bars pack a punch. Cutting your pan into 15 - 20 total bars may seem like small portions, but they satisfy. After  all, you can always eat two.",
+            "I make two batches each time: one peanut-free for school and one with peanut butter for  home snacking and sporting events. We cut them into distinct shapes so we can tell which  are the peanut-free ones. Make these bars easy to grab when you are running out the door.  The high schoolers say that the bars taste good directly out of the freezer, almost as great as directly out of the oven (because you can’t beat melty chocolate chips, can you?).",
+            "Don’t sneak a taste of the dough before baking. You’ll be disappointed. I suspect it’s the  soy flour. But fear not! Once baked, the entire pan of bars will disappear and before you  know it, you’ll have to make another batch.",
+            
+          ]
+        },
+        "reviews": {
+          "AJ": "Make NQ eat a real breakfast so they don't steal all my sports bars.",
+          "NQ": "Yum. Are these really better for you than cookies?",
+          "JJ": "Not my thing."
+        }
+      },
+      {
+       "description": "Breakfast cookies\n \
+        Shape this dough into round  \
+        cookie shapes. These will not  \
+        ooze and expand while baking.  Call them “breakfast cookies”  \
+        and you can probably sell them  for $2.99 each at the local  \
+        health food store. Any age kid  will happily eat cookies for  \
+        breakfast. You might even get  them to down a glass of milk,  too. \
+        \n\nGranola bars to go\n \
+        Cut your pan of bars into six skinny strips 11 inches long and  then into three broad columns. Your bars will end up about the  size of this box. When the bars are cooled, carefully remove  and individually wrap for grab-n-go days. \
+        \n\nAccidents do not happen\n \
+        So, let’s say you forget to add the egg or you overbake the  bars, and you end up with a pan of pretty crunchy, dry bars.  Consider this event an innovation. Break up your bars by hand  or in a food processor and call it granola. If your family notices  that it’s nothing like the Groovy Granola you usually make,  just say you’re experimenting. If they’re still not sure, add  some nuts and dried fruit and sell it as “snack mix”. If you did  skip the egg, you can call any resulting baked good from this  recipe: “Buddha’s Granola Delight.” Even your yoga instructor sister-in-law will not be able to resist.",
+        "outro": "What is the difference between a snack and a meal? Mom makes you eat meals but she lets you have snacks! ",
+      },
+    ],
+  },
+  {
+    "title": "Groovy Granola",
+    "originalBookID": 2,
+    "recipeNumber": 16,
+    "preparationTime": "25 minutes",
+    "segments": [
+      {
+        "intro": "Homemade granola baking in the oven smells almost as good as cookies, is way less work, and you can serve it for breakfast without  feeling like you've compromised your ideals. You'll read the recipe and think: no way, that's it? Yup.",
+        "steps": [
+          {
+            instruction: "The recipe makes 6 cups. Preheat oven to 350F.",
+          },
+          {
+            "instruction": "Put oats in a 9x13 pan and bake at 350 for 10 minutes. Stir in the oil and honey.  Bake another 10 minutes stirring once in the middle.",
+            "ingredients": [
+             "6 cups of rolled oats",
+             "1/2 cup vegetable oil",
+             "1/2 cup honey",
+            ]
+          },
+        ],
+        description: "Warm fresh granola is superb plain. It also keeps quite a while without preservatives if kept in a sealed container. My children loved  homemade granola until that fateful summer when we took lots of it on a camping trip. Okay, so the trip lasted a month and involved  both the desert American southwest in the month of July and 25 consecutive nights in a tent. It took a while to lure them back to  granola, but they have all agreed that it is, in fact, delicious and so much better (and less expensive!) than anything that comes in a  cardboard box or a fancy container with the word 'organic' on it. About that family vacation touring various desserts in the hottest  part of summer ... the final verdicts are still out. I imagine the kids may need to work through several aspects of that family bonding  experience in therapy when they are 40 years old, but at that point I won't have to foot the bill.",
+        "reviews": {
+          "AJ": "Good stuff, even if  there is no chocolate.",
+          "NQ":  "I'm glad I like  this. It doesn't really  taste 'healthy.'",
+          "JJ": "This is okay, but pleeeze don't make me  eat any of that stuff that comes in boxes."
+        }
+      },
+      {
+        steps:[
+          {
+            instruction: "Liquids (creative option)",
+            ingredients: [
+              "Add 1/2 t vanilla.",
+              "Add 1/2 t cinnamon.",
+              "Substitute half of the oil for apple juice concentrate."
+            ]
+          },
+          {
+            instruction: "Dry ingredients (creative option). Add one or all",
+            ingredients: [
+              "1 cup puffed kamut.",
+              "1/4 cup oat bran",
+              "1/4 cup flax seed meal",
+              "1/4 cup powdered milk",
+            ]
+          },
+          {
+            instruction: "Fruits and bits\nAdd any of these in the last 5 minutes of baking or right before serving.",
+            ingredients: [
+              "raisins",
+              "dried fruit",
+              "chopped nuts",
+              "flaked coconut",
+              "sprinkle of sunflower or sesame seeds",
+            ]
+          }
+        ],
+       "description": "Granola-rama\nIt's not just for breakfast. You'e got it? Use it baby!\n\nGranola-Yogurt Parfaits \nPresentation is half the battle with kids. Use  those tall Sundae dishes and layer granola, yogurt  and fruit. Voilá. This creation allows you to  pretend you are serving dessert for breakfast and  scores you big-time awesome-parent points OR  you can actually serve it for dessert. \
+          \n\nGranola - Crumble \nWith fruit: Use your homemade granola to top warm  applesauce, any fruit cobbler, or any sliced fresh fruit.  In baking: Granola makes a quick topping for most muffins  or quick breads. Sprinkle some of your granola on top just  before popping your pans of batter in the oven. YUM.\
+          \n\nSnack Mix \
+          \nHomemade granola is the perfect base for a homemade snacking mix. Add any of the many varieties of chocolate pieces, your  favorite dried fruit(s), nuts (roasted, boiled, blanched, salted, plain), flaked coconut, peanut butter chips, dark-chocolate coated  espresso beans... but I digress. Back to the point: Who needs those expensive pre-mixed things that always have something in them  that someone in your clan doesn't like? Create your own and give it a name like 'chocolate cherry dream' or 'tropical allure'. \
+          \nbtw The German word for GORP is Studentenfutter, literally 'feed for students.' Crafting the perfect homemade snack mix for  loved ones IS IDEAL snack food; it can be a snack but it can also sustain them at need. Who knows, maybe they'll end up eating it  ... for breakfast.",
+        "outro": "If a nice looking man offers you candy, run away. If a strange looking man offers you granola? He's probably okay.",
+      },
+    ],
+  },
+  {
+    "title": "Orange Chocolate Chip Muffins",
+    "originalBookID": 2,
+    "recipeNumber": 17,
+    "preparationTime": "15 minutes prep; 25 minutes baking",
+    "segments": [
+      {
+        "intro": "To call this 'muffins' is a bit deceiving, because these are sooo much better - moist and fluffy and creamy and sweet and citrusy and  ... honestly, amazing. So, even though this recipe takes a bit longer than 30 minutes, it's worth it. Bake ahead and you will have no  prep time in the morning. However, be warned: if you bake these the night before, it may be tough to keep them from disappearing  before bedtime. A certain exchange student who lived with us for 18 months and on principle did not eat breakfast made an  exception for these baked treats.",
+        "steps": [
+          {
+            instruction: "The recipe makes 12 amazing mini cake delights",
+          },
+          {
+            "instruction": "Preheat oven to 375. Put paper muffin cups in your muffin tins. Find 4 ounces of chocolate chips; eat a few to make sure they're  good. Get 3 bowls - one each for the ingredient groups below.",
+            "ingredients": [
+             "4 oz chocolate chips",
+            ]
+          },
+          {
+            instruction: "Mix ingredients in bowl 1.",
+            ingredients: [
+              "2 cups flour",
+              "1 1/4 t baking powder",
+              "1/2 t baking soda",
+              "1/2 t salt",
+            ]
+          },
+          {
+            instruction: "Cream these ingredients (I use a mixer--bowl 2).",
+            ingredients: [
+              "1/4 cup unsalted butter",
+              "1/4 cup vegetable oil",
+              "1/2 cup sugar",
+              "2 eggs",
+              "1 t vanilla",
+            ]
+          },
+          {
+            instruction: "Whisk together in bowl 3.",
+            ingredients: [
+              "1/2 cup plain yogurt",
+              "1/4 cup orange juice concentrate",
+              "1/4 cup water",
+            ]
+          },
+          {
+            instruction: "Mix together all three bowls using only 35 strokes with a good rubber spatula. Fold in chocolate chips. Your batter will be sort of  fluffy. Spoon plops of batter into your paper-lined muffin tins. Bake 20-25 minutes. Use the toothpick to test for doneness (Stick it  in the center; if it comes back out dry with maybe just a crumb hanging on, the muffins are done.) After you take your amazing  muffins out of the oven, IF you can wait 5 minutes before devouring, good for you. Otherwise get out of the way of the stampede."
+          }
+        ],
+        "reviews": {
+          "AJ": "Wow.",
+          "NQ":  "These are so good they don't need any special toppings.",
+          "JJ": "Why don't you make these all the time?"
+        },
+        outro: "Muffins are a slightly more healthy cake-like item which your mother allows you to eat for breakfast. Really good muffins are a dessert that your mother lets you eat for breakfast but only sometimes when she knows you need to feel extra love."
+      },
+    ],
+  },
+  {
+    "title": "Overnight Tea Cake",
+    "originalBookID": 2,
+    "recipeNumber": 18,
+    "preparationTime": "20 minutes/45 minutes baking",
+    "segments": [
+      {
+        "intro": "'Coffee cake' goes well with coffee but 'Tea Cake' goes well with anything. Here is a no-nonsense breakfast cake that goes from the  fridge (where it is dreaming happily through the night) to the oven in the morning. I get this in the oven while I still have sleepers in  my eyes and no slippers on my feet. Sometimes I don't even bother to preheat the oven. ",
+        "steps": [
+          {
+            instruction: "The recipe makes 1 8-inch square pan. Preheat to 350F.",
+          },
+          {
+            "instruction": "Cream together in a mixing bowl. Then beat the egg in",
+            "ingredients": [
+              "1/3 cup unsalted butter",
+              "1/2 cup sugar",
+              "1/4 cup brown sugar",
+              "1 egg",
+            ]
+          },
+          {
+            instruction: "In a separate bowl mix",
+            ingredients: [
+              "1 cup flour",
+              "1/2 t baking powder",
+              "1/4 t baking soda",
+              "1/2 t cinnamon",
+            ]
+          },
+          {
+            instruction: "Add dry ingredients to your creamed stuff along with",
+            ingredients: [
+              "1/2 cup buttermilk or yogurt",
+            ]
+          },
+          {
+            instruction: "Spread into a greased 8-inch pan.",
+          },
+          {
+            instruction: "Make topping in a bowl by mixing",
+            ingredients: [
+              "1/4 cup brown sugar",
+              "1/4 cup chopped pecans",
+              "1/4 t cinnamon",
+              "1/8 t nutmeg",
+            ]
+          },
+          {
+            instruction: "Overnight\nPut your cake (covered with plastic wrap, a silicon banana leaf or a cake pan lid, if you can) into the fridge overnight. Leave your topping on the counter.",
+          },
+          {
+            instruction: "In the morning sprinkle the topping over your batter. Bake at 350 for 40-45 minutes. This is a good amount of time to shower, deal with your hair, bug two kids to wear matching socks and put the juice on the table."
+          }
+        ],
+        "reviews": {
+          "AJ": "Is this really better than donuts?",
+          "NQ":  "Can we make this on a cookie sheet, like those muffin top things, so we get way more topping for the amount of cake?",
+          "JJ": "Can we pretend this is 'Hot Cocoa Cake' and drink cocoa instead of tea?"
+        },
+        outro: "A good tea time is a great luxury that the poorest man can afford."
+      },
+    ],
+  },
+  {
+    "title": "Sauteed Bananas",
+    "originalBookID": 2,
+    "recipeNumber": 19,
+    "preparationTime": "10 minutes",
+    "segments": [
+      {
+        "intro": "This is the quickest home-improvement project ever. If you serve this, suddenly any hovel is royal getaway. This is a breakfast version  of bananas foster, though if you don't mind starting your day with a little liquor and a shot of rum, by all means go for the original  recipe.",
+        "steps": [
+          {
+            instruction: "The basic breakfast version makes 2 servings",
+          },
+          {
+            "instruction": "In a fry pan, melt butter over medium-low heat. Add brown sugar. When everything is moist and goopy, toss in a dash of cinnamon and nutmeg. Slice one banana into the pan and saute for 1 minute. Add a shot glass of apple juice, apple cider, or orange juice at the very end and saute for another 30 seconds. Serve and listen to the oohs and aahs.",
+            "ingredients": [
+              "2 T butter",
+              "1-2 T brown sugar",
+              "1 banana",
+              "1 shot of apple juice, apple cider, or orange juice",
+            ]
+          },
+          {
+            instruction: "Serve over a bowl of plain or vanilla yogurt. Frozen vanilla yogurt. Groovy Granola. Real Worth-it Oatmeal.",
+          },
+        ],
+        "reviews": {
+          "AJ": "Bananas are a fruit. Need I say more?",
+          "NQ":  "Yum.",
+          "JJ": "Why don't you make this more often?"
+        },
+        bulletList: {
+          header: "Creative Options",
+          list: [
+            "Use this fruit sauce to make pancakes, crepes, waffles, and almost any boxed or cooked cereal heavenly",
+            "Swap out the bananas for 2/3 cup blueberries or sliced strawberries.",
+            "Use this sauteed fruit sauce as one of the layers in a yogurt - Groovy Granola - fruit parfait.",
+          ]
+        },
+      },
+      {
+        steps: [
+          {
+            instruction: "in a fry pan melt butter over low heat. Then add brown sugar.",
+            ingredients: [
+              "2 T butter",
+              "1-2 T brown sugar",
+            ]
+          },
+          {
+            instruction: "When everything is moist and goopy, toss in a dash of cinnamon and nutmeg.",
+            ingredients: [
+              "cinnamon (to taste)",
+              "nutmeg (to taste)",
+            ]
+          },
+          {
+            instruction: "Slice one banana into the pan and saute for 1 minute",
+            ingredients: [
+              "banana",
+            ]
+          },
+          {
+            instruction: "Happy version starts he re. Add banana liqueur and rum. Then saute for 30 seconds on medium heat. Then flame it to burn off the alcohol.",
+            ingredients: [
+              "Shot of banana liqueur",
+              "Shot of faborit Rum"
+            ]
+          }
+        ],
+        description: "About 'flaming it' \n\nYes, that means letting a flame lick the alcohol fumes evaporating and rising into the air above your fry pan. Chefs at fancy restaurants  simply move that fry pan around until a flame from the cooking stovetop catches a waft of the flammable alcohol fumes and POOF!  flickers of fire zoom around the sizzling sauce and a lovely hot blue glow brightens the room. Others of us use a sturdy match, a long  match or one of those butane lighters with a long nose, depending on how adventurous we are. I am not telling you to play with fire  (but it is sort of fun). ",
+        bulletList: {
+          header: "Happy Creative Options",
+          list: [
+            "Strawberries + Grand Marnier",
+            "Mixed berries + Brandy",
+            "Raisins soaked over night in whiskey (Adding additional rum when flaming is highly recommended.) "
+          ]
+        },
+        outro: "There is no need to use social media to tell the world what you ate for breakfast ... unless it was flaming bananas ladled over a bowl of honey Greek yogurt."
+      },
+    ],
+  },
+  
 ]
 
 

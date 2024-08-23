@@ -2160,7 +2160,7 @@ export const RecipeData: Recipe[] = [
     "title": "Breakfast Oatsy Risotto",
     "originalBookID": 2,
     "recipeNumber": 6,
-    "preparationTime": "12 minutes the night before: 1 minute in the morning",
+    "preparationTime": "12 minutes the night before; 1 minute in the morning",
     "segments": [
       {
         "intro": "I used to think that crock pots were a way to simmer brothy soups without having to stir all day. But then I realized that crock pots  could work the night shift. This means you do all the math and handle the sharp knives in the evening, when you’re actually awake, AND when you wake up, really yummy smells are filling your home. ",
@@ -2205,6 +2205,553 @@ export const RecipeData: Recipe[] = [
         "outro": "“She was perfectly quiet now, but not asleep – only soothed by sweet porridge and warmth…” George Eliot, English Victorian novelist"
       },
     ]
+  },
+  {
+    "title": "Breakfast Savory Risotto",
+    "originalBookID": 2,
+    "recipeNumber": 7,
+    "preparationTime": "15 minutes the night before; 1 minute in the morning",
+    "segments": [
+      {
+        "intro": "Rice risotto cooked in the crock pot is a new Sunday lunch staple at my home. We are making up for decades of being too busy to  make risotto the old-fashioned, 'stir for an hour' way. But rice cooked long and low over night does not generally do so well. So,  here is a breakfast risotto recipe made with barley that cooks over night and is delicious in the morning.",
+        "steps": [
+          {
+            "instruction": "The night before:\nLightly grease your 4-quart crock. Put in ingredients.",
+            "ingredients": [
+              "1 1/4 cup pearled barley",
+              "4 cups chicken broth",
+              "1/2 t basil",
+              "1/2 t onion powder",
+            ]
+          },
+          {
+            instruction: "Optional",
+            ingredients: [
+              "1 cup sliced sauteed mushrooms",
+              "1/2 cup frozen peas",
+              "1/2 cup frozen corn",
+            ]
+          },
+          {
+            instruction: "Cook on LOW for 6-8 hours",
+          },
+          {
+            "instruction": "In the morning: serve"
+          },
+        ],
+        "description": "Creative options - Fusion fun\nMediterranean: In the evening add 1/4 cup raisins, 2 tablespoons lemon  juice, 1/4 teaspoon ground black pepper, 1 tablespoon olive oil. Sunshine: In the evening add 1/4 cup orange juice concentrate and 1/4  cup dried cranberries. In the morning, sprinkle with flaked coconut. Meat-me: In the evening, sauté breakfast sausage or chopped ham or  chopped bacon with mushrooms and chopped onions. Add this mixture to  your crock with the barley.",
+        "reviews": {
+          "AJ": "Okay. Better than anything served in a cafeteria.",
+          "NQ": "I like barley. Why don't we eat this more often?",
+          "JJ": "Can I add shredded cheese on top?"
+        },
+        "outro": "Barley is humble but strong, unrecognized for the noble place it deserves in our  kitchens, hearty and kind to the beginner, a good useful grain whether hot or cold.  In short, barley is pretty much the lost Aragorn of grains. (It's okay if you are not an  LOTR fan and do not understand. You may still enjoy the barley.)"
+      },
+    ]
+  },
+  {
+    "title": "Breakfast Bread Pudding",
+    "originalBookID": 2,
+    "recipeNumber": 8,
+    "preparationTime": "15 minutes the night before; 3 minute in the morning",
+    "segments": [
+      {
+        "intro": "This superlicious breakfast is a cross between rich French toast and a bread pudding recipe I experienced at one of those cooking  'classes' in New Orleans -- only I made it even better because all the work is the night before and in the morning you get to wake up  to the aroma of warm, cinnamon yum-ness.",
+        "steps": [
+          {
+            "instruction": "The night before: In a bowl mix together",
+            "ingredients": [
+             "6 eggs",
+             "2 cups of milk",
+             "1 t vanilla",
+             "1 t cinnamon",
+             "1/2 t nutmeg",
+             "1/4 cup brown sugar",
+             "1/4 cup white sugar",
+            ]
+          },
+          {
+            instruction: "Grease 4-quart crock pot and add.",
+            ingredients: [
+              "4 cups of cubed bread, the good stuff",
+              "2 T butter cut into little pieces"
+            ]
+          },
+          {
+            instruction: "Pour wet ingredients into the crock pot. Smush your bread so all of it gets wet. Cook on LOW for 6-8 hours",
+          },
+          {
+            "instruction": "The hardest thing - the thing that takes 3 minutes in the  morning is deciding which topping you want on your Breakfast Bread Pudding. \
+            \n30 seconds: Maple syrup is the easiest. \
+            \n45 seconds: Honey. This takes longer because you have to  wait for it to drip.\
+            \n1 minute: a drizzle of heated up caramel topping (Shhhh.  don't tell Mom.) \
+            \n3 minutes: Make Amazing Glaze. Whisk together 1 cup  powdered sugar with 1/4 teaspoon vanilla and about 2  teaspoons milk - barely enough to make your glaze the perfect  consistency for you. Drizzle sparingly or smear on top of each  serving."
+          },
+        ],
+        "description": "Creative option\nAdd 1/2 cup raisins, coconut, chopped pecans, or (dare I say this) chocolate chips. You can substitute some (~1/2 cup) of the milk with an equal amount of one of the following: cream, applecider, orangejuice, rum, or eggnog.",
+        "reviews": {
+          "AJ": "Best way to eat old bread.",
+          "NQ": "Can we make this with coconut milk?",
+          "JJ": "I don't like French toast, but this is okay with the Amazing Glaze"
+        },
+        "outro": "Barley is humble but strong, unrecognized for the noble place it deserves in our  kitchens, hearty and kind to the beginner, a good useful grain whether hot or cold.  In short, barley is pretty much the lost Aragorn of grains. (It's okay if you are not an  LOTR fan and do not understand. You may still enjoy the barley.)"
+      },
+    ],
+  },
+    {
+    "title": "Breakfast Bread Pudding",
+    "originalBookID": 2,
+    "recipeNumber": 9,
+    "preparationTime": "12 minutes prep; 12 minutes baking",
+    "segments": [
+      {
+        "intro": "hat do restaurants do to their biscuits? They are too dry or too salty or too oily or too chewy. Once again: homemade is best. And  do NOT let me find you trying to convince your children that those things that came out of a cardboard can in the fridge are really  'homemade.' NOT. ",
+        "steps": [
+          {
+            "instruction": "Makes 9 2-inch biscuites. Preheat oven to 450 F",
+          },
+          {
+            instruction: "Create your dough in a large mixing bowl",
+            ingredients: [
+              "2 cups flour",
+              "3 t baking powder",
+              "1/4 t salt",
+              "2 t sugar",
+            ]
+          },
+          {
+            instruction: "Cut in with a pastry cutter until the mixture looks like a bunch of soft crumbles.",
+            ingredients: [
+              "1/2 cup vegetable shortening or 1/4 cup shortening + 1/4 butter",
+            ]
+          },
+          {
+            instruction: "Add and stir with a fork until there is a rough dough.",
+            ingredients: [
+              "2/3 cups milk (or 1/3 cup milk + 1/3 cup yogurt",
+              "1 t lemon juice",
+            ]
+          },
+          {
+            "instruction": "Bake for 10-12 minutes in an oven preheated to 450F."
+          },
+        ],
+        "description": "Tips: Cutting in the butter\nThis seems to threaten folks who haven't done it before, but really it's super easy if you have a good pastry cutter.\
+        You just plop your fat (the shortening or unsalted butter) into your bowl of mixed dry ingredients and then 'dance' your cutter around the bowl for 2  minutes. First, slice into your fat so you have a bunch of pieces. Go ahead and rock your cutter blades through your fat. Flick any  stuck on ones back off your cutter. Repeat after me: Slice and rock, rock and roll, lift and land your cutter around your bowl.This  action 'cuts' the butter 'into' the dry ingredients. Before ONE of your favorite songs has finished playing, you are ready to move on  to adding your milk. See? That wasn't sooo hard. (P.S. If you have no cutter, use two butter knives - one in each hand and keep  cutting across your fat + flour until those crumbles magically appear. It will take about 4 minutes.)",
+        "reviews": {
+          "general": "Biscuits have been commonplace in our kitchen for so long, Dad makes them, children make them and no one feels the  need to issue reviews anymore. They're always appreciated."
+        },
+      },
+      {
+        description: "Creative Option:\nBeing square is sometimes a good thing. You can press your dough into a 9-inch square pan. Bake and then cut into squares. The sides will be quite moist in this version. And just because they're square with fresh cut edges, these biscuits somehow take on a new identity.\
+          \n\nUsual toppings around my table are homemade fresh strawberry jam or butter and honey. Don't stop there. Consider some of these combinations. If you choose to serve each biscuit on a pretty plate and do the actual 'topping' in the kitchen, your humble biscuits just became a fancy delight.\
+          \n\nBreakfast Sandwiches\nBiscuit sand Biscuit sandwiches were around long before a certain fast food restaurant  starting marketing their version. Use your homemade biscuits to frame any  of these combos: \n\t• fried egg and cheddar cheese \n\t• sauté a thin slice of deli ham and a thick slice of tomato • scrambled egg and a smear of grape jelly \
+          \n\t• cashew nut butter and honey \
+          \n\t• slice of ham and a smear of orange marmalade\
+          \n\nBicuits and Gravy\
+          \nI grew up mostly in Michigan, way not anywhere close to 'southern'. So , I have no idea why my boys love biscuits and gravy...except I suppose awesome biscuits covered in savory creamyh gravy...Okay, what's not to like? Note: if you do not have good leftover gravy from some previous dinner and you have to make the gravy, this just added 6 minutes to the prep time.",
+      },
+      {
+        steps: [
+          {
+            instruction: "Breakfast Gravy Recipe"
+          },
+          {
+            instruction: "Whisk together and then heat 'till it bubbles and thickens, stirring with a whisk",
+            ingredients: [
+              "2 T flour",
+              "1 cup beef broth"
+            ]
+          },
+          {
+            instruction: "This is not exactly real gravy but it is the right sort of thing if you don't have any leftover gravy and y ou're not into frying up grreasy sausage in the morning.",
+          }
+        ],
+        description: "Strawberry Shortcakes\n Clean and slice fresh strawberries. Mix with a little honey or sugar. Put the bottom half of a biscuit on your plate. Spoon 1/4 cup of fruit over the top. Place the top of the biscuit over the fruit like a hat. Add a plop of whipped cream and Wow. No on e will believe you're letting them eat this for breakfast.",
+        "outro": "If Brits call cookies biscuits and biscuits scones and scones... scones, and if we have different words for important distinctions in our cultures, then I'd say Americans  have more types of yummy bakery things to eat than Brits. "
+      },
+    ],
+  },
+  {
+    "title": "Sour Dough Biscuit-Bun-Bread",
+    "originalBookID": 2,
+    "recipeNumber": 10,
+    "preparationTime": "10 minutes prep; 10 minutes baking",
+    "segments": [
+      {
+        "intro": "Sometimes I remember my earlier healthy eating binges and try to make a recipe 'healthier.' However, when a family member says  something like, 'Hmm. Tastes healthy.', that is generally not the greatest compliment. I've gotten smarter. I served this Biscuit-Bun Bread without telling anyone they were healthier or easier or faster than regular biscuits. No one guessed. Score!",
+        "steps": [
+          {
+            instruction: "The basic recipe makes an 8-inch square pan's worth. Preheat oven to 425F.",
+          },
+          {
+            "instruction": "In a medium bowl mix:",
+            "ingredients": [
+              "1 cup white flour",
+              "1/2 cup whole wheat flour",
+              "1/4 t baking soda",
+              "1/4 t salt",
+            ]
+          },
+          {
+            instruction: "Add the following ingredients and then stir to form a sticky dough. (Hooray, no cutting in the shortening. In fact: no shortening.)",
+            ingredients: [
+              "1/4 cup oil",
+              "1/2 cup sour dough starter",
+              "1/2 cup milk"
+            ]
+          },
+          {
+            instruction: "Press, plop or smush into an inch-tall shape on a cookie sheet  or in an 8-inch square pan or a round cake pan or ... you get  the idea. This makes a pleasant flat loaf of whatever shape you  are in the mood for. If you have time, you can make each person his or her own  plop. Then you can call them Biscuit-Buns.They will bake  faster if they are separate littler plops. So, if you're cutting it  close on time, you know what to do! ",
+          },
+          {
+            "instruction": "Bake 10 minutes in an oven preheated to 425. Serve warm."
+          },
+        ],
+        "description": "You can discover the wonders of your own sour dough starter. Flip over to the recipe for Breakfast Crumb Cake to find out how to  make one and keep it like a beloved kitchen pet of sorts. It's really pretty easy. However, if you must try this recipe without the  starter, then substitute yogurt. You'll have to change the name of the recipe to (you guessed it!): Yogurt Yum Buns.  ",
+        "reviews": {
+          "JJ": "I like this better than that healthy version you tried before. (I the baker refrained from snickering.)",
+          "PR": "Wheat flour. Yum. (Who is this you ask? She is the niece who lived with us when this recipe got developed and tested. When  SHE says, 'Tastes healthy.', it IS a compliment. She didn't say that about these Biscuit-Buns. But she did have thirds."
+        },
+        bulletList: {
+          header: "Cheating",
+          list: [
+            "This dough whips up so fast, you hardly need to cheat. If you MUST press that snooze button again, then put the dry ingredients  in a bowl on the counter the night before.  ",
+            "The texture of this bread is unique: somewhere in between a biscuit and a peasant loaf. So, if you want to serve it for a family get to-gather, just whip up a triple batch, shape them a little taller, bake them a little longer, and call them 'Quick Peasant Loaves'.  They will impress but since it was so easy, it almost counts as cheating."
+          ]
+        },
+      },
+      {
+        bulletList: {
+          header: "Tips",
+          list: [
+            "Besides being really fast to make and bake, Biscuit-Bun-Bread is a chameleon. I can serve it with honey and jams and Dutch  chocolate sprinkles. But it disappears just as quickly with herbed cream cheese or sharp cheddar slices. • This recipe is so quick and reliable, it is the go-to when I come home from work, realize there is no bread in the house and  desperately want some to serve with dinner. ",
+            "This bread actually tastes pretty good later, cold, or packed in a lunch. But you don't have to worry about that, because there's  usually nothing left at the end of breakfast.",
+          ],
+        },
+        "outro": "'The dog wags its tail not for you but for your bread.' -- Portuguese Proverb This could be true. If given a choice, my dog will dive in first for anything bread-like, even before leftover chicken",
+      },
+    ],
+  },
+    {
+    "title": "Simple Sweet Scones",
+    "originalBookID": 2,
+    "recipeNumber": 11,
+    "preparationTime": "12 minutes prep; 12 minutes baking",
+    "segments": [
+      {
+        "intro": "Expensive scones from that upscale European cafe in the Renaissance zone are a creation I don't quite understand. They tend to be  dry, crumbly, baked several hours ago and not particularly flavorful. Not to mention that place wants to charge me four dollars for  one. AND the extremely dry crumbles are so hard to swallow that you have to buy an extra cup of joe too. Imagine instead a moist but not-too-moist, sweet-but-not-too-sweet, tender subtly buttery dream. --- Oh, yeah. ",
+        "steps": [
+          {
+            "instruction": "The basic recipe makes 12 scones. Preheat oven to 425F.",
+          },
+          {
+            instruction: "Create your dough. In a large bowl mix:",
+            ingredients: [
+              "2 1/2 cups flour",
+              "1 t baking powder",
+              "1/2 t salt",
+            ]
+          },
+          {
+            instruction: "Cut in wiht a pastry cutter until the mixture looks like a bunch of soft crumbles",
+            ingredients: [
+              "1 stick cold unsalted butter",
+            ]
+          },
+          {
+            instruction: "Toss in with a fork",
+            ingredients: [
+              "1/4 cup granulated sugar",
+            ]
+          },
+          {
+            "instruction": "Add and stir with a fork just until there is a rough dough",
+            ingredients: [
+              "2/3 cup milk",
+            ],
+          },
+          {
+            instruction: "Shaping your scones. Divide your dough in half. Shape each half into a circle about 7 inches across  and 1 inch thick. Cut each circle into 6 pieces (like a pie).\n\nYou can put your circles directly on a cookie  sheet OR \
+            separate your triangles for baking. Circles  will have soft edges. Separate triangles will have  drier edges but these are still moist and delicious  compared to those overpriced other things  pretending to be 'scones.' "
+          },
+          {
+            instruction: "Bake for a mere 12 minutes in an oven preheated to 425F."
+          }
+        ],
+        "description": "A bit more refined. Lovely alone. Delish when served with your favorite jam. Perfect with tea ... but you don't need three cups to  swallow the crumbs. ",
+        "reviews": {
+          "general": "I make these so often the kids don't make interesting comments anymore. Overwhelming consensus is: YUMM with two Ms."
+        },
+      },
+      {
+        bulletList: 
+        {
+          header: "Tips",
+          list: [
+            "It may be tempting to substitute margarine, but using the real unsalted butter creates a lovely creamy texture and delicate flavor  that is worth every penny and mg of cholesterol. Comfort yourself with the thought that the real butter version is reduced  sodium.",
+            "If you can let the scones rest (wrapped in a tea towel) for about 10 minutes after taking them out of the oven, they will taste even  better. It may be just because you had to wait longer to dive in, or because '10 minutes out' is the perfect temperature for  enjoying these puppies. But there might be some mysterious other reason. I'm not sure, but it's true. (Cue Twilight Zone music.) • Yes, you can use a vegan margarine and a milk substitute. The scones will taste different but still very good."
+          ]
+        },
+      },
+      {
+        description: "Cheats\nYou can speed things up in the morning by mixing the dry ingredients and cutting in the butter the night before. Just as with the biscuits, you can leave this crumble on the counter overnight unless it is really hot in the house, in which case you might want to put your bowl in the fridge. In the mornign resume where you left off: measure and add the liquid, mix, shap your scones, and bake.\
+        \n\nCreative Options\nMy friend Mike married lovely Kim who lived many years in Ireland. They once spoiled me by baking a batch of authentic Irish scones  from an expensive, personally imported packaged mix. They were really pretty special and nothing like those thangs at the uppity  cafe. With a few adjustments you can turn Simple Sweet Scones into... ",
+      },
+      {
+        steps: [
+          {
+            instruction: "For the 2 1/2 cups of flour substitute the following",
+            ingredients: [
+              "1 cup whole wheat flour",
+              "1 cup white flour",
+              "1/4 cup oat bran",
+              "1/4 cup oats",
+              "1 T flax seed meal",
+            ],
+          },
+          {
+            instruction: "Use cream or half-and-half for some of the 2/3 cups milk. You  may need to add up to 1/4 more milk to get the mix right.  Continue from this point as for the basic recipe. (Yes, the one  on the opposite page.)"
+          },
+        ],
+        description: "These feel more rustic and have more texture which isn't always kid-friendly but feels more upscale in a trendy Celtic sort of way.  (With just a little marketing, you could probably compete with the upscale bakery near you.) ",
+        outro: "Biscuits dream of being scones."
+      }
+    ],
+  },
+  {
+    "title": "Cinnamon Swirl Bissconies",
+    "originalBookID": 2,
+    "recipeNumber": 12,
+    "preparationTime": "20 minutes prep; 12-16 minutes baking",
+    "segments": [
+      {
+        "intro": "Bissconie noun. 1. a baked good created to be a hybrid of a biscuit and a scone and a cakie cousin of the cinnamon roll. 2. Bite-sized  versions of a baked good that remind you of the best elements of biscuits, scones or cinnamon cake treats.",
+        "steps": [
+          {
+            instruction: "The recipe makes 12 big Bissconies or more little ones. Preheat oven to 400F",
+          },
+          {
+            "instruction": "In a bowl mix the dry ingredients",
+            "ingredients": [
+              "2 cups flour",
+              "1 cup oats",
+              "4-8 T sugar (you decide how sweet)",
+              "1 t baking powder",
+              "1/4 t salt",
+            ]
+          },
+          {
+            instruction: "Cut in butter until it crumbles. (refer to Biscuit recipe if uncertain)",
+            ingredients: [
+              "1/2 cup butter (1 stick)"
+            ]
+          },
+          {
+            instruction: "In a separate bowl whisk together",
+            ingredients: [
+              "3/4 cup milk",
+              "1 egg",
+              "1 t vanilla",
+            ],
+          },
+          {
+            "instruction": "Add the wet to the dries and mix with a fork just until reasonably moistened."
+          },
+          {
+            instruction: "In a little bowl mix.",
+            ingredients: [
+              "2 T sugar",
+              "2 t cinnamon",
+            ]
+          },
+          {
+            instruction: "Then toss this mixture into your batter. Stir it 5 times. you want streaks of cinnamon-sugar in your batter."
+          },
+          {
+            instruction: "Lightly grease (or not) a baking sheet. Drop your batter in plops (about 1/4 cup at a time) onto the baking sheet. Bake in your oven for 12-15 minutes while you make the glaze"
+          },
+          {
+            instruction: "Glaze. Whisk together",
+            ingredients: [
+              "1/2 cup powdered sugar",
+              "1/4 t vanilla",
+              "1-3 t milk",
+            ],
+          },
+          {
+            instruction: "Remove your bissconies to a wire rack to cool slightly. Then drizzkle with the glaze."
+          }
+        ],
+        "reviews": {
+          "general": "This recipe got made one morning for a group of women who are some of the coolest moms on the planet. Since they all wanted the  recipe, made it within a week and declared it a success, I feel okay saying that all children of all ages love these. It must be the glaze."
+        }
+      },
+      {
+       "description": "These can be made into the perfect breakfast buffet or potluck item. Simply make your plops of batter into modest cookie size and reduce the baking time to 8-10 minutes. So, if you needdc to get them baked faster, make them smaller.",
+        "outro": "Hybrid recipes are like mutts: not quite exactly like any one thing - but well-balanced and lovable.",
+      },
+    ],
+  },
+  {
+    "title": "Cinnamon Swirl Bissconies",
+    "originalBookID": 2,
+    "recipeNumber": 13,
+    "preparationTime": "20 minutes prep; 12minutes baking",
+    "segments": [
+      {
+        "intro": "There are those who love sweets and those who love salties. The savory bissconies let you bake something breakfasty that everyone  can enjoy, but the 'Salties' in your family will especially love you (more than they already do).",
+        "steps": [
+          {
+            instruction: "The recipe makes 12 big Bissconies or more little ones. Preheat oven to 400F",
+          },
+          {
+            "instruction": "In a bowl mix the dry ingredients",
+            "ingredients": [
+              "2 cups flour",
+              "1 cup oats",
+              "1 T sugar (you decide how sweet)",
+              "1 t baking powder",
+              "1/4 t salt",
+            ]
+          },
+          {
+            instruction: "Cut in butter until it crumbles. (refer to Biscuit recipe if uncertain)",
+            ingredients: [
+              "1/2 cup butter (1 stick)"
+            ]
+          },
+          {
+            instruction: "In a separate bowl whisk together",
+            ingredients: [
+              "3/4 cup milk",
+              "1 egg",
+            ],
+          },
+          {
+            "instruction": "Add the wet to the dries and mix with a fork just until reasonably moistened."
+          },
+          {
+            instruction: "Stir in any of these options",
+            ingredients: [
+              "1/2 cup chopped cooked ham",
+              "1/2 cup shredded cheddar",
+              "1/4 t onion powder",
+              "1/2 cup chopped fried bacon bits",
+              "1/2 t dried basil",
+              "1/2 t dried dill",
+            ]
+          },
+          {
+            instruction: "Drop the batter about 1/4 cup at a time onto a baking sheet. Bake for 12-15 minutes. Remove and cool on a wire rack, unless you  want to eat them warm. If you are trying to save them for later, you will have to stand guard or post signage because they are  almost irresistible."
+          },
+        ],
+        "reviews": {
+          "AJ": "Thumbs up.",
+          "NQ": "Bacon is the best.",
+          "JJ": "Can you make the sweet ones too? Then we can go back and forth: sweet salty, sweet, salty..."
+        }
+      },
+      {
+       "description": "Creative option \nIf you make the larger plops .. uh, I mean bissconies, and let them cool, they make a great lunch item. Wrap them to go! Bissconies are fairly sturdy so they  won't crumble into a mess, can be eaten without silverware and have the 'cool lunch' effect that every kid secretly longs for. ",
+        "outro": "My friend Lisa shared with me the best indulgent snack out ever: ordering both a hot fudge sundae and a side of fries, then enjoying them one bite of sweet, one bite of salty. It's all about balance. So, JJ had it right: you really should bake the Cinnamon Swirl AND the Savory Bissconies and serve them together.",
+      },
+    ],
+  },
+  {
+    "title": "Breakfast Crumb Cake",
+    "originalBookID": 2,
+    "recipeNumber": 14,
+    "segments": [
+      {
+        "intro": "Bake this the night before and you can hit the snooze button at least twice. Even if “breakfast” and “cake” seem like an oxymoron, this cake still ranks way above sweet things purchased at supermarkets, with  the added benefit that it makes children smile even if there was no snow day as the weather channel predicted and a chemistry test is  waiting for them in third hour.",
+        "steps": [
+          {
+            instruction: "The recipe makes a 9 by 13 inch pan. Preheat oven to 350F.",
+          },
+          {
+            "instruction": "Mix together wet stuff in large bowl",
+            "ingredients": [
+              "1 mashed banana",
+              "3 eggs",
+              "1 cup milk",
+              "1 cup buttermilk, yogurt, or sour cream",
+              "1/2 cup applesauce",
+              "1/2 cup vegetable oil",
+              "1 t vanilla",
+            ]
+          },
+          {
+            instruction: "Mix together dry stuff in medium bowl.",
+            ingredients: [
+              "1 1/2 cups white flour",
+              "1 cup whole wheat flour",
+              "1 cup sugar",
+              "1 t salt",
+              "2 t baking powder",
+              "1/2 t baking soda",
+              "2 T flax seed meal",
+              "1 small package instant vanilla pudding mix",
+              "1 t cinnamon",
+            ]
+          },
+          {
+            instruction: "Add dry to wet. Mix briefly. Pour into greased 9 by 13 pan.",
+          },
+          {
+            "instruction": "For the crumble toppint mix together.",
+            ingredients: [
+              "1/3 cup brown sugar",
+              "1/2 cup flour",
+              "1/2 cup rolled oats",
+            ]
+          },
+          {
+            instruction: "Cut in butter until it looks well-mixed and crumbly. Sprinkle over top of batter in pan.",
+            ingredients: [
+              "3 T unsalted butter",
+            ],
+          },
+          {
+            instruction: "Bake at 350 for about 40 minutes or until a toothpick inserted comes out without goop on it."
+          }
+        ],
+        description: "Tips\n\n*Get some sour dough starter. The favorite version of this cake uses 1 cup of sour dough starter in place of the one cup of sour dairy  stuff. This added zippy flavor is THE special ingredient. If you don’t have a friend to give you some starter, see the next page, make  your own starter and give it to your friends so there will always be enough around to borrow some back in case you happen to go to  Cambodia for a month and your spouse forgets to provide the most minimal of care to your treasured starter.",
+        "reviews": {
+          "AJ": "Can I have the biggest piece?",
+          "NQ": "Can I have the biggest corner piece with extra crumbles?",
+          "JJ": "Can I just have two pieces?"
+        }
+      },
+      {
+       "description": "Sour dough starter\nI keep a large wide-mouth glass jar of sour dough starter around the house. I used to think this was insane because no one who really  worked for a living would have time to mess with such a frivolous and finicky food item. Why would you want to maintain a jar of  goop that needs babysitting constantly? But then I discovered that sour dough starters are very forgiving and benefit from being  ignored for a few days and can be left for weeks in the fridge without really suffering much. Everyone in the family – okay, everyone  except JJ (because we can never be completely unanimous in a positive review of any food) – prefers the cake when the 1 cup of the  sour dairy item is replaced by 1 cup of sour dough starter.\n\nThe only starter that really worked for me (I tried several different kinds over the years) is the Amish friendship bread sour dough  starter. Here’s the simple-version of the recipe. Remember to avoid metal containers and spoons.",
+      },
+      {
+        steps: [
+          {
+            instruction: "Mix yeast with warm water. After 10 minutes mix in 'the trio' -- flour, sugar, and milk. Pour into a 2 quart glass or plastic container. You want to loosely cover the container so bugs, dust and dog hair don’t get in  but the air bubbles can leak out and nothing explodes. Use cheesecloth, plastic wrap or a canning lid with no metal rings. Let your container sit around on the counter, out of the way, so that no one mistakes it for a science experiment gone bad. After 5 days mix in  the trio again. Wait another 5 days and mix in another trio. Bingo! Sour dough starter. You can stir your starter every day if you wish  and enjoy dreaming of delicious baked goods, but your starter will not be offended if you ignore him for a couple days. When you  use up 1 cup of starter in a recipe, just replenish your starter jar by adding ½ cup each of flour, sugar and milk",
+            ingredients: [
+              "1 package active dry yeast",
+              "1/4 cup warmish water",
+              "1 cup flour",
+              "1 cup sugar",
+              "1 cup milk",
+            ]
+          }
+        ],
+        bulletList: {
+          header: "Confessions",
+          list: [
+            "I leave my starter on the counter year around unless I know in advance that I will not use him anytime in the next week.",
+            "I almost regularly ignore my starter for an entire week until it dawns on me that it’s time to make something sour-doughie again.",
+            "I have no idea why milk that sits out on the counter for one morning smells yucky, but sour dough starter with milk in it that sits in the nook by my stove for a week smells yummy.",
+            "When I got my starter from a friend and looked at the Amish friendship bread recipe that came with it, I was appalled at the huge  amounts of fat and sugar. The Breakfast Crumb Cake is the attempt to make something just as appealing to children but  significantly healthier. It took about a year and 20 tries to get it right.",
+            "I use crumb topping as a visual and palatable bribe, because crumb topping is almost as good as chocolate chips for getting kids to  eat whole wheat flour, oats and flax seed meal.",
+          ]
+        },
+        "outro": "Yes, let them eat cake.",
+      },
+    ],
   },
 ]
 

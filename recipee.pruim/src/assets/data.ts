@@ -1899,8 +1899,8 @@ export const RecipeData: Recipe[] = [
         "description": "Tips: The reason why Grandma likes the pancakes at the Old Country restaurant is because they fry their batter on very greasy griddles. After years of trying to make very healthy pancakes on non-stick surfaces, we’ve decided that if we just put a little bit of oil on the griddle or fry pan, folks are more likely to rave about the results. In any case, if the first batch is cooked in a lightly oiled pan, everyone will decide it’s worth having a good portion, even if subsequent batches are almost fat-free. Then we will deem breakfast worth making. Of course, even very healthy pancakes cooked with no oil will be eaten if smothered, layered or rolled with enough of the right toppings. ",
         "reviews": {
           "AJ": "The more chocolate the better.",
-          "NQ": "Thinner is better, rolled up with strawberry jam and tgopped with enough whipped topping to make Mom just frown",
-          "JJ": "Pancakes aren't my Favorite, but I like snowman shapes if Mom uses chocolate chips for the buttons and not raisins"
+          "NQ": "Thinner is better, rolled up with strawberry jam and topped with enough whipped topping to make Mom just frown.",
+          "JJ": "Pancakes aren't my favorite, but I like snowman shapes if Mom uses chocolate chips for the buttons and not raisins."
         }
       },
       {
@@ -1937,7 +1937,7 @@ export const RecipeData: Recipe[] = [
             "instruction": "Mix in a square cake pan or plastic container so that your bread slices can lie down in it (one less bowl to clean.)",
             "ingredients": [
               "2 eggs",
-              "1/4 cupp milk or half-and-half",
+              "1/4 cup milk or half-and-half",
               "1 T powdered sugar",
               "1 t vanilla",
               "1/2 t cinnamon",
@@ -1953,7 +1953,7 @@ export const RecipeData: Recipe[] = [
             instruction: "Dip each side of each sandwich in the egg stuff and then fry on a hot griddle (325F). Flip when the underside is golden brown. Then cook for another minute, before proceeding to the glazing."
           },
           {
-            "instruction": "In a separate fry pan or part of your griddle melt butter. Immediately sprinkle with brown sugar. Fry one sandwich with tghe least cooked side down on the glazed area of the pan for about a minute. Repeat for each sandwich. Remove and serve. Toppings optional.",
+            "instruction": "In a separate fry pan or part of your griddle melt butter. Immediately sprinkle with brown sugar. Fry one sandwich with the least cooked side down on the glazed area of the pan for about a minute. Repeat for each sandwich. Remove and serve. Toppings optional.",
             ingredients: [
               "small bits of butter (2 T total)",
               "4 t brown sugar",
@@ -1985,7 +1985,7 @@ export const RecipeData: Recipe[] = [
             instruction: "Fun ideas.\n\tGo savory. Eliminate the sugar, cinnamon, and vanilla from the egg stuff. Use your favorite combo of deli meats, cheeses, veggie spreads, hummus, and tomatoes for the filling. For the glaze replace the brown sugar with a sprinkle of basil, pepper, and sea salt. You end up with Montecristo sandwiches for breakfast, of course. That's a pretty funky but still delicious breakfast in under 20 minutes."
           }
         ],
-        "description": "Legal Cheats: Slice bread and mix the egg stuff the night before (storing liquids in the fridge). You can also make up the sandwiches the night before and store in a slightly open container in the fridge. In the mornign, all you have to do is turn on the griddle and start dipping and frying.\n\nIllegal Cheats: Do not dip or dip and fry filled French toasts the ngiht before. I cannot tell you how unpleasant they will be in the morning. Trust me.\n\nUp Early? Rev up the sweet glaze by adding a touch more butter and some finely chopped pecans to the sizzling glaze in the pan. Serve up the sandwiches with plenty of the nutty brown sugar glaze on top. Rev up the savory glaze by adding finely chopped green onions to the sizzling butter. Your mouth is watering. I know.",
+        "description": "Legal Cheats: Slice bread and mix the egg stuff the night before (storing liquids in the fridge). You can also make up the sandwiches the night before and store in a slightly open container in the fridge. In the morning, all you have to do is turn on the griddle and start dipping and frying.\n\nIllegal Cheats: Do not dip or dip and fry filled French toasts the ngiht before. I cannot tell you how unpleasant they will be in the morning. Trust me.\n\nUp Early? Rev up the sweet glaze by adding a touch more butter and some finely chopped pecans to the sizzling glaze in the pan. Serve up the sandwiches with plenty of the nutty brown sugar glaze on top. Rev up the savory glaze by adding finely chopped green onions to the sizzling butter. Your mouth is watering. I know.",
         "outro": "The French must have come up with French toast because old baguette has so few redeeming qualities."
       },
     ]
@@ -2000,7 +2000,7 @@ export const RecipeData: Recipe[] = [
         "intro": "We have tried many different waffle recipes. In fact, we have a whole book of waffle recipes, but we keep coming back to this one -- light and fluffy with a little crisp on the outside. This recipe was found on some small flyer that came with a waffle maker long years ago. Kids, here it is, so don't lose it!",
         "steps": [
           {
-            "instruction": "The basic recipe 10 6-inch round waffles. Preheat waffle maker.",
+            "instruction": "The basic recipe makes 10 6-inch round waffles. Preheat waffle maker.",
           },
           {
             instruction: "In bowl #1, beat 2 egg whites until stiff.",
@@ -2017,7 +2017,7 @@ export const RecipeData: Recipe[] = [
             ]
           },
           {
-            "instruction": "Gently fold egg whites into your batter.\n\nCook your waffles. Pour 1/2 cup batter into the center of the waffle iron grid. Close waffle maker, bake until golde (3-4 minutes). Repeat with remaining batter.",
+            "instruction": "Gently fold egg whites into your batter.\n\nCook your waffles. Pour 1/2 cup batter into the center of the waffle iron grid. Close waffle maker, bake until golden (3-4 minutes). Repeat with remaining batter.",
           },
           {
             instruction: "Serve hot wtih syrup, berries, and whipped topping, powdered sugar, chocolate-hazelnut spread, peanut butter, and honey or whatever else your heart desires.",
@@ -2115,19 +2115,19 @@ export const RecipeData: Recipe[] = [
           },
         ],
         "description": "Cooking Crepes:\n\nUse about 1/4 cup of batter per crepe. Pour it all at once onto a hot griddle and use your nifty crepe spreader (which you don't have so just go for a good rubber spatula) to spread the batter quickly into a thin circle. Don't worry about being perfectly even or round. It's breakfast for the kids, not dessert for royalty. Cover any particularly uneven spots with extra chocolate spread after they are done cooking. Who is going to complain?\
- \n\nIF you own a crepe pan, yolu already know what to do. (... unless it was an unexpected gift from your in-laws and you've just remembered it's packed in a box in the back corner of the attic. In this case, pour the 1/4 cup of batter in your preheated and seaseoned crepe pan and then swirl the pan around so that the watery batter flows all over the pan evenly. A 7-inch nonstick fry pan also works.) When the edges of your crepe are slightly brown, flip the crepe over and allow it 15-30 seconds on the other side.",
+ \n\nIF you own a crepe pan, you already know what to do. (... unless it was an unexpected gift from your in-laws and you've just remembered it's packed in a box in the back corner of the attic. In this case, pour the 1/4 cup of batter in your preheated and seaseoned crepe pan and then swirl the pan around so that the watery batter flows all over the pan evenly. A 7-inch nonstick fry pan also works.) When the edges of your crepe are slightly brown, flip the crepe over and allow it 15-30 seconds on the other side.",
         bulletList: {
           header: "Sweet Somethings",
           list: [
-            "Put a nice generous smear of filling on your open crepe anyway that pleases you. Then roll up yhour crepe and enjoy. This can be finger food, unless you have declared it to be a royal feast day where all young ladies and knights bmust use silver-wares. (this actually worked once. Everyone ate crepes with a fork and knife and used words like lovely. It was weird).",
+            "Put a nice generous smear of filling on your open crepe anyway that pleases you. Then roll up your crepe and enjoy. This can be finger food, unless you have declared it to be a royal feast day where all young ladies and knights bmust use silver-wares. (this actually worked once. Everyone ate crepes with a fork and knife and used words like lovely. It was weird).",
             "The obvious favorite filling at thiss house is Nutella or hazelnut chocolate spread. It's no wonder that this combo is sold by every crepe-making street vendor the world over.",
             "Second place goes to homemade strawberry jam in the middle and powdered sugar sprinkled on top."
           ]
         },
         reviews: {
-          "AJ": "Not better than your best pancakes, but you get a higher nuella to cake ratio with the crepes.",
+          "AJ": "Not better than your best pancakes, but you get a higher Nutella to cake ratio with the crepes.",
           "NQ": "Stop complaining and hand over the strawberry jam.",
-          "JJ": "If I don't roll my crepe can I put more nutella on it and eat it all open?"
+          "JJ": "If I don't roll my crepe can I put more Nutella on it and eat it all open?"
         }
       },
       {
@@ -2149,7 +2149,7 @@ export const RecipeData: Recipe[] = [
             instruction: "Funner\n Fill up your crepe with a smear of orange marmalade and scrambled eggs.",
           },
           {
-            instruction: "Funnest (stolen from teh southwest region of Germany)\nIn each crepe place a thin slice of cooked deli ham and two spears of steamed young asparagus. Roll up and top it all witha very light white wine and cream sauce and three shavings of real parmesan. (Okay so this idea really belongs in the next cookbook: An Eclectic Introduction to Kid-friendly International Cooking.)"
+            instruction: "Funnest (stolen from the southwest region of Germany)\nIn each crepe place a thin slice of cooked deli ham and two spears of steamed young asparagus. Roll up and top it all witha very light white wine and cream sauce and three shavings of real parmesan. (Okay so this idea really belongs in the next cookbook: An Eclectic Introduction to Kid-friendly International Cooking.)"
           }
         ],
         outro: "Is Crepes Suzette just a small version of crepes Susan?"
@@ -2495,7 +2495,7 @@ export const RecipeData: Recipe[] = [
         },
       },
       {
-        description: "Cheats\nYou can speed things up in the morning by mixing the dry ingredients and cutting in the butter the night before. Just as with the biscuits, you can leave this crumble on the counter overnight unless it is really hot in the house, in which case you might want to put your bowl in the fridge. In the mornign resume where you left off: measure and add the liquid, mix, shap your scones, and bake.\
+        description: "Cheats\nYou can speed things up in the morning by mixing the dry ingredients and cutting in the butter the night before. Just as with the biscuits, you can leave this crumble on the counter overnight unless it is really hot in the house, in which case you might want to put your bowl in the fridge. In the morning resume where you left off: measure and add the liquid, mix, shap your scones, and bake.\
  \n\nCreative Options\nMy friend Mike married lovely Kim who lived many years in Ireland. They once spoiled me by baking a batch of authentic Irish scones from an expensive, personally imported packaged mix. They were really pretty special and nothing like those thangs at the uppity cafe. With a few adjustments you can turn Simple Sweet Scones into... ",
       },
       {
@@ -3137,10 +3137,10 @@ export const RecipeData: Recipe[] = [
             instruction: "The basic uses 4-5 apples",
           },
           {
-            "instruction": "Core 5 good apples (not the delicious variety which will just turn to tasteless mush). I use a corer that yhou push into yhour apple to create a tunnel right where the core use to be.",
+            "instruction": "Core 5 good apples (not the delicious variety which will just turn to tasteless mush). I use a corer that yhou push into your apple to create a tunnel right where the core use to be.",
           },
           {
-            instruction: "Arrange your apples in the bottom of yhour crockpot so you can look down the holes.",
+            instruction: "Arrange your apples in the bottom of your crockpot so you can look down the holes.",
           },
           {
             instruction: "In a small bowl mix 1/2 cup brown sugar, 1 t cinnamon and 1/4 cup raisins.",

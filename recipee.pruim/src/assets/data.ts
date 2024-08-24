@@ -140,7 +140,7 @@ export const RecipeData: Recipe[] = [
             "instruction": "Bake for 50-55 minutes or until a toothpick comes out pretty dry. Remove from pan and serve warm, if possible."
           }
         ],
-        "description": "This was a recipe I used to make when I was home a lot but still didn’t have a lot of time for making yeast breads. This mixes up more quickly than biscuits though it bakes lots longer. This loaf satisfies that need for something both chewy and a little crumbly to hold your homemade strawberry jam, or honey, or butter, or even a nice slice of cheese. \n\n2021: If you want a quick cheer-up gift for someone in your life right now and don’t have an hour but do have about 15 minutes, give them a Happy Soda Bread Mix. \n\t 1. Mix together all the dry ingredients and pour into a Ziploc. \n\t 2. Write a note like this: In a large bowl, stir together your soda-bread mix, 1 Tablespoon vegetable oil, and 1 can of ginger ale or beer. Pour into a lightly greased bread pan. Bake for 50-55 minutes or until a toothpick comes out dry. Remove from the pan and serve warm. \n\t 3. Put the recipe note, the Ziploc of bread mix, and an appropriate can of carbonated beverage into a small gift bag. Then deliver the Joy. ",
+        "description": "This was a recipe I used to make when I was home a lot but still didn’t have a lot of time for making yeast breads. This mixes up more quickly than biscuits though it bakes lots longer. This loaf satisfies that need for something both chewy and a little crumbly to hold your homemade strawberry jam, or honey, or butter, or even a nice slice of cheese. \n\n2021: If you want a quick cheer-up gift for someone in your life right now and don’t have an hour but do have about 15 minutes, give them a Happy Soda Bread Mix. \n\t 1. Mix together all the dry ingredients and pour into a Ziploc. \n\t 2. Write a note like this: In a large bowl, stir together your soda-bread mix, 1 T vegetable oil, and 1 can of ginger ale or beer. Pour into a lightly greased bread pan. Bake for 50-55 minutes or until a toothpick comes out dry. Remove from the pan and serve warm. \n\t 3. Put the recipe note, the Ziploc of bread mix, and an appropriate can of carbonated beverage into a small gift bag. Then deliver the Joy. ",
         "outro": "Quick breads aren’t always as quick as you’d like, but they let you have bready goodness without babysitting a yeast dough. "
       }
     ]
@@ -353,7 +353,7 @@ export const RecipeData: Recipe[] = [
             "instruction": "When you have pan fried or sautéed meats …"
           },
           {
-            "instruction": "Remove the meats from the fry pan with a slotted spoon, leaving any grease, juices, or even little bits of meat. You want 3-4 Tablespoons of oil and drippings. If needed, add vegetable oil so you have a total of 3-4 T in your pan. Whisk in flour and cook on medium for 1-2 minutes.",
+            "instruction": "Remove the meats from the fry pan with a slotted spoon, leaving any grease, juices, or even little bits of meat. You want 3-4 T of oil and drippings. If needed, add vegetable oil so you have a total of 3-4 T in your pan. Whisk in flour and cook on medium for 1-2 minutes.",
             "ingredients": [
               "Pan drippings",
               "1/2 cup flour"
@@ -430,7 +430,7 @@ export const RecipeData: Recipe[] = [
             ]
           },
           {
-            "instruction": "For the filling, mix together 5-6 cups of stuff from the list below, choosing your ingredients and proportions to please your audience … or yourself. \n\tpeeled potatoes, chopped small\n\tpeeled carrots, chopped small\n\tpeeled, finely chopped onion\n\tfrozen and thawed peas or beans\n\tcooked chopped meat (beef roast, hamburger, chicken, lamb, ham, bacon, steak, etc.)\n\tchopped sautéed mushrooms\n\tStir in 2 cups of gravy. Use chicken, beef, or veggie gravy - whichever makes sense with your mélange choices, stirring in 1 Tablespoon of soy sauce to boost the flavor.\n\tMix in salt and pepper to taste."
+            "instruction": "For the filling, mix together 5-6 cups of stuff from the list below, choosing your ingredients and proportions to please your audience … or yourself. \n\tpeeled potatoes, chopped small\n\tpeeled carrots, chopped small\n\tpeeled, finely chopped onion\n\tfrozen and thawed peas or beans\n\tcooked chopped meat (beef roast, hamburger, chicken, lamb, ham, bacon, steak, etc.)\n\tchopped sautéed mushrooms\n\tStir in 2 cups of gravy. Use chicken, beef, or veggie gravy - whichever makes sense with your mélange choices, stirring in 1 T of soy sauce to boost the flavor.\n\tMix in salt and pepper to taste."
           },
           {
             "instruction": "Basically, you’re making a savory pie. Use your fine mélange as a pie filling. Put one rolled out crust in your pie plate. Spoon in the meaty mélange. Brush the crust edges all around lightly with a small amount of water to help the two crusts seal together. Cover your pie with a second rolled out pie crust, pressing lightly all around the dish to seal up the two crusts."
@@ -445,7 +445,7 @@ export const RecipeData: Recipe[] = [
             "instruction": "Remove from oven when the crust is light brown and you can see gravy bubbling up a little through the slits you made. If you can resist, let the pie rest for at least 5 minutes before slicing and serving"
           },
           {
-            "instruction": "Options:\n\tAdd a cup of shredded cheese to your mélange before spooning it into the pie plate.\n\tMix 1-2 teaspoons of curry powder and 1/3 cup tomato paste into your gravy. Great with either beef or chicken.\n\tJust use beef, mushrooms, and gravy. Ahhh!\n\tYes, you can make your “meat pie” vegetarian."
+            "instruction": "Options:\n\tAdd a cup of shredded cheese to your mélange before spooning it into the pie plate.\n\tMix 1-2 t of curry powder and 1/3 cup tomato paste into your gravy. Great with either beef or chicken.\n\tJust use beef, mushrooms, and gravy. Ahhh!\n\tYes, you can make your “meat pie” vegetarian."
           }
         ],
         "description": "New Zealand. Beside beautiful landscapes and amazing hiking, what we miss about New Zealand is meat pies – Individual, hold-in-your-hand pies filled with savory fillings in a variety of flavors. Unfortunately, in the USA meat pies are not a common fast food available almost everywhere like they are in New Zealand. So, even though making this recipe takes a lot of effort, you’re not going to get a good meat pie around here any other way. The important difference between American pot pies and New Zealand meat pies? New Zealand meat pies have a higher proportion of meat to veggies, lots of extra flavorful gravy, and an array of flavor and filling options.",
@@ -494,7 +494,7 @@ export const RecipeData: Recipe[] = [
             "instruction": "options: \\n\t add dried basil or parsley. Stir in 1 T soy sauce for added flavor. \n\t Use other cuts of beef, sliced thin and lightly sauteed. \n\t Use leftover beef roast cut into bite-sized pieces"
           }
         ],
-        "description": "Yes, sometimes recipes become a lowest-common-denominator thing. You can make this stroganoff with no onions and no mushrooms. You can even eliminate the sour cream and increase the amount of beef broth to 2 ½ cups, to please the person who doesn’t like the sour cream tang. Then you end up with meat and gravy, but that’s still comfort food. Someday though, I’m going to make this recipe with a whole pound of mushrooms and 3 onions. Just for me.\n2021: Tofu Stroganoff. Adapt this recipe to create a vegetarian stroganoff by sauteing chunks of extra-firm tofu instead of beef and adding dried basil, 1 Tablespoon of soy sauce, and extra pepper to the seasonings. If you’re cooking for spice lovers, feel free to add a small amount of red pepper flakes and extra garlic. (I’m not adding those things, but you could.) Remove your sauteed tofu to a bowl while you make the gravy using a flavorful mushroom- or veggie-based stock instead of the beef stock. When you have added the milk and your sauce is almost warm enough, gently stir in your sauteed tofu and warm everything to your favorite eating temperature. Serve with either cooked pasta or good rice, and set out the soy sauce bottle to add extra flavoring at the end.",
+        "description": "Yes, sometimes recipes become a lowest-common-denominator thing. You can make this stroganoff with no onions and no mushrooms. You can even eliminate the sour cream and increase the amount of beef broth to 2 ½ cups, to please the person who doesn’t like the sour cream tang. Then you end up with meat and gravy, but that’s still comfort food. Someday though, I’m going to make this recipe with a whole pound of mushrooms and 3 onions. Just for me.\n2021: Tofu Stroganoff. Adapt this recipe to create a vegetarian stroganoff by sauteing chunks of extra-firm tofu instead of beef and adding dried basil, 1 T of soy sauce, and extra pepper to the seasonings. If you’re cooking for spice lovers, feel free to add a small amount of red pepper flakes and extra garlic. (I’m not adding those things, but you could.) Remove your sauteed tofu to a bowl while you make the gravy using a flavorful mushroom- or veggie-based stock instead of the beef stock. When you have added the milk and your sauce is almost warm enough, gently stir in your sauteed tofu and warm everything to your favorite eating temperature. Serve with either cooked pasta or good rice, and set out the soy sauce bottle to add extra flavoring at the end.",
         "outro": "“Stroganoff” is originally a Russian dish with chunks of beef and sour cream. Go figure."
       }
     ]
@@ -589,7 +589,7 @@ export const RecipeData: Recipe[] = [
             "instruction": "Pour 1 T olive oil in your 4-quart crockpot. Brush around to coat the sides and bottom of the crock."
           },
           {
-            "instruction": "Add rice and another tablespoon of olive oil. Stir until grains are coated.",
+            "instruction": "Add rice and another T of olive oil. Stir until grains are coated.",
             "ingredients": [
               "1 1/4 cups rice"
             ]
@@ -804,7 +804,7 @@ export const RecipeData: Recipe[] = [
             "ingredients": [
               "4 cup flour",
               "3 cups powdered sugar",
-              "4/5 T cinnamon (yes Tablespoons. Afterall, these are called CINNAMON stars.)",
+              "4/5 T cinnamon (yes T. Afterall, these are called CINNAMON stars.)",
               "1/2 cup margarinne or unsalted butter",
               "2 eggs + 2 egg whites (save the yolks for the glaze)"
             ]
@@ -894,7 +894,7 @@ export const RecipeData: Recipe[] = [
             "instruction": "Buttercream frosting or cream cheese frosting. Mix together, adjusting as needed for your desired consistency. Do not frost your cake until it has completely cooled.",
             "ingredients": [
               "½ cup butter or margarine",
-              "2 ½ - 3 ½ cups powdered sugar, alternately with tablespoons of milk (about ¼ cup total)",
+              "2 ½ - 3 ½ cups powdered sugar, alternately with T of milk (about ¼ cup total)",
               "1 t vanilla"
             ]
           }
@@ -1044,7 +1044,7 @@ export const RecipeData: Recipe[] = [
             "instruction": "In a bowl mix together",
             "ingredients": [
               "2 cups flour",
-              "1/2 teaspoon salt"
+              "1/2 t salt"
             ]
           },
           {
@@ -1055,7 +1055,7 @@ export const RecipeData: Recipe[] = [
             ]
           },
           {
-            "instruction": "When your mixture resembles fine crumbles, stir in 4 tablespoons cold water with a fork until a ball starts forming. Your ball should hold together well and not stick too much to your fingers. Adjust as needed by adding a tad more water to a dry mixture or a tad more flour to a wet mixture.Form a ball. Divide in half. Roll out each half into a 10 1/2 inch circle. \nTip: Roll this out in between two sheets of wax paper dusted with a little flour. Peel one paper back. The circle of dough should be stuck to the other piece of wax paper and can be easily swooped off the counter and centered over your pie plate. Carefully peel away the second piece of wax paper. And fidget with the dough and the edges until it looks like a pie crust."
+            "instruction": "When your mixture resembles fine crumbles, stir in 4 T cold water with a fork until a ball starts forming. Your ball should hold together well and not stick too much to your fingers. Adjust as needed by adding a tad more water to a dry mixture or a tad more flour to a wet mixture.Form a ball. Divide in half. Roll out each half into a 10 1/2 inch circle. \nTip: Roll this out in between two sheets of wax paper dusted with a little flour. Peel one paper back. The circle of dough should be stuck to the other piece of wax paper and can be easily swooped off the counter and centered over your pie plate. Carefully peel away the second piece of wax paper. And fidget with the dough and the edges until it looks like a pie crust."
           },
           {
             "instruction": "Preheat oven to 400."
@@ -1546,7 +1546,7 @@ export const RecipeData: Recipe[] = [
             "ingredients": [
               "1/2 cup u nsalted butter, softened",
               "1/2 cup cocoa",
-              "2 1/2 -3 cups powdered sugar alternately with tablespoons of milk (about 1/4 cup total)",
+              "2 1/2 -3 cups powdered sugar alternately with T of milk (about 1/4 cup total)",
               "1 t vanilla"
             ]
           },
@@ -1672,7 +1672,7 @@ export const RecipeData: Recipe[] = [
             ]
           }
         ],
-        "description": "I was strictly a pudding-from-a-box person until I lived in New Zealand. Either the boxed stuff was too expensive or I didn’t find them in the store. In any case, homemade pudding became one of our go-to desserts. Italian cocoa is a dessert that a friend in Germany made for me from a box imported from Italy. It was a super thick and rich drinkable cocoa and was so much like pudding I figured I could figure out how to make it myself from scratch back in the USA.\nXtra Dark Chocolate Pudding - Use extra dark cocoa and add an extra T of cocoa and an extra T of sugar. Xtra Rich Chocolate Pudding - Increase the butter to 3 tablespoons and the vanilla to 2 teaspoons. Xtra Creamy Pudding - Use whole milk or 2% instead of skim. Yup. Yum.",
+        "description": "I was strictly a pudding-from-a-box person until I lived in New Zealand. Either the boxed stuff was too expensive or I didn’t find them in the store. In any case, homemade pudding became one of our go-to desserts. Italian cocoa is a dessert that a friend in Germany made for me from a box imported from Italy. It was a super thick and rich drinkable cocoa and was so much like pudding I figured I could figure out how to make it myself from scratch back in the USA.\nXtra Dark Chocolate Pudding - Use extra dark cocoa and add an extra T of cocoa and an extra T of sugar. Xtra Rich Chocolate Pudding - Increase the butter to 3 T and the vanilla to 2 t. Xtra Creamy Pudding - Use whole milk or 2% instead of skim. Yup. Yum.",
         "outro": " “There is nothing better than a friend, unless it is a friend with chocolate.” – Linda Grayson"
       }
     ]
@@ -1909,7 +1909,7 @@ export const RecipeData: Recipe[] = [
             "instruction": "Creative Options"
           },
           {
-            "instruction": "Dry stuff \nYou must use 2 teaspoons baking power. \n\tAdd 1 T flaxseed meal or cocoa. \n\tReplace half the flour with whole wheat flour \n\tReplace the sugar with honey, molasses, or brown sugar."
+            "instruction": "Dry stuff \nYou must use 2 t baking power. \n\tAdd 1 T flaxseed meal or cocoa. \n\tReplace half the flour with whole wheat flour \n\tReplace the sugar with honey, molasses, or brown sugar."
           },
           {
             "instruction": "Wet stuff \n\tYou must use 1 egg or egg substitue. \n\tReplace some or all of the milk with any of the follwoing equaling about 1-1 1/4 cup: applesauce, apple cider, orange juice, buttermilk, sourdough starter, yogurt, milk substitute, 1 t vanilla, 1/4 t cinnamon. \n\tMore wet stuff makes for thinner, crepe-like pancakes. Less or thicker wet stuff makes cakier, taller pancakes. Experiment. \n\tIf you use any applesauce, then the addition of 1 T oil is optional."
@@ -1940,7 +1940,7 @@ export const RecipeData: Recipe[] = [
               "1/4 cupp milk or half-and-half",
               "1 T powdered sugar",
               "1 t vanilla",
-              "1/2 teaspoon cinnamon",
+              "1/2 t cinnamon",
             ]
           },
           {
@@ -1956,11 +1956,11 @@ export const RecipeData: Recipe[] = [
             "instruction": "In a separate fry pan or part of your griddle melt butter. Immediately sprinkle with brown sugar. Fry one sandwich with tghe least cooked side down on the glazed area of the pan for about a minute. Repeat for each sandwich. Remove and serve. Toppings optional.",
             ingredients: [
               "small bits of butter (2 T total)",
-              "4 teaspoons brown sugar",
+              "4 t brown sugar",
             ]
           }
         ],
-        "description": "It DOES matter what bread you use. It doesn’t take a Ph.D. to tell you: the better your bread, the better  anything you make with the bread (and the less likely you’ll have leftovers to make anything with). Buy  or bake GOOD bread and do it often. It’s worth it. Besides if you have extra bread, you can make not  only Fabulous and Funky Filled French Toast but also Breakfast Bread Pudding. If your favorite bread is the soft kind, it’s okay to slice the loaf and leave the bag open overnight, so that  the bread dries a little and stands up well to spreading the filling on it.",
+        "description": "It DOES matter what bread you use. It doesn’t take a Ph.D. to tell you: the better your bread, the better anything you make with the bread (and the less likely you’ll have leftovers to make anything with). Buy or bake GOOD bread and do it often. It’s worth it. Besides if you have extra bread, you can make not only Fabulous and Funky Filled French Toast but also Breakfast Bread Pudding. If your favorite bread is the soft kind, it’s okay to slice the loaf and leave the bag open overnight, so that the bread dries a little and stands up well to spreading the filling on it.",
         "reviews": {
           "AJ": "Yum pass the syrup.",
           "NQ": "Hold the filling. I'll h ave more glaze instead.",
@@ -1979,7 +1979,7 @@ export const RecipeData: Recipe[] = [
             instruction: "The Egg stuff. \n\tReplace 1/8 cup liquid with fruit juice, cold coffee, or half and half. \n\t Replace vanilla with maple or almond flavoring.\n\tAdd a sprinkle of nutmeg for a grown-up taste."
           },
           {
-            "instruction": "The filling.\n\tAdd raisins.\n\tUse a flavored cream cheese.\n\tAdd thinly sliced bananas. Careful when flipping sandwiches!\n\tAdd 1/2 tablespoon jam.\n\tReplace cream cheese with peanut butter or chocolate hazelnut spread.",
+            "instruction": "The filling.\n\tAdd raisins.\n\tUse a flavored cream cheese.\n\tAdd thinly sliced bananas. Careful when flipping sandwiches!\n\tAdd 1/2 T jam.\n\tReplace cream cheese with peanut butter or chocolate hazelnut spread.",
           },
           {
             instruction: "Fun ideas.\n\tGo savory. Eliminate the sugar, cinnamon, and vanilla from the egg stuff. Use your favorite combo of deli meats, cheeses, veggie spreads, hummus, and tomatoes for the filling. For the glaze replace the brown sugar with a sprinkle of basil, pepper, and sea salt. You end up with Montecristo sandwiches for breakfast, of course. That's a pretty funky but still delicious breakfast in under 20 minutes."
@@ -1997,7 +1997,7 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "15 minutes",
     "segments": [
       {
-        "intro": "We have tried many different waffle recipes. In fact, we have a whole book of waffle recipes, but we keep coming back to this one --  light and fluffy with a little crisp on the outside. This recipe was found on some small flyer that came with a waffle maker long years  ago. Kids, here it is, so don't lose it!",
+        "intro": "We have tried many different waffle recipes. In fact, we have a whole book of waffle recipes, but we keep coming back to this one -- light and fluffy with a little crisp on the outside. This recipe was found on some small flyer that came with a waffle maker long years ago. Kids, here it is, so don't lose it!",
         "steps": [
           {
             "instruction": "The basic recipe 10 6-inch round waffles. Preheat waffle maker.",
@@ -2005,7 +2005,7 @@ export const RecipeData: Recipe[] = [
           {
             instruction: "In bowl #1, beat 2 egg whites until stiff.",
             ingredients: ["2 egg whites"],
-          },{
+          }, {
             instruction: "In bowl #2 mix the following until moistened and smooth",
             ingredients: [
               "2 egg yolks",
@@ -2071,12 +2071,12 @@ export const RecipeData: Recipe[] = [
       },
       {
         "bulletList": {
-            header: "Cheating",
-            list: [
-              "You can mix the batter up the night before and put it in the fridge, but it doesn't save you much time really, unless yhou are zesting your fresh lemon - which is worth it if you can ever remmeber to have a lemon on hand. In the morning you'll have to whisk the sleeping batter again.",
-              "You don't have to peel your apples, if you don't mind eating the sauteed apples with their skins on. I don't mind but a certain someone at my home is 'textgure sensitive.",
-              "Yes, this recipe does not use a griddle, but the fry pan + oven combination will have to be explored further because you work for 10 minutes and then can almost get your shower in before breakfast is ready to come out of the oven."
-            ]
+          header: "Cheating",
+          list: [
+            "You can mix the batter up the night before and put it in the fridge, but it doesn't save you much time really, unless yhou are zesting your fresh lemon - which is worth it if you can ever remmeber to have a lemon on hand. In the morning you'll have to whisk the sleeping batter again.",
+            "You don't have to peel your apples, if you don't mind eating the sauteed apples with their skins on. I don't mind but a certain someone at my home is 'textgure sensitive.",
+            "Yes, this recipe does not use a griddle, but the fry pan + oven combination will have to be explored further because you work for 10 minutes and then can almost get your shower in before breakfast is ready to come out of the oven."
+          ]
         },
         "outro": "Life, within doors, has few pleasanter prospects than a neatly arranged and well provisioned breakfast table - Nathaniel Hawthorn"
       },
@@ -2115,7 +2115,7 @@ export const RecipeData: Recipe[] = [
           },
         ],
         "description": "Cooking Crepes:\n\nUse about 1/4 cup of batter per crepe. Pour it all at once onto a hot griddle and use your nifty crepe spreader (which you don't have so just go for a good rubber spatula) to spread the batter quickly into a thin circle. Don't worry about being perfectly even or round. It's breakfast for the kids, not dessert for royalty. Cover any particularly uneven spots with extra chocolate spread after they are done cooking. Who is going to complain?\
-        \n\nIF you own a crepe pan, yolu already know what to do. (... unless it was an unexpected gift from your in-laws and you've just remembered it's packed in a box in the back corner of the attic. In this case, pour the 1/4 cup of batter in your preheated and seaseoned crepe pan and then swirl the pan around so that the watery batter flows all over the pan evenly. A 7-inch nonstick fry pan also works.) When the edges of your crepe are slightly brown, flip the crepe over and allow it 15-30 seconds on the other side.",
+ \n\nIF you own a crepe pan, yolu already know what to do. (... unless it was an unexpected gift from your in-laws and you've just remembered it's packed in a box in the back corner of the attic. In this case, pour the 1/4 cup of batter in your preheated and seaseoned crepe pan and then swirl the pan around so that the watery batter flows all over the pan evenly. A 7-inch nonstick fry pan also works.) When the edges of your crepe are slightly brown, flip the crepe over and allow it 15-30 seconds on the other side.",
         bulletList: {
           header: "Sweet Somethings",
           list: [
@@ -2163,7 +2163,7 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "12 minutes the night before; 1 minute in the morning",
     "segments": [
       {
-        "intro": "I used to think that crock pots were a way to simmer brothy soups without having to stir all day. But then I realized that crock pots  could work the night shift. This means you do all the math and handle the sharp knives in the evening, when you’re actually awake, AND when you wake up, really yummy smells are filling your home. ",
+        "intro": "I used to think that crock pots were a way to simmer brothy soups without having to stir all day. But then I realized that crock pots could work the night shift. This means you do all the math and handle the sharp knives in the evening, when you’re actually awake, AND when you wake up, really yummy smells are filling your home. ",
         "steps": [
           {
             "instruction": "The night before:\nLightly butter your 4-quart crock. Put in ingredients and stir briefly. Set the crock to cook on LOW for 10 hours.",
@@ -2182,10 +2182,10 @@ export const RecipeData: Recipe[] = [
           },
           {
             "instruction": "In the morning:\
-            \nSleep. Notice the alarm soundning off. Hit snooze. Hit snooze again (optional).\n\nWake up as you stir your oatsy risotto. Dis up warm, delicikous bowls of sweet, appley breakfast.\n Drizzle with honey and serve (if desired with a drizzle of milk or half-and half, too).",
+ \nSleep. Notice the alarm soundning off. Hit snooze. Hit snooze again (optional).\n\nWake up as you stir your oatsy risotto. Dis up warm, delicikous bowls of sweet, appley breakfast.\n Drizzle with honey and serve (if desired with a drizzle of milk or half-and half, too).",
           },
         ],
-        "description": "Tips:\nIf you hate both oatmeal and risotto, you are unlikely to try this recipe and rightly so. However, certain members of my household  known to be pretty lukewarm about oatmeal found this recipe to be an acceptable change-up. Extra honey helps. ",
+        "description": "Tips:\nIf you hate both oatmeal and risotto, you are unlikely to try this recipe and rightly so. However, certain members of my household known to be pretty lukewarm about oatmeal found this recipe to be an acceptable change-up. Extra honey helps. ",
         "reviews": {
           "AJ": "Not as good as the breakfast scrambles, but a good change of pace from Mom’s Real Worth-it Oatmeal.",
           "NQ": "If I had a little more time, I’d eat more.",
@@ -2193,13 +2193,13 @@ export const RecipeData: Recipe[] = [
         },
       },
       {
-        "description": "Creative Options:\nSweet and savory. If you are like JJ who always craves something a bit salty to offset the sweet breakfasts, then you can consider  frying breakfast sausage links, slicing them into bite-size pieces and letting folks enjoy a few pieces on top of this sweet risotto. It  sounds a bit strange, but think about the apples and brown sugar mixing with the pork. Ah, now you’re getting the idea. • All grown-up. If you dare, add ½ cup raisins and ¼ teaspoon nutmeg. ",
-        "bulletList" : {
+        "description": "Creative Options:\nSweet and savory. If you are like JJ who always craves something a bit salty to offset the sweet breakfasts, then you can consider frying breakfast sausage links, slicing them into bite-size pieces and letting folks enjoy a few pieces on top of this sweet risotto. It sounds a bit strange, but think about the apples and brown sugar mixing with the pork. Ah, now you’re getting the idea. • All grown-up. If you dare, add ½ cup raisins and ¼ t nutmeg. ",
+        "bulletList": {
           header: "Aboutt Crock pot cooking",
           list: [
-            "Decades of discovery. Until I was twenty I thought that crock pots were designed to make baked beans once each year for the  family reunion. In my twenties, I realized that crock pots were in fact meant for simmering soups and stews. When in my thirties  I was first in charge of large feasts for extended family, I used the crock pot to give me a fifth burner to keep things warm or  simmering. It wasn’t until a later decade, that I discovered that crock pots worked for porridges, rice puddings, bread puddings  and risottos. I wonder what I’ll figure out in the next decades. ",
-            "All wet. The trick to cooking thick-ish things in a crock pot is having the right ratio of liquids to solids, complicated by the fact  that different solids need varying amounts of liquid to turn out the way you like them. No one  likes goopy bread pudding and dry porridge is a contradiction in terms. Measure carefully, watch  the overall cooking time and adjust cautiously. ",
-            "Sticky business. Lightly greasing or oiling the crock pot really helps make the clean up more  reasonable. I must admit that when I do crock pot breakfasts, I have been known to leave the  crock pot soaking in the sink while we’re all gone for the day. No one is around but the dog and I  made her promise not to tell anyone.  ",
+            "Decades of discovery. Until I was twenty I thought that crock pots were designed to make baked beans once each year for the family reunion. In my twenties, I realized that crock pots were in fact meant for simmering soups and stews. When in my thirties I was first in charge of large feasts for extended family, I used the crock pot to give me a fifth burner to keep things warm or simmering. It wasn’t until a later decade, that I discovered that crock pots worked for porridges, rice puddings, bread puddings and risottos. I wonder what I’ll figure out in the next decades. ",
+            "All wet. The trick to cooking thick-ish things in a crock pot is having the right ratio of liquids to solids, complicated by the fact that different solids need varying amounts of liquid to turn out the way you like them. No one likes goopy bread pudding and dry porridge is a contradiction in terms. Measure carefully, watch the overall cooking time and adjust cautiously. ",
+            "Sticky business. Lightly greasing or oiling the crock pot really helps make the clean up more reasonable. I must admit that when I do crock pot breakfasts, I have been known to leave the crock pot soaking in the sink while we’re all gone for the day. No one is around but the dog and I made her promise not to tell anyone. ",
           ]
         },
         "outro": "“She was perfectly quiet now, but not asleep – only soothed by sweet porridge and warmth…” George Eliot, English Victorian novelist"
@@ -2213,7 +2213,7 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "15 minutes the night before; 1 minute in the morning",
     "segments": [
       {
-        "intro": "Rice risotto cooked in the crock pot is a new Sunday lunch staple at my home. We are making up for decades of being too busy to  make risotto the old-fashioned, 'stir for an hour' way. But rice cooked long and low over night does not generally do so well. So,  here is a breakfast risotto recipe made with barley that cooks over night and is delicious in the morning.",
+        "intro": "Rice risotto cooked in the crock pot is a new Sunday lunch staple at my home. We are making up for decades of being too busy to make risotto the old-fashioned, 'stir for an hour' way. But rice cooked long and low over night does not generally do so well. So, here is a breakfast risotto recipe made with barley that cooks over night and is delicious in the morning.",
         "steps": [
           {
             "instruction": "The night before:\nLightly grease your 4-quart crock. Put in ingredients.",
@@ -2239,13 +2239,13 @@ export const RecipeData: Recipe[] = [
             "instruction": "In the morning: serve"
           },
         ],
-        "description": "Creative options - Fusion fun\nMediterranean: In the evening add 1/4 cup raisins, 2 tablespoons lemon  juice, 1/4 teaspoon ground black pepper, 1 tablespoon olive oil. Sunshine: In the evening add 1/4 cup orange juice concentrate and 1/4  cup dried cranberries. In the morning, sprinkle with flaked coconut. Meat-me: In the evening, sauté breakfast sausage or chopped ham or  chopped bacon with mushrooms and chopped onions. Add this mixture to  your crock with the barley.",
+        "description": "Creative options - Fusion fun\nMediterranean: In the evening add 1/4 cup raisins, 2 T lemon juice, 1/4 t ground black pepper, 1 T olive oil. Sunshine: In the evening add 1/4 cup orange juice concentrate and 1/4 cup dried cranberries. In the morning, sprinkle with flaked coconut. Meat-me: In the evening, sauté breakfast sausage or chopped ham or chopped bacon with mushrooms and chopped onions. Add this mixture to your crock with the barley.",
         "reviews": {
           "AJ": "Okay. Better than anything served in a cafeteria.",
           "NQ": "I like barley. Why don't we eat this more often?",
           "JJ": "Can I add shredded cheese on top?"
         },
-        "outro": "Barley is humble but strong, unrecognized for the noble place it deserves in our  kitchens, hearty and kind to the beginner, a good useful grain whether hot or cold.  In short, barley is pretty much the lost Aragorn of grains. (It's okay if you are not an  LOTR fan and do not understand. You may still enjoy the barley.)"
+        "outro": "Barley is humble but strong, unrecognized for the noble place it deserves in our kitchens, hearty and kind to the beginner, a good useful grain whether hot or cold. In short, barley is pretty much the lost Aragorn of grains. (It's okay if you are not an LOTR fan and do not understand. You may still enjoy the barley.)"
       },
     ]
   },
@@ -2256,18 +2256,18 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "15 minutes the night before; 3 minute in the morning",
     "segments": [
       {
-        "intro": "This superlicious breakfast is a cross between rich French toast and a bread pudding recipe I experienced at one of those cooking  'classes' in New Orleans -- only I made it even better because all the work is the night before and in the morning you get to wake up  to the aroma of warm, cinnamon yum-ness.",
+        "intro": "This superlicious breakfast is a cross between rich French toast and a bread pudding recipe I experienced at one of those cooking 'classes' in New Orleans -- only I made it even better because all the work is the night before and in the morning you get to wake up to the aroma of warm, cinnamon yum-ness.",
         "steps": [
           {
             "instruction": "The night before: In a bowl mix together",
             "ingredients": [
-             "6 eggs",
-             "2 cups of milk",
-             "1 t vanilla",
-             "1 t cinnamon",
-             "1/2 t nutmeg",
-             "1/4 cup brown sugar",
-             "1/4 cup white sugar",
+              "6 eggs",
+              "2 cups of milk",
+              "1 t vanilla",
+              "1 t cinnamon",
+              "1/2 t nutmeg",
+              "1/4 cup brown sugar",
+              "1/4 cup white sugar",
             ]
           },
           {
@@ -2281,11 +2281,11 @@ export const RecipeData: Recipe[] = [
             instruction: "Pour wet ingredients into the crock pot. Smush your bread so all of it gets wet. Cook on LOW for 6-8 hours",
           },
           {
-            "instruction": "The hardest thing - the thing that takes 3 minutes in the  morning is deciding which topping you want on your Breakfast Bread Pudding. \
-            \n30 seconds: Maple syrup is the easiest. \
-            \n45 seconds: Honey. This takes longer because you have to  wait for it to drip.\
-            \n1 minute: a drizzle of heated up caramel topping (Shhhh.  don't tell Mom.) \
-            \n3 minutes: Make Amazing Glaze. Whisk together 1 cup  powdered sugar with 1/4 teaspoon vanilla and about 2  teaspoons milk - barely enough to make your glaze the perfect  consistency for you. Drizzle sparingly or smear on top of each  serving."
+            "instruction": "The hardest thing - the thing that takes 3 minutes in the morning is deciding which topping you want on your Breakfast Bread Pudding. \
+ \n30 seconds: Maple syrup is the easiest. \
+ \n45 seconds: Honey. This takes longer because you have to wait for it to drip.\
+ \n1 minute: a drizzle of heated up caramel topping (Shhhh. don't tell Mom.) \
+ \n3 minutes: Make Amazing Glaze. Whisk together 1 cup powdered sugar with 1/4 t vanilla and about 2 t milk - barely enough to make your glaze the perfect consistency for you. Drizzle sparingly or smear on top of each serving."
           },
         ],
         "description": "Creative option\nAdd 1/2 cup raisins, coconut, chopped pecans, or (dare I say this) chocolate chips. You can substitute some (~1/2 cup) of the milk with an equal amount of one of the following: cream, applecider, orangejuice, rum, or eggnog.",
@@ -2294,18 +2294,18 @@ export const RecipeData: Recipe[] = [
           "NQ": "Can we make this with coconut milk?",
           "JJ": "I don't like French toast, but this is okay with the Amazing Glaze"
         },
-        "outro": "Barley is humble but strong, unrecognized for the noble place it deserves in our  kitchens, hearty and kind to the beginner, a good useful grain whether hot or cold.  In short, barley is pretty much the lost Aragorn of grains. (It's okay if you are not an  LOTR fan and do not understand. You may still enjoy the barley.)"
+        "outro": "Barley is humble but strong, unrecognized for the noble place it deserves in our kitchens, hearty and kind to the beginner, a good useful grain whether hot or cold. In short, barley is pretty much the lost Aragorn of grains. (It's okay if you are not an LOTR fan and do not understand. You may still enjoy the barley.)"
       },
     ],
   },
-    {
+  {
     "title": "Biscuits",
     "originalBookID": 2,
     "recipeNumber": 9,
     "preparationTime": "12 minutes prep; 12 minutes baking",
     "segments": [
       {
-        "intro": "What do restaurants do to their biscuits? They are too dry or too salty or too oily or too chewy. Once again: homemade is best. And  do NOT let me find you trying to convince your children that those things that came out of a cardboard can in the fridge are really  'homemade.' NOT. ",
+        "intro": "What do restaurants do to their biscuits? They are too dry or too salty or too oily or too chewy. Once again: homemade is best. And do NOT let me find you trying to convince your children that those things that came out of a cardboard can in the fridge are really 'homemade.' NOT. ",
         "steps": [
           {
             "instruction": "Makes 9 2-inch biscuites. Preheat oven to 450 F",
@@ -2337,19 +2337,19 @@ export const RecipeData: Recipe[] = [
           },
         ],
         "description": "Tips: Cutting in the butter\nThis seems to threaten folks who haven't done it before, but really it's super easy if you have a good pastry cutter.\
-        You just plop your fat (the shortening or unsalted butter) into your bowl of mixed dry ingredients and then 'dance' your cutter around the bowl for 2  minutes. First, slice into your fat so you have a bunch of pieces. Go ahead and rock your cutter blades through your fat. Flick any  stuck on ones back off your cutter. Repeat after me: Slice and rock, rock and roll, lift and land your cutter around your bowl.This  action 'cuts' the butter 'into' the dry ingredients. Before ONE of your favorite songs has finished playing, you are ready to move on  to adding your milk. See? That wasn't sooo hard. (P.S. If you have no cutter, use two butter knives - one in each hand and keep  cutting across your fat + flour until those crumbles magically appear. It will take about 4 minutes.)",
+ You just plop your fat (the shortening or unsalted butter) into your bowl of mixed dry ingredients and then 'dance' your cutter around the bowl for 2 minutes. First, slice into your fat so you have a bunch of pieces. Go ahead and rock your cutter blades through your fat. Flick any stuck on ones back off your cutter. Repeat after me: Slice and rock, rock and roll, lift and land your cutter around your bowl.This action 'cuts' the butter 'into' the dry ingredients. Before ONE of your favorite songs has finished playing, you are ready to move on to adding your milk. See? That wasn't sooo hard. (P.S. If you have no cutter, use two butter knives - one in each hand and keep cutting across your fat + flour until those crumbles magically appear. It will take about 4 minutes.)",
         "reviews": {
-          "general": "Biscuits have been commonplace in our kitchen for so long, Dad makes them, children make them and no one feels the  need to issue reviews anymore. They're always appreciated."
+          "general": "Biscuits have been commonplace in our kitchen for so long, Dad makes them, children make them and no one feels the need to issue reviews anymore. They're always appreciated."
         },
       },
       {
         description: "Creative Option:\nBeing square is sometimes a good thing. You can press your dough into a 9-inch square pan. Bake and then cut into squares. The sides will be quite moist in this version. And just because they're square with fresh cut edges, these biscuits somehow take on a new identity.\
-          \n\nUsual toppings around my table are homemade fresh strawberry jam or butter and honey. Don't stop there. Consider some of these combinations. If you choose to serve each biscuit on a pretty plate and do the actual 'topping' in the kitchen, your humble biscuits just became a fancy delight.\
-          \n\nBreakfast Sandwiches\nBiscuit sand Biscuit sandwiches were around long before a certain fast food restaurant  starting marketing their version. Use your homemade biscuits to frame any  of these combos: \n\t• fried egg and cheddar cheese \n\t• sauté a thin slice of deli ham and a thick slice of tomato • scrambled egg and a smear of grape jelly \
-          \n\t• cashew nut butter and honey \
-          \n\t• slice of ham and a smear of orange marmalade\
-          \n\nBicuits and Gravy\
-          \nI grew up mostly in Michigan, way not anywhere close to 'southern'. So , I have no idea why my boys love biscuits and gravy...except I suppose awesome biscuits covered in savory creamyh gravy...Okay, what's not to like? Note: if you do not have good leftover gravy from some previous dinner and you have to make the gravy, this just added 6 minutes to the prep time.",
+ \n\nUsual toppings around my table are homemade fresh strawberry jam or butter and honey. Don't stop there. Consider some of these combinations. If you choose to serve each biscuit on a pretty plate and do the actual 'topping' in the kitchen, your humble biscuits just became a fancy delight.\
+ \n\nBreakfast Sandwiches\nBiscuit sand Biscuit sandwiches were around long before a certain fast food restaurant starting marketing their version. Use your homemade biscuits to frame any of these combos: \n\t• fried egg and cheddar cheese \n\t• sauté a thin slice of deli ham and a thick slice of tomato • scrambled egg and a smear of grape jelly \
+ \n\t• cashew nut butter and honey \
+ \n\t• slice of ham and a smear of orange marmalade\
+ \n\nBicuits and Gravy\
+ \nI grew up mostly in Michigan, way not anywhere close to 'southern'. So , I have no idea why my boys love biscuits and gravy...except I suppose awesome biscuits covered in savory creamyh gravy...Okay, what's not to like? Note: if you do not have good leftover gravy from some previous dinner and you have to make the gravy, this just added 6 minutes to the prep time.",
       },
       {
         steps: [
@@ -2368,7 +2368,7 @@ export const RecipeData: Recipe[] = [
           }
         ],
         description: "Strawberry Shortcakes\nClean and slice fresh strawberries. Mix with a little honey or sugar. Put the bottom half of a biscuit on your plate. Spoon 1/4 cup of fruit over the top. Place the top of the biscuit over the fruit like a hat. Add a plop of whipped cream and Wow. No on e will believe you're letting them eat this for breakfast.",
-        "outro": "If Brits call cookies biscuits and biscuits scones and scones... scones, and if we have different words for important distinctions in our cultures, then I'd say Americans  have more types of yummy bakery things to eat than Brits. "
+        "outro": "If Brits call cookies biscuits and biscuits scones and scones... scones, and if we have different words for important distinctions in our cultures, then I'd say Americans have more types of yummy bakery things to eat than Brits. "
       },
     ],
   },
@@ -2379,7 +2379,7 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "10 minutes prep; 10 minutes baking",
     "segments": [
       {
-        "intro": "Sometimes I remember my earlier healthy eating binges and try to make a recipe 'healthier.' However, when a family member says  something like, 'Hmm. Tastes healthy.', that is generally not the greatest compliment. I've gotten smarter. I served this Biscuit-Bun Bread without telling anyone they were healthier or easier or faster than regular biscuits. No one guessed. Score!",
+        "intro": "Sometimes I remember my earlier healthy eating binges and try to make a recipe 'healthier.' However, when a family member says something like, 'Hmm. Tastes healthy.', that is generally not the greatest compliment. I've gotten smarter. I served this Biscuit-Bun Bread without telling anyone they were healthier or easier or faster than regular biscuits. No one guessed. Score!",
         "steps": [
           {
             instruction: "The basic recipe makes an 8-inch square pan's worth. Preheat oven to 425F.",
@@ -2402,22 +2402,22 @@ export const RecipeData: Recipe[] = [
             ]
           },
           {
-            instruction: "Press, plop or smush into an inch-tall shape on a cookie sheet  or in an 8-inch square pan or a round cake pan or ... you get  the idea. This makes a pleasant flat loaf of whatever shape you  are in the mood for. If you have time, you can make each person his or her own  plop. Then you can call them Biscuit-Buns.They will bake  faster if they are separate littler plops. So, if you're cutting it  close on time, you know what to do! ",
+            instruction: "Press, plop or smush into an inch-tall shape on a cookie sheet or in an 8-inch square pan or a round cake pan or ... you get the idea. This makes a pleasant flat loaf of whatever shape you are in the mood for. If you have time, you can make each person his or her own plop. Then you can call them Biscuit-Buns.They will bake faster if they are separate littler plops. So, if you're cutting it close on time, you know what to do! ",
           },
           {
             "instruction": "Bake 10 minutes in an oven preheated to 425. Serve warm."
           },
         ],
-        "description": "You can discover the wonders of your own sour dough starter. Flip over to the recipe for Breakfast Crumb Cake to find out how to  make one and keep it like a beloved kitchen pet of sorts. It's really pretty easy. However, if you must try this recipe without the  starter, then substitute yogurt. You'll have to change the name of the recipe to (you guessed it!): Yogurt Yum Buns.  ",
+        "description": "You can discover the wonders of your own sour dough starter. Flip over to the recipe for Breakfast Crumb Cake to find out how to make one and keep it like a beloved kitchen pet of sorts. It's really pretty easy. However, if you must try this recipe without the starter, then substitute yogurt. You'll have to change the name of the recipe to (you guessed it!): Yogurt Yum Buns. ",
         "reviews": {
           "JJ": "I like this better than that healthy version you tried before. (I the baker refrained from snickering.)",
-          "PR": "Wheat flour. Yum. (Who is this you ask? She is the niece who lived with us when this recipe got developed and tested. When  SHE says, 'Tastes healthy.', it IS a compliment. She didn't say that about these Biscuit-Buns. But she did have thirds."
+          "PR": "Wheat flour. Yum. (Who is this you ask? She is the niece who lived with us when this recipe got developed and tested. When SHE says, 'Tastes healthy.', it IS a compliment. She didn't say that about these Biscuit-Buns. But she did have thirds."
         },
         bulletList: {
           header: "Cheating",
           list: [
-            "This dough whips up so fast, you hardly need to cheat. If you MUST press that snooze button again, then put the dry ingredients  in a bowl on the counter the night before.  ",
-            "The texture of this bread is unique: somewhere in between a biscuit and a peasant loaf. So, if you want to serve it for a family get to-gather, just whip up a triple batch, shape them a little taller, bake them a little longer, and call them 'Quick Peasant Loaves'.  They will impress but since it was so easy, it almost counts as cheating."
+            "This dough whips up so fast, you hardly need to cheat. If you MUST press that snooze button again, then put the dry ingredients in a bowl on the counter the night before. ",
+            "The texture of this bread is unique: somewhere in between a biscuit and a peasant loaf. So, if you want to serve it for a family get to-gather, just whip up a triple batch, shape them a little taller, bake them a little longer, and call them 'Quick Peasant Loaves'. They will impress but since it was so easy, it almost counts as cheating."
           ]
         },
       },
@@ -2425,22 +2425,22 @@ export const RecipeData: Recipe[] = [
         bulletList: {
           header: "Tips",
           list: [
-            "Besides being really fast to make and bake, Biscuit-Bun-Bread is a chameleon. I can serve it with honey and jams and Dutch  chocolate sprinkles. But it disappears just as quickly with herbed cream cheese or sharp cheddar slices. • This recipe is so quick and reliable, it is the go-to when I come home from work, realize there is no bread in the house and  desperately want some to serve with dinner. ",
-            "This bread actually tastes pretty good later, cold, or packed in a lunch. But you don't have to worry about that, because there's  usually nothing left at the end of breakfast.",
+            "Besides being really fast to make and bake, Biscuit-Bun-Bread is a chameleon. I can serve it with honey and jams and Dutch chocolate sprinkles. But it disappears just as quickly with herbed cream cheese or sharp cheddar slices. • This recipe is so quick and reliable, it is the go-to when I come home from work, realize there is no bread in the house and desperately want some to serve with dinner. ",
+            "This bread actually tastes pretty good later, cold, or packed in a lunch. But you don't have to worry about that, because there's usually nothing left at the end of breakfast.",
           ],
         },
         "outro": "'The dog wags its tail not for you but for your bread.' -- Portuguese Proverb This could be true. If given a choice, my dog will dive in first for anything bread-like, even before leftover chicken",
       },
     ],
   },
-    {
+  {
     "title": "Simple Sweet Scones",
     "originalBookID": 2,
     "recipeNumber": 11,
     "preparationTime": "12 minutes prep; 12 minutes baking",
     "segments": [
       {
-        "intro": "Expensive scones from that upscale European cafe in the Renaissance zone are a creation I don't quite understand. They tend to be  dry, crumbly, baked several hours ago and not particularly flavorful. Not to mention that place wants to charge me four dollars for  one. AND the extremely dry crumbles are so hard to swallow that you have to buy an extra cup of joe too. Imagine instead a moist but not-too-moist, sweet-but-not-too-sweet, tender subtly buttery dream. --- Oh, yeah. ",
+        "intro": "Expensive scones from that upscale European cafe in the Renaissance zone are a creation I don't quite understand. They tend to be dry, crumbly, baked several hours ago and not particularly flavorful. Not to mention that place wants to charge me four dollars for one. AND the extremely dry crumbles are so hard to swallow that you have to buy an extra cup of joe too. Imagine instead a moist but not-too-moist, sweet-but-not-too-sweet, tender subtly buttery dream. --- Oh, yeah. ",
         "steps": [
           {
             "instruction": "The basic recipe makes 12 scones. Preheat oven to 425F.",
@@ -2472,31 +2472,31 @@ export const RecipeData: Recipe[] = [
             ],
           },
           {
-            instruction: "Shaping your scones. Divide your dough in half. Shape each half into a circle about 7 inches across  and 1 inch thick. Cut each circle into 6 pieces (like a pie).\n\nYou can put your circles directly on a cookie  sheet OR \
-            separate your triangles for baking. Circles  will have soft edges. Separate triangles will have  drier edges but these are still moist and delicious  compared to those overpriced other things  pretending to be 'scones.' "
+            instruction: "Shaping your scones. Divide your dough in half. Shape each half into a circle about 7 inches across and 1 inch thick. Cut each circle into 6 pieces (like a pie).\n\nYou can put your circles directly on a cookie sheet OR \
+ separate your triangles for baking. Circles will have soft edges. Separate triangles will have drier edges but these are still moist and delicious compared to those overpriced other things pretending to be 'scones.' "
           },
           {
             instruction: "Bake for a mere 12 minutes in an oven preheated to 425F."
           }
         ],
-        "description": "A bit more refined. Lovely alone. Delish when served with your favorite jam. Perfect with tea ... but you don't need three cups to  swallow the crumbs. ",
+        "description": "A bit more refined. Lovely alone. Delish when served with your favorite jam. Perfect with tea ... but you don't need three cups to swallow the crumbs. ",
         "reviews": {
           "general": "I make these so often the kids don't make interesting comments anymore. Overwhelming consensus is: YUMM with two Ms."
         },
       },
       {
-        bulletList: 
+        bulletList:
         {
           header: "Tips",
           list: [
-            "It may be tempting to substitute margarine, but using the real unsalted butter creates a lovely creamy texture and delicate flavor  that is worth every penny and mg of cholesterol. Comfort yourself with the thought that the real butter version is reduced  sodium.",
-            "If you can let the scones rest (wrapped in a tea towel) for about 10 minutes after taking them out of the oven, they will taste even  better. It may be just because you had to wait longer to dive in, or because '10 minutes out' is the perfect temperature for  enjoying these puppies. But there might be some mysterious other reason. I'm not sure, but it's true. (Cue Twilight Zone music.) • Yes, you can use a vegan margarine and a milk substitute. The scones will taste different but still very good."
+            "It may be tempting to substitute margarine, but using the real unsalted butter creates a lovely creamy texture and delicate flavor that is worth every penny and mg of cholesterol. Comfort yourself with the thought that the real butter version is reduced sodium.",
+            "If you can let the scones rest (wrapped in a tea towel) for about 10 minutes after taking them out of the oven, they will taste even better. It may be just because you had to wait longer to dive in, or because '10 minutes out' is the perfect temperature for enjoying these puppies. But there might be some mysterious other reason. I'm not sure, but it's true. (Cue Twilight Zone music.) • Yes, you can use a vegan margarine and a milk substitute. The scones will taste different but still very good."
           ]
         },
       },
       {
         description: "Cheats\nYou can speed things up in the morning by mixing the dry ingredients and cutting in the butter the night before. Just as with the biscuits, you can leave this crumble on the counter overnight unless it is really hot in the house, in which case you might want to put your bowl in the fridge. In the mornign resume where you left off: measure and add the liquid, mix, shap your scones, and bake.\
-        \n\nCreative Options\nMy friend Mike married lovely Kim who lived many years in Ireland. They once spoiled me by baking a batch of authentic Irish scones  from an expensive, personally imported packaged mix. They were really pretty special and nothing like those thangs at the uppity  cafe. With a few adjustments you can turn Simple Sweet Scones into... ",
+ \n\nCreative Options\nMy friend Mike married lovely Kim who lived many years in Ireland. They once spoiled me by baking a batch of authentic Irish scones from an expensive, personally imported packaged mix. They were really pretty special and nothing like those thangs at the uppity cafe. With a few adjustments you can turn Simple Sweet Scones into... ",
       },
       {
         steps: [
@@ -2511,10 +2511,10 @@ export const RecipeData: Recipe[] = [
             ],
           },
           {
-            instruction: "Use cream or half-and-half for some of the 2/3 cups milk. You  may need to add up to 1/4 more milk to get the mix right.  Continue from this point as for the basic recipe. (Yes, the one  on the opposite page.)"
+            instruction: "Use cream or half-and-half for some of the 2/3 cups milk. You may need to add up to 1/4 more milk to get the mix right. Continue from this point as for the basic recipe. (Yes, the one on the opposite page.)"
           },
         ],
-        description: "These feel more rustic and have more texture which isn't always kid-friendly but feels more upscale in a trendy Celtic sort of way.  (With just a little marketing, you could probably compete with the upscale bakery near you.) ",
+        description: "These feel more rustic and have more texture which isn't always kid-friendly but feels more upscale in a trendy Celtic sort of way. (With just a little marketing, you could probably compete with the upscale bakery near you.) ",
         outro: "Biscuits dream of being scones."
       }
     ],
@@ -2526,7 +2526,7 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "20 minutes prep; 12-16 minutes baking",
     "segments": [
       {
-        "intro": "Bissconie noun. 1. a baked good created to be a hybrid of a biscuit and a scone and a cakie cousin of the cinnamon roll. 2. Bite-sized  versions of a baked good that remind you of the best elements of biscuits, scones or cinnamon cake treats.",
+        "intro": "Bissconie noun. 1. a baked good created to be a hybrid of a biscuit and a scone and a cakie cousin of the cinnamon roll. 2. Bite-sized versions of a baked good that remind you of the best elements of biscuits, scones or cinnamon cake treats.",
         "steps": [
           {
             instruction: "The recipe makes 12 big Bissconies or more little ones. Preheat oven to 400F",
@@ -2584,11 +2584,11 @@ export const RecipeData: Recipe[] = [
           }
         ],
         "reviews": {
-          "general": "This recipe got made one morning for a group of women who are some of the coolest moms on the planet. Since they all wanted the  recipe, made it within a week and declared it a success, I feel okay saying that all children of all ages love these. It must be the glaze."
+          "general": "This recipe got made one morning for a group of women who are some of the coolest moms on the planet. Since they all wanted the recipe, made it within a week and declared it a success, I feel okay saying that all children of all ages love these. It must be the glaze."
         }
       },
       {
-       "description": "These can be made into the perfect breakfast buffet or potluck item. Simply make your plops of batter into modest cookie size and reduce the baking time to 8-10 minutes. So, if you needdc to get them baked faster, make them smaller.",
+        "description": "These can be made into the perfect breakfast buffet or potluck item. Simply make your plops of batter into modest cookie size and reduce the baking time to 8-10 minutes. So, if you needdc to get them baked faster, make them smaller.",
         "outro": "Hybrid recipes are like mutts: not quite exactly like any one thing - but well-balanced and lovable.",
       },
     ],
@@ -2600,7 +2600,7 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "20 minutes prep; 12minutes baking",
     "segments": [
       {
-        "intro": "There are those who love sweets and those who love salties. The savory bissconies let you bake something breakfasty that everyone  can enjoy, but the 'Salties' in your family will especially love you (more than they already do).",
+        "intro": "There are those who love sweets and those who love salties. The savory bissconies let you bake something breakfasty that everyone can enjoy, but the 'Salties' in your family will especially love you (more than they already do).",
         "steps": [
           {
             instruction: "The recipe makes 12 big Bissconies or more little ones. Preheat oven to 400F",
@@ -2643,7 +2643,7 @@ export const RecipeData: Recipe[] = [
             ]
           },
           {
-            instruction: "Drop the batter about 1/4 cup at a time onto a baking sheet. Bake for 12-15 minutes. Remove and cool on a wire rack, unless you  want to eat them warm. If you are trying to save them for later, you will have to stand guard or post signage because they are  almost irresistible."
+            instruction: "Drop the batter about 1/4 cup at a time onto a baking sheet. Bake for 12-15 minutes. Remove and cool on a wire rack, unless you want to eat them warm. If you are trying to save them for later, you will have to stand guard or post signage because they are almost irresistible."
           },
         ],
         "reviews": {
@@ -2653,7 +2653,7 @@ export const RecipeData: Recipe[] = [
         }
       },
       {
-       "description": "Creative option \nIf you make the larger plops .. uh, I mean bissconies, and let them cool, they make a great lunch item. Wrap them to go! Bissconies are fairly sturdy so they  won't crumble into a mess, can be eaten without silverware and have the 'cool lunch' effect that every kid secretly longs for. ",
+        "description": "Creative option \nIf you make the larger plops .. uh, I mean bissconies, and let them cool, they make a great lunch item. Wrap them to go! Bissconies are fairly sturdy so they won't crumble into a mess, can be eaten without silverware and have the 'cool lunch' effect that every kid secretly longs for. ",
         "outro": "My friend Lisa shared with me the best indulgent snack out ever: ordering both a hot fudge sundae and a side of fries, then enjoying them one bite of sweet, one bite of salty. It's all about balance. So, JJ had it right: you really should bake the Cinnamon Swirl AND the Savory Bissconies and serve them together.",
       },
     ],
@@ -2664,7 +2664,7 @@ export const RecipeData: Recipe[] = [
     "recipeNumber": 14,
     "segments": [
       {
-        "intro": "Bake this the night before and you can hit the snooze button at least twice. Even if “breakfast” and “cake” seem like an oxymoron, this cake still ranks way above sweet things purchased at supermarkets, with  the added benefit that it makes children smile even if there was no snow day as the weather channel predicted and a chemistry test is  waiting for them in third hour.",
+        "intro": "Bake this the night before and you can hit the snooze button at least twice. Even if “breakfast” and “cake” seem like an oxymoron, this cake still ranks way above sweet things purchased at supermarkets, with the added benefit that it makes children smile even if there was no snow day as the weather channel predicted and a chemistry test is waiting for them in third hour.",
         "steps": [
           {
             instruction: "The recipe makes a 9 by 13 inch pan. Preheat oven to 350F.",
@@ -2716,7 +2716,7 @@ export const RecipeData: Recipe[] = [
             instruction: "Bake at 350 for about 40 minutes or until a toothpick inserted comes out without goop on it."
           }
         ],
-        description: "Tips\n\n*Get some sour dough starter. The favorite version of this cake uses 1 cup of sour dough starter in place of the one cup of sour dairy  stuff. This added zippy flavor is THE special ingredient. If you don’t have a friend to give you some starter, see the next page, make  your own starter and give it to your friends so there will always be enough around to borrow some back in case you happen to go to  Cambodia for a month and your spouse forgets to provide the most minimal of care to your treasured starter.",
+        description: "Tips\n\n*Get some sour dough starter. The favorite version of this cake uses 1 cup of sour dough starter in place of the one cup of sour dairy stuff. This added zippy flavor is THE special ingredient. If you don’t have a friend to give you some starter, see the next page, make your own starter and give it to your friends so there will always be enough around to borrow some back in case you happen to go to Cambodia for a month and your spouse forgets to provide the most minimal of care to your treasured starter.",
         "reviews": {
           "AJ": "Can I have the biggest piece?",
           "NQ": "Can I have the biggest corner piece with extra crumbles?",
@@ -2724,12 +2724,12 @@ export const RecipeData: Recipe[] = [
         }
       },
       {
-       "description": "Sour dough starter\nI keep a large wide-mouth glass jar of sour dough starter around the house. I used to think this was insane because no one who really  worked for a living would have time to mess with such a frivolous and finicky food item. Why would you want to maintain a jar of  goop that needs babysitting constantly? But then I discovered that sour dough starters are very forgiving and benefit from being  ignored for a few days and can be left for weeks in the fridge without really suffering much. Everyone in the family – okay, everyone  except JJ (because we can never be completely unanimous in a positive review of any food) – prefers the cake when the 1 cup of the  sour dairy item is replaced by 1 cup of sour dough starter.\n\nThe only starter that really worked for me (I tried several different kinds over the years) is the Amish friendship bread sour dough  starter. Here’s the simple-version of the recipe. Remember to avoid metal containers and spoons.",
+        "description": "Sour dough starter\nI keep a large wide-mouth glass jar of sour dough starter around the house. I used to think this was insane because no one who really worked for a living would have time to mess with such a frivolous and finicky food item. Why would you want to maintain a jar of goop that needs babysitting constantly? But then I discovered that sour dough starters are very forgiving and benefit from being ignored for a few days and can be left for weeks in the fridge without really suffering much. Everyone in the family – okay, everyone except JJ (because we can never be completely unanimous in a positive review of any food) – prefers the cake when the 1 cup of the sour dairy item is replaced by 1 cup of sour dough starter.\n\nThe only starter that really worked for me (I tried several different kinds over the years) is the Amish friendship bread sour dough starter. Here’s the simple-version of the recipe. Remember to avoid metal containers and spoons.",
       },
       {
         steps: [
           {
-            instruction: "Mix yeast with warm water. After 10 minutes mix in 'the trio' -- flour, sugar, and milk. Pour into a 2 quart glass or plastic container. You want to loosely cover the container so bugs, dust and dog hair don’t get in  but the air bubbles can leak out and nothing explodes. Use cheesecloth, plastic wrap or a canning lid with no metal rings. Let your container sit around on the counter, out of the way, so that no one mistakes it for a science experiment gone bad. After 5 days mix in  the trio again. Wait another 5 days and mix in another trio. Bingo! Sour dough starter. You can stir your starter every day if you wish  and enjoy dreaming of delicious baked goods, but your starter will not be offended if you ignore him for a couple days. When you  use up 1 cup of starter in a recipe, just replenish your starter jar by adding ½ cup each of flour, sugar and milk",
+            instruction: "Mix yeast with warm water. After 10 minutes mix in 'the trio' -- flour, sugar, and milk. Pour into a 2 quart glass or plastic container. You want to loosely cover the container so bugs, dust and dog hair don’t get in but the air bubbles can leak out and nothing explodes. Use cheesecloth, plastic wrap or a canning lid with no metal rings. Let your container sit around on the counter, out of the way, so that no one mistakes it for a science experiment gone bad. After 5 days mix in the trio again. Wait another 5 days and mix in another trio. Bingo! Sour dough starter. You can stir your starter every day if you wish and enjoy dreaming of delicious baked goods, but your starter will not be offended if you ignore him for a couple days. When you use up 1 cup of starter in a recipe, just replenish your starter jar by adding ½ cup each of flour, sugar and milk",
             ingredients: [
               "1 package active dry yeast",
               "1/4 cup warmish water",
@@ -2745,8 +2745,8 @@ export const RecipeData: Recipe[] = [
             "I leave my starter on the counter year around unless I know in advance that I will not use him anytime in the next week.",
             "I almost regularly ignore my starter for an entire week until it dawns on me that it’s time to make something sour-doughie again.",
             "I have no idea why milk that sits out on the counter for one morning smells yucky, but sour dough starter with milk in it that sits in the nook by my stove for a week smells yummy.",
-            "When I got my starter from a friend and looked at the Amish friendship bread recipe that came with it, I was appalled at the huge  amounts of fat and sugar. The Breakfast Crumb Cake is the attempt to make something just as appealing to children but  significantly healthier. It took about a year and 20 tries to get it right.",
-            "I use crumb topping as a visual and palatable bribe, because crumb topping is almost as good as chocolate chips for getting kids to  eat whole wheat flour, oats and flax seed meal.",
+            "When I got my starter from a friend and looked at the Amish friendship bread recipe that came with it, I was appalled at the huge amounts of fat and sugar. The Breakfast Crumb Cake is the attempt to make something just as appealing to children but significantly healthier. It took about a year and 20 tries to get it right.",
+            "I use crumb topping as a visual and palatable bribe, because crumb topping is almost as good as chocolate chips for getting kids to eat whole wheat flour, oats and flax seed meal.",
           ]
         },
         "outro": "Yes, let them eat cake.",
@@ -2759,7 +2759,7 @@ export const RecipeData: Recipe[] = [
     "recipeNumber": 15,
     "segments": [
       {
-        "intro": "Make ahead. This is called planning, not cheating. A nutrition specialist recently confided to me that some of the granola and breakfast bars out there actually have a lower nutritional  density value than run-of-the-mill store-bought cookies. When AJ started running 30 miles per week and wanting to grab granola  bars whenever he could, I looked into those high-protein nutrition bars. They turned out to be so expensive, I needed another  everyday option – one that could also substitute for breakfast on the run, because no matter how important I say breakfast is, some  certain persons still do not always manage to leave enough time for a good sit down breakfast, especially on Tuesdays",
+        "intro": "Make ahead. This is called planning, not cheating. A nutrition specialist recently confided to me that some of the granola and breakfast bars out there actually have a lower nutritional density value than run-of-the-mill store-bought cookies. When AJ started running 30 miles per week and wanting to grab granola bars whenever he could, I looked into those high-protein nutrition bars. They turned out to be so expensive, I needed another everyday option – one that could also substitute for breakfast on the run, because no matter how important I say breakfast is, some certain persons still do not always manage to leave enough time for a good sit down breakfast, especially on Tuesdays",
         "steps": [
           {
             instruction: "The recipe makes a 9 by 13 inch pan. Preheat oven to 350F.",
@@ -2800,16 +2800,16 @@ export const RecipeData: Recipe[] = [
             ]
           },
           {
-            instruction: "Press into greased 9x13 pan. Bake at 350 for 25 minutes.  When slightly cooled, cut into your favorite bar shapes.",
+            instruction: "Press into greased 9x13 pan. Bake at 350 for 25 minutes. When slightly cooled, cut into your favorite bar shapes.",
           },
         ],
         bulletList: {
           header: "Tips",
           list: [
-            "These breakfast bars pack a punch. Cutting your pan into 15 - 20 total bars may seem like small portions, but they satisfy. After  all, you can always eat two.",
-            "I make two batches each time: one peanut-free for school and one with peanut butter for  home snacking and sporting events. We cut them into distinct shapes so we can tell which  are the peanut-free ones. Make these bars easy to grab when you are running out the door.  The high schoolers say that the bars taste good directly out of the freezer, almost as great as directly out of the oven (because you can’t beat melty chocolate chips, can you?).",
-            "Don’t sneak a taste of the dough before baking. You’ll be disappointed. I suspect it’s the  soy flour. But fear not! Once baked, the entire pan of bars will disappear and before you  know it, you’ll have to make another batch.",
-            
+            "These breakfast bars pack a punch. Cutting your pan into 15 - 20 total bars may seem like small portions, but they satisfy. After all, you can always eat two.",
+            "I make two batches each time: one peanut-free for school and one with peanut butter for home snacking and sporting events. We cut them into distinct shapes so we can tell which are the peanut-free ones. Make these bars easy to grab when you are running out the door. The high schoolers say that the bars taste good directly out of the freezer, almost as great as directly out of the oven (because you can’t beat melty chocolate chips, can you?).",
+            "Don’t sneak a taste of the dough before baking. You’ll be disappointed. I suspect it’s the soy flour. But fear not! Once baked, the entire pan of bars will disappear and before you know it, you’ll have to make another batch.",
+
           ]
         },
         "reviews": {
@@ -2819,17 +2819,17 @@ export const RecipeData: Recipe[] = [
         }
       },
       {
-       "description": "Breakfast cookies\n \
-        Shape this dough into round  \
-        cookie shapes. These will not  \
-        ooze and expand while baking.  Call them “breakfast cookies”  \
-        and you can probably sell them  for $2.99 each at the local  \
-        health food store. Any age kid  will happily eat cookies for  \
-        breakfast. You might even get  them to down a glass of milk,  too. \
-        \n\nGranola bars to go\n \
-        Cut your pan of bars into six skinny strips 11 inches long and  then into three broad columns. Your bars will end up about the  size of this box. When the bars are cooled, carefully remove  and individually wrap for grab-n-go days. \
-        \n\nAccidents do not happen\n \
-        So, let’s say you forget to add the egg or you overbake the  bars, and you end up with a pan of pretty crunchy, dry bars.  Consider this event an innovation. Break up your bars by hand  or in a food processor and call it granola. If your family notices  that it’s nothing like the Groovy Granola you usually make,  just say you’re experimenting. If they’re still not sure, add  some nuts and dried fruit and sell it as “snack mix”. If you did  skip the egg, you can call any resulting baked good from this  recipe: “Buddha’s Granola Delight.” Even your yoga instructor sister-in-law will not be able to resist.",
+        "description": "Breakfast cookies\n \
+ Shape this dough into round \
+ cookie shapes. These will not \
+ ooze and expand while baking. Call them “breakfast cookies” \
+ and you can probably sell them for $2.99 each at the local \
+ health food store. Any age kid will happily eat cookies for \
+ breakfast. You might even get them to down a glass of milk, too. \
+ \n\nGranola bars to go\n \
+ Cut your pan of bars into six skinny strips 11 inches long and then into three broad columns. Your bars will end up about the size of this box. When the bars are cooled, carefully remove and individually wrap for grab-n-go days. \
+ \n\nAccidents do not happen\n \
+ So, let’s say you forget to add the egg or you overbake the bars, and you end up with a pan of pretty crunchy, dry bars. Consider this event an innovation. Break up your bars by hand or in a food processor and call it granola. If your family notices that it’s nothing like the Groovy Granola you usually make, just say you’re experimenting. If they’re still not sure, add some nuts and dried fruit and sell it as “snack mix”. If you did skip the egg, you can call any resulting baked good from this recipe: “Buddha’s Granola Delight.” Even your yoga instructor sister-in-law will not be able to resist.",
         "outro": "What is the difference between a snack and a meal? Mom makes you eat meals but she lets you have snacks! ",
       },
     ],
@@ -2841,29 +2841,29 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "25 minutes",
     "segments": [
       {
-        "intro": "Homemade granola baking in the oven smells almost as good as cookies, is way less work, and you can serve it for breakfast without  feeling like you've compromised your ideals. You'll read the recipe and think: no way, that's it? Yup.",
+        "intro": "Homemade granola baking in the oven smells almost as good as cookies, is way less work, and you can serve it for breakfast without feeling like you've compromised your ideals. You'll read the recipe and think: no way, that's it? Yup.",
         "steps": [
           {
             instruction: "The recipe makes 6 cups. Preheat oven to 350F.",
           },
           {
-            "instruction": "Put oats in a 9x13 pan and bake at 350 for 10 minutes. Stir in the oil and honey.  Bake another 10 minutes stirring once in the middle.",
+            "instruction": "Put oats in a 9x13 pan and bake at 350 for 10 minutes. Stir in the oil and honey. Bake another 10 minutes stirring once in the middle.",
             "ingredients": [
-             "6 cups of rolled oats",
-             "1/2 cup vegetable oil",
-             "1/2 cup honey",
+              "6 cups of rolled oats",
+              "1/2 cup vegetable oil",
+              "1/2 cup honey",
             ]
           },
         ],
-        description: "Warm fresh granola is superb plain. It also keeps quite a while without preservatives if kept in a sealed container. My children loved  homemade granola until that fateful summer when we took lots of it on a camping trip. Okay, so the trip lasted a month and involved  both the desert American southwest in the month of July and 25 consecutive nights in a tent. It took a while to lure them back to  granola, but they have all agreed that it is, in fact, delicious and so much better (and less expensive!) than anything that comes in a  cardboard box or a fancy container with the word 'organic' on it. About that family vacation touring various desserts in the hottest  part of summer ... the final verdicts are still out. I imagine the kids may need to work through several aspects of that family bonding  experience in therapy when they are 40 years old, but at that point I won't have to foot the bill.",
+        description: "Warm fresh granola is superb plain. It also keeps quite a while without preservatives if kept in a sealed container. My children loved homemade granola until that fateful summer when we took lots of it on a camping trip. Okay, so the trip lasted a month and involved both the desert American southwest in the month of July and 25 consecutive nights in a tent. It took a while to lure them back to granola, but they have all agreed that it is, in fact, delicious and so much better (and less expensive!) than anything that comes in a cardboard box or a fancy container with the word 'organic' on it. About that family vacation touring various desserts in the hottest part of summer ... the final verdicts are still out. I imagine the kids may need to work through several aspects of that family bonding experience in therapy when they are 40 years old, but at that point I won't have to foot the bill.",
         "reviews": {
-          "AJ": "Good stuff, even if  there is no chocolate.",
-          "NQ":  "I'm glad I like  this. It doesn't really  taste 'healthy.'",
-          "JJ": "This is okay, but pleeeze don't make me  eat any of that stuff that comes in boxes."
+          "AJ": "Good stuff, even if there is no chocolate.",
+          "NQ": "I'm glad I like this. It doesn't really taste 'healthy.'",
+          "JJ": "This is okay, but pleeeze don't make me eat any of that stuff that comes in boxes."
         }
       },
       {
-        steps:[
+        steps: [
           {
             instruction: "Liquids (creative option)",
             ingredients: [
@@ -2892,11 +2892,11 @@ export const RecipeData: Recipe[] = [
             ]
           }
         ],
-       "description": "Granola-rama\nIt's not just for breakfast. You'e got it? Use it baby!\n\nGranola-Yogurt Parfaits \nPresentation is half the battle with kids. Use  those tall Sundae dishes and layer granola, yogurt  and fruit. Voilá. This creation allows you to  pretend you are serving dessert for breakfast and  scores you big-time awesome-parent points OR  you can actually serve it for dessert. \
-          \n\nGranola - Crumble \nWith fruit: Use your homemade granola to top warm  applesauce, any fruit cobbler, or any sliced fresh fruit.  In baking: Granola makes a quick topping for most muffins  or quick breads. Sprinkle some of your granola on top just  before popping your pans of batter in the oven. YUM.\
-          \n\nSnack Mix \
-          \nHomemade granola is the perfect base for a homemade snacking mix. Add any of the many varieties of chocolate pieces, your  favorite dried fruit(s), nuts (roasted, boiled, blanched, salted, plain), flaked coconut, peanut butter chips, dark-chocolate coated  espresso beans... but I digress. Back to the point: Who needs those expensive pre-mixed things that always have something in them  that someone in your clan doesn't like? Create your own and give it a name like 'chocolate cherry dream' or 'tropical allure'. \
-          \nbtw The German word for GORP is Studentenfutter, literally 'feed for students.' Crafting the perfect homemade snack mix for  loved ones IS IDEAL snack food; it can be a snack but it can also sustain them at need. Who knows, maybe they'll end up eating it  ... for breakfast.",
+        "description": "Granola-rama\nIt's not just for breakfast. You'e got it? Use it baby!\n\nGranola-Yogurt Parfaits \nPresentation is half the battle with kids. Use those tall Sundae dishes and layer granola, yogurt and fruit. Voilá. This creation allows you to pretend you are serving dessert for breakfast and scores you big-time awesome-parent points OR you can actually serve it for dessert. \
+ \n\nGranola - Crumble \nWith fruit: Use your homemade granola to top warm applesauce, any fruit cobbler, or any sliced fresh fruit. In baking: Granola makes a quick topping for most muffins or quick breads. Sprinkle some of your granola on top just before popping your pans of batter in the oven. YUM.\
+ \n\nSnack Mix \
+ \nHomemade granola is the perfect base for a homemade snacking mix. Add any of the many varieties of chocolate pieces, your favorite dried fruit(s), nuts (roasted, boiled, blanched, salted, plain), flaked coconut, peanut butter chips, dark-chocolate coated espresso beans... but I digress. Back to the point: Who needs those expensive pre-mixed things that always have something in them that someone in your clan doesn't like? Create your own and give it a name like 'chocolate cherry dream' or 'tropical allure'. \
+ \nbtw The German word for GORP is Studentenfutter, literally 'feed for students.' Crafting the perfect homemade snack mix for loved ones IS IDEAL snack food; it can be a snack but it can also sustain them at need. Who knows, maybe they'll end up eating it ... for breakfast.",
         "outro": "If a nice looking man offers you candy, run away. If a strange looking man offers you granola? He's probably okay.",
       },
     ],
@@ -2908,15 +2908,15 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "15 minutes prep; 25 minutes baking",
     "segments": [
       {
-        "intro": "To call this 'muffins' is a bit deceiving, because these are sooo much better - moist and fluffy and creamy and sweet and citrusy and  ... honestly, amazing. So, even though this recipe takes a bit longer than 30 minutes, it's worth it. Bake ahead and you will have no  prep time in the morning. However, be warned: if you bake these the night before, it may be tough to keep them from disappearing  before bedtime. A certain exchange student who lived with us for 18 months and on principle did not eat breakfast made an  exception for these baked treats.",
+        "intro": "To call this 'muffins' is a bit deceiving, because these are sooo much better - moist and fluffy and creamy and sweet and citrusy and ... honestly, amazing. So, even though this recipe takes a bit longer than 30 minutes, it's worth it. Bake ahead and you will have no prep time in the morning. However, be warned: if you bake these the night before, it may be tough to keep them from disappearing before bedtime. A certain exchange student who lived with us for 18 months and on principle did not eat breakfast made an exception for these baked treats.",
         "steps": [
           {
             instruction: "The recipe makes 12 amazing mini cake delights",
           },
           {
-            "instruction": "Preheat oven to 375. Put paper muffin cups in your muffin tins. Find 4 ounces of chocolate chips; eat a few to make sure they're  good. Get 3 bowls - one each for the ingredient groups below.",
+            "instruction": "Preheat oven to 375. Put paper muffin cups in your muffin tins. Find 4 ounces of chocolate chips; eat a few to make sure they're good. Get 3 bowls - one each for the ingredient groups below.",
             "ingredients": [
-             "4 oz chocolate chips",
+              "4 oz chocolate chips",
             ]
           },
           {
@@ -2947,12 +2947,12 @@ export const RecipeData: Recipe[] = [
             ]
           },
           {
-            instruction: "Mix together all three bowls using only 35 strokes with a good rubber spatula. Fold in chocolate chips. Your batter will be sort of  fluffy. Spoon plops of batter into your paper-lined muffin tins. Bake 20-25 minutes. Use the toothpick to test for doneness (Stick it  in the center; if it comes back out dry with maybe just a crumb hanging on, the muffins are done.) After you take your amazing  muffins out of the oven, IF you can wait 5 minutes before devouring, good for you. Otherwise get out of the way of the stampede."
+            instruction: "Mix together all three bowls using only 35 strokes with a good rubber spatula. Fold in chocolate chips. Your batter will be sort of fluffy. Spoon plops of batter into your paper-lined muffin tins. Bake 20-25 minutes. Use the toothpick to test for doneness (Stick it in the center; if it comes back out dry with maybe just a crumb hanging on, the muffins are done.) After you take your amazing muffins out of the oven, IF you can wait 5 minutes before devouring, good for you. Otherwise get out of the way of the stampede."
           }
         ],
         "reviews": {
           "AJ": "Wow.",
-          "NQ":  "These are so good they don't need any special toppings.",
+          "NQ": "These are so good they don't need any special toppings.",
           "JJ": "Why don't you make these all the time?"
         },
         outro: "Muffins are a slightly more healthy cake-like item which your mother allows you to eat for breakfast. Really good muffins are a dessert that your mother lets you eat for breakfast but only sometimes when she knows you need to feel extra love."
@@ -2966,7 +2966,7 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "20 minutes/45 minutes baking",
     "segments": [
       {
-        "intro": "'Coffee cake' goes well with coffee but 'Tea Cake' goes well with anything. Here is a no-nonsense breakfast cake that goes from the  fridge (where it is dreaming happily through the night) to the oven in the morning. I get this in the oven while I still have sleepers in  my eyes and no slippers on my feet. Sometimes I don't even bother to preheat the oven. ",
+        "intro": "'Coffee cake' goes well with coffee but 'Tea Cake' goes well with anything. Here is a no-nonsense breakfast cake that goes from the fridge (where it is dreaming happily through the night) to the oven in the morning. I get this in the oven while I still have sleepers in my eyes and no slippers on my feet. Sometimes I don't even bother to preheat the oven. ",
         "steps": [
           {
             instruction: "The recipe makes 1 8-inch square pan. Preheat to 350F.",
@@ -3016,7 +3016,7 @@ export const RecipeData: Recipe[] = [
         ],
         "reviews": {
           "AJ": "Is this really better than donuts?",
-          "NQ":  "Can we make this on a cookie sheet, like those muffin top things, so we get way more topping for the amount of cake?",
+          "NQ": "Can we make this on a cookie sheet, like those muffin top things, so we get way more topping for the amount of cake?",
           "JJ": "Can we pretend this is 'Hot Cocoa Cake' and drink cocoa instead of tea?"
         },
         outro: "A good tea time is a great luxury that the poorest man can afford."
@@ -3030,7 +3030,7 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "10 minutes",
     "segments": [
       {
-        "intro": "This is the quickest home-improvement project ever. If you serve this, suddenly any hovel is royal getaway. This is a breakfast version  of bananas foster, though if you don't mind starting your day with a little liquor and a shot of rum, by all means go for the original  recipe.",
+        "intro": "This is the quickest home-improvement project ever. If you serve this, suddenly any hovel is royal getaway. This is a breakfast version of bananas foster, though if you don't mind starting your day with a little liquor and a shot of rum, by all means go for the original recipe.",
         "steps": [
           {
             instruction: "The basic breakfast version makes 2 servings",
@@ -3050,7 +3050,7 @@ export const RecipeData: Recipe[] = [
         ],
         "reviews": {
           "AJ": "Bananas are a fruit. Need I say more?",
-          "NQ":  "Yum.",
+          "NQ": "Yum.",
           "JJ": "Why don't you make this more often?"
         },
         bulletList: {
@@ -3092,7 +3092,7 @@ export const RecipeData: Recipe[] = [
             ]
           }
         ],
-        description: "About 'flaming it' \n\nYes, that means letting a flame lick the alcohol fumes evaporating and rising into the air above your fry pan. Chefs at fancy restaurants  simply move that fry pan around until a flame from the cooking stovetop catches a waft of the flammable alcohol fumes and POOF!  flickers of fire zoom around the sizzling sauce and a lovely hot blue glow brightens the room. Others of us use a sturdy match, a long  match or one of those butane lighters with a long nose, depending on how adventurous we are. I am not telling you to play with fire  (but it is sort of fun). ",
+        description: "About 'flaming it' \n\nYes, that means letting a flame lick the alcohol fumes evaporating and rising into the air above your fry pan. Chefs at fancy restaurants simply move that fry pan around until a flame from the cooking stovetop catches a waft of the flammable alcohol fumes and POOF! flickers of fire zoom around the sizzling sauce and a lovely hot blue glow brightens the room. Others of us use a sturdy match, a long match or one of those butane lighters with a long nose, depending on how adventurous we are. I am not telling you to play with fire (but it is sort of fun). ",
         bulletList: {
           header: "Happy Creative Options",
           list: [
@@ -3114,12 +3114,12 @@ export const RecipeData: Recipe[] = [
       {
         "intro": "Who can make the best fruit face?",
         description: "Here are the rules to the game: \
-          \n\n1. Smear a medium size plate with a circle of yogurt (vanilla, strawberry, chocolate -- your choice). \
-          \n\n2. Put out whatever fruit your kids like: bananas, grapes, raisins, pineapple, melon slices, mandarin oranges, dried apricots, mango,  sliced kiwi, berries of any sort, apple chopped/sliced/in rings, ... you get the idea: whichever fruits float your boat ... or happen to  be on sale this week. This step #2 is why there is any prep time at all: you have to set out the fruit in a way that will encourage play. \
-          \n\n3. Make available Hair/Beard options: granola, chopped nuts, sunflower seeds, flaked coconut. Certain boxed cereals make very  reasonable hair, like little O's or your favorite flakes. \
-          \n\nIf you are an idealist, you probably already felt betrayed by the suggestion of boxed cereal. If this is true, skip to Step 5. \
-          \n\n4. Because you are at heart a benevolent monarch of the kitchen realm, you might allow honey, chocolate chips, maple syrup or something as decadent as jam (because, honestly, what do they put in the bottom of those 'fruit on the bottom' yogurt cups anyway  and no one thinks you're a bad parent for giving your kid one of those). \
-          \n\n5. LET THE GAMES BEGIN! Each child creates his or her own best fruit face. Take pictures before eating. Post to the internet to  impress your friends. No, wait ... we only do that when we've served flaming bananas.",
+ \n\n1. Smear a medium size plate with a circle of yogurt (vanilla, strawberry, chocolate -- your choice). \
+ \n\n2. Put out whatever fruit your kids like: bananas, grapes, raisins, pineapple, melon slices, mandarin oranges, dried apricots, mango, sliced kiwi, berries of any sort, apple chopped/sliced/in rings, ... you get the idea: whichever fruits float your boat ... or happen to be on sale this week. This step #2 is why there is any prep time at all: you have to set out the fruit in a way that will encourage play. \
+ \n\n3. Make available Hair/Beard options: granola, chopped nuts, sunflower seeds, flaked coconut. Certain boxed cereals make very reasonable hair, like little O's or your favorite flakes. \
+ \n\nIf you are an idealist, you probably already felt betrayed by the suggestion of boxed cereal. If this is true, skip to Step 5. \
+ \n\n4. Because you are at heart a benevolent monarch of the kitchen realm, you might allow honey, chocolate chips, maple syrup or something as decadent as jam (because, honestly, what do they put in the bottom of those 'fruit on the bottom' yogurt cups anyway and no one thinks you're a bad parent for giving your kid one of those). \
+ \n\n5. LET THE GAMES BEGIN! Each child creates his or her own best fruit face. Take pictures before eating. Post to the internet to impress your friends. No, wait ... we only do that when we've served flaming bananas.",
         outro: "As long as you also eat it, WHY NOT play with your food?"
       },
     ],
@@ -3131,7 +3131,7 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "15 minutes the night before; 1 minute in the morning",
     "segments": [
       {
-        "intro": "One of the things I remember from reading the Little House on the Prairie books is how Alonzo's family always had pies for breakfast.  What a fabulous idea! But who has time to bake pies for breakfast? However, Baked Apples in the crockpot are ... a piece of cake.",
+        "intro": "One of the things I remember from reading the Little House on the Prairie books is how Alonzo's family always had pies for breakfast. What a fabulous idea! But who has time to bake pies for breakfast? However, Baked Apples in the crockpot are ... a piece of cake.",
         "steps": [
           {
             instruction: "The basic uses 4-5 apples",
@@ -3143,13 +3143,13 @@ export const RecipeData: Recipe[] = [
             instruction: "Arrange your apples in the bottom of yhour crockpot so you can look down the holes.",
           },
           {
-            instruction: "In a small bowl mix 1/2 cup brown sugar, 1 teaspoon cinnamon and 1/4 cup raisins.",
+            instruction: "In a small bowl mix 1/2 cup brown sugar, 1 t cinnamon and 1/4 cup raisins.",
           },
           {
             instruction: "Spoon the filling into the apple holes.",
           },
           {
-            instruction: "Top each apple with a little wedge of unsalted butter (I estimate this is 1/4 of a tablespoon slice off a standard stick, if that  makes sense. If this isn't clear enough, don't worry. Just do it.)",
+            instruction: "Top each apple with a little wedge of unsalted butter (I estimate this is 1/4 of a T slice off a standard stick, if that makes sense. If this isn't clear enough, don't worry. Just do it.)",
           },
           {
             instruction: "Pour 1/2 cup water into the bottom of the crock.",
@@ -3158,7 +3158,7 @@ export const RecipeData: Recipe[] = [
             instruction: "Cook on low for 6 - 8 hours.",
           },
         ],
-        description: "This smells pretty amazing in the morning and is known to make even husbands ... err, I mean, teenagers less grumpy about getting  out of bed. Good kitchen smells make everyone so much happier.",
+        description: "This smells pretty amazing in the morning and is known to make even husbands ... err, I mean, teenagers less grumpy about getting out of bed. Good kitchen smells make everyone so much happier.",
         bulletList: {
           header: "How to serve your baked apple delights",
           list: [
@@ -3171,7 +3171,7 @@ export const RecipeData: Recipe[] = [
         },
         "reviews": {
           "AJ": "This is still fruit. I don't have to like it, right?",
-          "NQ":  "Um but pie would be better.",
+          "NQ": "Um but pie would be better.",
           "JJ": "Is AJ going to finish his?"
         },
         outro: "'If you have an apple and I have an apple and we exchange these apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas.' - George Bernard Shaw (Okay, this quote has little to do with apples, but I liked it anyway.)",
@@ -3220,8 +3220,8 @@ export const RecipeData: Recipe[] = [
           }
         ],
         "reviews": {
-          "AJ": "I can eat fruit this  way.",
-          "NQ":  "How come applesauce in jars doesn't taste like this?",
+          "AJ": "I can eat fruit this way.",
+          "NQ": "How come applesauce in jars doesn't taste like this?",
           "JJ": "More please."
         },
         description: "Creative Cooking\nApple Compote can be turned into a savory apple-based dish, fine for a breakfast casserole, substantial, and quirky enough for a branch potluck or supper. Don't let the mention of sauerkraut gross you out. It melts into a sweet-sour delight.",
@@ -3247,12 +3247,12 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "5-15",
     "segments": [
       {
-        "intro": "I must apologize for the look of disbelief when my husband shortly after we married said one evening: 'My mother sometimes serves  sliced bananas in orange juice for dessert.' I still don't find this to be a particularly satisfying dessert but the idea of a sunny fruity  liquid filled with bite-size fruit delights? THAT is the perfect breakfast starter. And if a certain grumpy child will not eat Fruit Soup  for breakfast, throw it in the blender with ice. No one says you can't adapt on the fly!",
-        description: "The basic recipe is exactly what my mother-in-law used to serve: 1 sliced banana in 1 cup orange juice. Serve with a soup spoon.\n\nMaking it 'souper'\nThe proportions: 1 cup of fruit + 1 cup of liquid. Use what fruits you have, what you love, what is in season, what is saved for special occasions, what is growing in the backyard. You  can even, if necessary to bring a bit of sunshine into a long, cold winter, ... open a can.\
-          Suggested soup fruit combos \
-          \nORANGE Juice + diced apple + sliced banana + peeled and chopped kiwi\
-          \nORANGE Juice + mandarin oranges + peeled and chopped honey dew melon + blue berries + strawberries + green grapes + sliced banana\
-        ",
+        "intro": "I must apologize for the look of disbelief when my husband shortly after we married said one evening: 'My mother sometimes serves sliced bananas in orange juice for dessert.' I still don't find this to be a particularly satisfying dessert but the idea of a sunny fruity liquid filled with bite-size fruit delights? THAT is the perfect breakfast starter. And if a certain grumpy child will not eat Fruit Soup for breakfast, throw it in the blender with ice. No one says you can't adapt on the fly!",
+        description: "The basic recipe is exactly what my mother-in-law used to serve: 1 sliced banana in 1 cup orange juice. Serve with a soup spoon.\n\nMaking it 'souper'\nThe proportions: 1 cup of fruit + 1 cup of liquid. Use what fruits you have, what you love, what is in season, what is saved for special occasions, what is growing in the backyard. You can even, if necessary to bring a bit of sunshine into a long, cold winter, ... open a can.\
+ Suggested soup fruit combos \
+ \nORANGE Juice + diced apple + sliced banana + peeled and chopped kiwi\
+ \nORANGE Juice + mandarin oranges + peeled and chopped honey dew melon + blue berries + strawberries + green grapes + sliced banana\
+ ",
         bulletList: {
           header: "Suggested soup fruit combos",
           list: [
@@ -3277,7 +3277,7 @@ export const RecipeData: Recipe[] = [
       },
       {
         description: "Fruit salad with yogurt sauce\nSo, I often stir in a lot of yogurt. Voila! Fruit salad.\n\nSmashing Smoothies\nI was serious about throwing any fruit soup in a blender with ice.",
-        reviews:{
+        reviews: {
           "AJ": "Smoothie please. Then I can pretend this is not full of fruit.",
           "NQ": "Smoothie please. Then I can take it with me to rehearsal.",
           "JJ": "Any way you please but no fresh melon bits.",
@@ -3293,7 +3293,7 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "4-10",
     "segments": [
       {
-        "intro": "Oatmeal isn't for everyone, but let's get something clear: that goopy, slimy stuff made by mixing hot water with the contents of a  little paper packet is NOT real oatmeal. Except for my niece-in-law who eats that instant gloop all the time and appears to like it, no  one really enjoys that stuff, do they? It's just easy and 'oka' but not 'great.' It's crazy that there are thousands of human oat eaters  putting up with mediocre mush just because no one has told them how easy it is to make good REAL cooked oats. ",
+        "intro": "Oatmeal isn't for everyone, but let's get something clear: that goopy, slimy stuff made by mixing hot water with the contents of a little paper packet is NOT real oatmeal. Except for my niece-in-law who eats that instant gloop all the time and appears to like it, no one really enjoys that stuff, do they? It's just easy and 'oka' but not 'great.' It's crazy that there are thousands of human oat eaters putting up with mediocre mush just because no one has told them how easy it is to make good REAL cooked oats. ",
         steps: [
           {
             instruction: "The basic recipe for 1 serving of good oatmeal",
@@ -3305,7 +3305,7 @@ export const RecipeData: Recipe[] = [
             ]
           }
         ],
-        description: "That's it. See how easy that was? What in the world do you need to buy that instant stuff for? It could take you longer to boil the  water! \nBut here's where ordinary good oatmeal becomes Real Worth-it Oatmeal. The basic recipe for 1 serving of excellent oatmeal",
+        description: "That's it. See how easy that was? What in the world do you need to buy that instant stuff for? It could take you longer to boil the water! \nBut here's where ordinary good oatmeal becomes Real Worth-it Oatmeal. The basic recipe for 1 serving of excellent oatmeal",
       },
       {
         steps: [
@@ -3333,8 +3333,8 @@ export const RecipeData: Recipe[] = [
         },
       },
       {
-        description: "Tips\nUse the right size bowl in the microwave so that your oatmeal never boils over because I know you have better things to do in  the morning than washing up dead oatmeal, and leaving your dead oatmeal in your microwave until later is a bad idea. • Making more than one or two servings at a time is best done on a pan on the stove, but only if you have a good heat-resistant  rubber spatula and are awake enough to not stop stirring. Note: you do not have to be particularly awake, just awake enough.  Otherwise just use your microwave - one bowl at a time. P.S. It may be prudent to hide the chocolate chips until the last kid's  oatmeal is out of the microwave.",
-        reviews:{
+        description: "Tips\nUse the right size bowl in the microwave so that your oatmeal never boils over because I know you have better things to do in the morning than washing up dead oatmeal, and leaving your dead oatmeal in your microwave until later is a bad idea. • Making more than one or two servings at a time is best done on a pan on the stove, but only if you have a good heat-resistant rubber spatula and are awake enough to not stop stirring. Note: you do not have to be particularly awake, just awake enough. Otherwise just use your microwave - one bowl at a time. P.S. It may be prudent to hide the chocolate chips until the last kid's oatmeal is out of the microwave.",
+        reviews: {
           "AJ": "I don't get hungry before lunch when Mom makes this.",
           "NQ": "This isn't really the same thing as that goopy stuff, is it?",
           "JJ": "If I have some banana and apple, how many chocolate chips can I have on top?",
@@ -3342,14 +3342,14 @@ export const RecipeData: Recipe[] = [
       },
       {
         bulletList: {
-          header: "Creative Options\nSubstitute or add some juice, milk or a milk substitute for some of the water. This gives you even more variations and flavors to  experiment with. Imagine these combinations of liquid + toppings:",
+          header: "Creative Options\nSubstitute or add some juice, milk or a milk substitute for some of the water. This gives you even more variations and flavors to experiment with. Imagine these combinations of liquid + toppings:",
           list: [
             "Apple juice + raisins, brown sugar and a dash of cinnamon",
             "Coconut milk + pecans, honey and flaked coconut",
             "Milk and Half-and-half + chocolate chips + canned mandarin oranges",
             "1/2 cup water and 1/2 cup orange juice + dried cranberries and honey",
             "Vanilla almond milk + sliced almonds, dried cherries and maple syrup",
-            "1/2 cup water, 1/2 cup apple juice, 1/4 teaspoon vanilla + chopped apples, chopped walnuts and honey",
+            "1/2 cup water, 1/2 cup apple juice, 1/4 t vanilla + chopped apples, chopped walnuts and honey",
             "Chocolate milk + chocolate chips (Three out of three children say this is not too much chocolate.)",
           ]
         },
@@ -3364,8 +3364,8 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "4-10",
     "segments": [
       {
-        "intro": "We happily eat all sorts of cooked grains for lunch and dinner, in soups and stews, as salads and pilafs and a carb-bed for other tasty  mélanges. So, why do most US-Americans think the only grains you eat for breakfast are oats or cream-of-wheat (which is so mush like that it doesn't qualify in mind as 'eating grains'). If you have a couple teenagers who have to share the bathroom in the morning,  you've got enough time to make 'Rice and Barley.'",
-        description: "Cooking R&B Makes 4 cups of breakfast-worthy grains Mix 1 cup rice and 1 cup pearled barley in a 2 quart saucepan. Add 4 cups of lukewarm water and 1/2 teaspoon salt. Bring to a boil.  Stir and reduce heat to very low. Cover the pot with a tight-fitting lid. Simmer for 20 minutes. Remove from stove and set on a hot  pad on the breakfast table until someone is out of the bathroom. Here are some ways to top off your R&B. Be Creative.",
+        "intro": "We happily eat all sorts of cooked grains for lunch and dinner, in soups and stews, as salads and pilafs and a carb-bed for other tasty mélanges. So, why do most US-Americans think the only grains you eat for breakfast are oats or cream-of-wheat (which is so mush like that it doesn't qualify in mind as 'eating grains'). If you have a couple teenagers who have to share the bathroom in the morning, you've got enough time to make 'Rice and Barley.'",
+        description: "Cooking R&B Makes 4 cups of breakfast-worthy grains Mix 1 cup rice and 1 cup pearled barley in a 2 quart saucepan. Add 4 cups of lukewarm water and 1/2 t salt. Bring to a boil. Stir and reduce heat to very low. Cover the pot with a tight-fitting lid. Simmer for 20 minutes. Remove from stove and set on a hot pad on the breakfast table until someone is out of the bathroom. Here are some ways to top off your R&B. Be Creative.",
       },
       {
         steps: [
@@ -3393,7 +3393,7 @@ export const RecipeData: Recipe[] = [
             ]
           },
         ],
-        description: "I double dare you! Really. \nI don't mind cereal out of boxes once in a while. But, honestly, cereals are just a Frankenstein version of grains. There is something in  there reminiscent of 'grain.' They used to be grains - long ago... I think. Boxed cereals actually belong in the category of 'fast food'  that happens not to be deep fat fried. So, I dare you to introduce your family to the joy of grains for breakfast. REAL ones. \n\nIf you have leftovers, turn it into the salads, soups, stews, and pilafs that your family is used to for lunch or dinner OR throw the leftovers into tomorrow's Spectacular Spuds or Fried Rice. ",
+        description: "I double dare you! Really. \nI don't mind cereal out of boxes once in a while. But, honestly, cereals are just a Frankenstein version of grains. There is something in there reminiscent of 'grain.' They used to be grains - long ago... I think. Boxed cereals actually belong in the category of 'fast food' that happens not to be deep fat fried. So, I dare you to introduce your family to the joy of grains for breakfast. REAL ones. \n\nIf you have leftovers, turn it into the salads, soups, stews, and pilafs that your family is used to for lunch or dinner OR throw the leftovers into tomorrow's Spectacular Spuds or Fried Rice. ",
         outro: "'Even the most resourceful person cannot create miracles from a rice-less pantry.' Chinese proverb",
       },
     ],
@@ -3405,8 +3405,8 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "0-15 minutes the night before; 2-10 minutes in the morning",
     "segments": [
       {
-        "intro": "We have so much to learn by experiencing other cultures. A warm soup is a common breakfast item in several areas of the world,  including Japan and Southeast Asia.",
-        description: "The base: 1 tablespoon of miso + 1 cup water. Heat up and whisk together so the miso dissolves. You can enjoy a cup of this broth anytime including first thing in the morning. High sodium but caffeine-free. All the suggestions  below this line are optional and open to interpretation.",
+        "intro": "We have so much to learn by experiencing other cultures. A warm soup is a common breakfast item in several areas of the world, including Japan and Southeast Asia.",
+        description: "The base: 1 T of miso + 1 cup water. Heat up and whisk together so the miso dissolves. You can enjoy a cup of this broth anytime including first thing in the morning. High sodium but caffeine-free. All the suggestions below this line are optional and open to interpretation.",
         bulletList: {
           header: "Flavorings\nMiso alone is just fine. Adding any or all of these will wake up the taste buds and send them for a joy ride",
           list: [
@@ -3424,12 +3424,12 @@ export const RecipeData: Recipe[] = [
           list: [
             "very thin rice noodles can work if you soak some in hot water. Then add some into your cup of miso.",
             "Leftover cooked noodles of any sort are like windfall for your simple cup of miso.",
-            "cook extra-thin spaghetti according to package directions. Why this kind of pasta? because it cooks fast!\n\tIf you're making a whole pot of miso, cook some of your pasta right in the bubbling miso.\n\tIf you're making only 1-3 servings of miso, cook your pasta in a separate pot. Use some of the noodles for your miso and  save the rest for lunch or dinner, or use again for breakfast tomorrow."
+            "cook extra-thin spaghetti according to package directions. Why this kind of pasta? because it cooks fast!\n\tIf you're making a whole pot of miso, cook some of your pasta right in the bubbling miso.\n\tIf you're making only 1-3 servings of miso, cook your pasta in a separate pot. Use some of the noodles for your miso and save the rest for lunch or dinner, or use again for breakfast tomorrow."
           ]
         },
       },
       {
-        description: "Tofu\nAdd a few cubes of extra-firm tofu into your hot miso. Simmer for an extra minute to warm it up before serving. \nVeggies Fresh quickies: Chop up 1/2 cup of washed spinach or bok choy greens or napa cabbage. Leftovers: Add any small amount of leftover veggie that seems reasonable, allowing everything to warm up together for a couple  minutes.",
+        description: "Tofu\nAdd a few cubes of extra-firm tofu into your hot miso. Simmer for an extra minute to warm it up before serving. \nVeggies Fresh quickies: Chop up 1/2 cup of washed spinach or bok choy greens or napa cabbage. Leftovers: Add any small amount of leftover veggie that seems reasonable, allowing everything to warm up together for a couple minutes.",
         outro: "'Soup is creativity waiting to happen. No two soups are alike. ... unless you get it out of a can'",
       },
     ],
@@ -3441,7 +3441,7 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "10-15 minutes",
     "segments": [
       {
-        "intro": "Polenta is nothing more than expensive cornmeal mush. If the tube in the store says 'mush' it will cost only half as much as the  package that reads 'polenta.' Although I tend to be a stickler for 'from scratch,' with cornmeal mush... uh, I mean Polenta, I buy the  stuff in tubes just to make this easy breakfast. ",
+        "intro": "Polenta is nothing more than expensive cornmeal mush. If the tube in the store says 'mush' it will cost only half as much as the package that reads 'polenta.' Although I tend to be a stickler for 'from scratch,' with cornmeal mush... uh, I mean Polenta, I buy the stuff in tubes just to make this easy breakfast. ",
         steps: [
           {
             instruction: "The basic recipe makes 10 patties.",
@@ -3453,10 +3453,10 @@ export const RecipeData: Recipe[] = [
             ]
           },
           {
-            instruction: "Serving up sweet\nThis basic recipe can be pushed sweet by  serving the patties drizzled with honey.\nOptions:  Serve with maple syrup.  Sliced strawberries go surprisingly well.",
+            instruction: "Serving up sweet\nThis basic recipe can be pushed sweet by serving the patties drizzled with honey.\nOptions: Serve with maple syrup. Sliced strawberries go surprisingly well.",
           },
           {
-            instruction: "Serving up salty\nThe recipe is just as happy served up with a bit of shredded cheddar and 'two small eyes  and a smiley face' of ketchup.\nOptional: Before putting the patties in the pan, fry up two slices of bacon chopped into  small bits. Sprinkles of onion powder, basil and black pepper are optional and add some  subtle kick. Tex-mex option: Add a side of your favorite black or refried beans, salsa, and sour  cream."
+            instruction: "Serving up salty\nThe recipe is just as happy served up with a bit of shredded cheddar and 'two small eyes and a smiley face' of ketchup.\nOptional: Before putting the patties in the pan, fry up two slices of bacon chopped into small bits. Sprinkles of onion powder, basil and black pepper are optional and add some subtle kick. Tex-mex option: Add a side of your favorite black or refried beans, salsa, and sour cream."
           }
         ]
       },
@@ -3466,13 +3466,13 @@ export const RecipeData: Recipe[] = [
           list: [
             "very thin rice noodles can work if you soak some in hot water. Then add some into your cup of miso.",
             "Leftover cooked noodles of any sort are like windfall for your simple cup of miso.",
-            "cook extra-thin spaghetti according to package directions. Why this kind of pasta? because it cooks fast!\n\tIf you're making a whole pot of miso, cook some of your pasta right in the bubbling miso.\n\tIf you're making only 1-3 servings of miso, cook your pasta in a separate pot. Use some of the noodles for your miso and  save the rest for lunch or dinner, or use again for breakfast tomorrow."
+            "cook extra-thin spaghetti according to package directions. Why this kind of pasta? because it cooks fast!\n\tIf you're making a whole pot of miso, cook some of your pasta right in the bubbling miso.\n\tIf you're making only 1-3 servings of miso, cook your pasta in a separate pot. Use some of the noodles for your miso and save the rest for lunch or dinner, or use again for breakfast tomorrow."
           ]
         },
       },
       {
-        description: "Tofu\nAdd a few cubes of extra-firm tofu into your hot miso. Simmer for an extra minute to warm it up before serving. \nVeggies Fresh quickies: Chop up 1/2 cup of washed spinach or bok choy greens or napa cabbage. Leftovers: Add any small amount of leftover veggie that seems reasonable, allowing everything to warm up together for a couple  minutes.",
-        reviews:{
+        description: "Tofu\nAdd a few cubes of extra-firm tofu into your hot miso. Simmer for an extra minute to warm it up before serving. \nVeggies Fresh quickies: Chop up 1/2 cup of washed spinach or bok choy greens or napa cabbage. Leftovers: Add any small amount of leftover veggie that seems reasonable, allowing everything to warm up together for a couple minutes.",
+        reviews: {
           "AJ": "Best with turkey bacon and a 'whole wig and beard' of ketchup.",
           "NQ": "What isn't good with lots of bacon?",
           "JJ": "Make mine with everything please and onions. Is it wrong to have onions for breakfast.",
@@ -3488,20 +3488,20 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "10 minutes the night before; 10 minutes in the morning",
     "segments": [
       {
-        "intro": "Fried potatoes are something I used to always order for breakfast in restaurants because I never made them for breakfast at home.  Why? Because things like vegetable peelers and sharp knives are dangerous when you're half asleep. This version lets me get awesome  sautéed potatoes on the table for breakfast without endangering any fingers in the morning.",
+        "intro": "Fried potatoes are something I used to always order for breakfast in restaurants because I never made them for breakfast at home. Why? Because things like vegetable peelers and sharp knives are dangerous when you're half asleep. This version lets me get awesome sautéed potatoes on the table for breakfast without endangering any fingers in the morning.",
         steps: [
           {
             instruction: "The night before, wash and dice red-skin potatoes into small chunks (1/4-1/2 inch chunks). Red potatoes do not need peeling. Small chunks cook faster.",
           },
           {
             instruction: "Put your potato chunks into a large bowl and cover with cold water. This keeps them from turning brown while they wait for their moment in the spotlight.",
-            ingredients:[
+            ingredients: [
               "potatoes (as many as you wish to use)"
             ]
           },
           {
             instruction: "In the morning, use your largest fry pan and heat oil. Drain your potato chunks and saute. Keep the cover on the pan as much as possible, but stir your taters frequently.\
-            \n\nSeason as you wish with any combination of salt, pepper, onion powder, basil, dill, paprika, chili powder, garlic powder ... 10 minutes later you've got great potatoes",
+ \n\nSeason as you wish with any combination of salt, pepper, onion powder, basil, dill, paprika, chili powder, garlic powder ... 10 minutes later you've got great potatoes",
             ingredients: [
               "2 T oil",
             ]
@@ -3509,11 +3509,11 @@ export const RecipeData: Recipe[] = [
         ]
       },
       {
-        description: "Creative Cooking \nYou can add small amounts of leftover meat, vegetables or even other cooked grains to  the skillet about 3 minutes before the end. If you want a zipp-i-fy your spuds, add 2 tablespoons of apple cider vinegar, 1 teaspoon  of onion powder and fresh ground black pepper. If you happen to have extras (highly unlikely), you can easily turn this into a potato salad  by adding some chopped sweet pickles and a couple tablespoons of mayonnaise. ",
-        reviews:{
+        description: "Creative Cooking \nYou can add small amounts of leftover meat, vegetables or even other cooked grains to the skillet about 3 minutes before the end. If you want a zipp-i-fy your spuds, add 2 T of apple cider vinegar, 1 t of onion powder and fresh ground black pepper. If you happen to have extras (highly unlikely), you can easily turn this into a potato salad by adding some chopped sweet pickles and a couple T of mayonnaise. ",
+        reviews: {
           "AJ": "Where's the ketchup?",
-          "NQ": "Not to complain or anything, but  these would be awesome with some  bacon.",
-          "JJ": "We should always have potatoes for  breakfast.",
+          "NQ": "Not to complain or anything, but these would be awesome with some bacon.",
+          "JJ": "We should always have potatoes for breakfast.",
         },
         outro: "'What I say is that if a fellow really likes potatoes, he must be a pretty descent sort of fellow.'' A.A. Milne",
       },
@@ -3526,8 +3526,8 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "25 minutes some other time; 7-15 minutes in the morning",
     "segments": [
       {
-        "intro": "The simplest versions of this Asian staple are embarrassingly easy. Take leftover cooked rice and sauté it in a fry pan with a little oil.  This is so basic, it hardly warrants a recipe and yet, I think there are North American families that never have this for breakfast  because it hasn't occurred to them. They think fried rice is something special you only order at a Chinese restaurant.",
-        description: "The basic recipe Makes 4 portions Before you begin, you need to cook or have leftover cooked rice. I prefer new crop, long grain Thailand Jasmine rice, but don't let all  those words make you feel threatened. Any not instant rice you normally use will be fine to get you started on enjoying fried rice for  breakfast.",
+        "intro": "The simplest versions of this Asian staple are embarrassingly easy. Take leftover cooked rice and sauté it in a fry pan with a little oil. This is so basic, it hardly warrants a recipe and yet, I think there are North American families that never have this for breakfast because it hasn't occurred to them. They think fried rice is something special you only order at a Chinese restaurant.",
+        description: "The basic recipe Makes 4 portions Before you begin, you need to cook or have leftover cooked rice. I prefer new crop, long grain Thailand Jasmine rice, but don't let all those words make you feel threatened. Any not instant rice you normally use will be fine to get you started on enjoying fried rice for breakfast.",
       },
       {
         steps: [
@@ -3544,19 +3544,19 @@ export const RecipeData: Recipe[] = [
           },
           {
             instruction: "Add cooked (leftover) rice. (The 25 min 'some other time' is because your rice has to be already cooked. I just make extra at supper time and save it for making breakfast fired rice.) If you are in a rush, you can forego any of the optional beginnings and just start here with rice in oil. If you hit the snooze button, then warm ujp your already cooked, leftover rice in the microwave for 2 minutes before throwing in the fryinig pan.",
-            ingredients:[
+            ingredients: [
               "3 cups rice"
             ]
           },
           {
             instruction: "The eggs\nYou have atleast 2 options.\nOption 1: traditional fried rice with egg has the egg scrambled in the rice. Push your rice to the edges of the fry pan. Add a little extra oil to the middle of your pan. In a bowl, whisk two eggs. Pour all at once in the middle of the pan. Scrape bits of eggs toward the edge as they cook. Eventually mixing the egg into the rice.\
-            \nOption 2: Fry the eggs separately and whole, like ... you  know, 'fried eggs.' Carefully lay one fried egg atop  each serving of rice. When the poked yoke soaks into  the rice, it's perfect.",
+ \nOption 2: Fry the eggs separately and whole, like ... you know, 'fried eggs.' Carefully lay one fried egg atop each serving of rice. When the poked yoke soaks into the rice, it's perfect.",
             ingredients: [
               "2 T oil",
             ]
           },
         ],
-        description: "Subtle, authentic zip. When I am served fried rice in  Southeast Asia whether for breakfast (which happens often)  or at lunch or dinner (which also happens often), it is  actually fairly bland. When I want slightly more flavor  without pushing the fried rice in a non-Asian direction, I  toss in 1 tablespoon rice vinegar, 1 tablespoon sugar and 1  teaspoon soy sauce. Red pepper flakes, optional.",
+        description: "Subtle, authentic zip. When I am served fried rice in Southeast Asia whether for breakfast (which happens often) or at lunch or dinner (which also happens often), it is actually fairly bland. When I want slightly more flavor without pushing the fried rice in a non-Asian direction, I toss in 1 T rice vinegar, 1 T sugar and 1 t soy sauce. Red pepper flakes, optional.",
         bulletList: {
           header: "Americanizing fried rice\nSince I have North American Kids, I let them Americanize their fried rice. Here are common 'fusion' concoctions.",
           list: [
@@ -3567,14 +3567,14 @@ export const RecipeData: Recipe[] = [
             "gravy (leftover from Sunday lunch) and no eggs",
           ],
         },
-        reviews:{
+        reviews: {
           "AJ": "This is okay, but I'd rather have pancakes",
           "NQ": "I like it with the scrambled egg not the fried egg.",
-          "JJ": "This is better than pancakes. Fried eggs are okay if I  pretend the yoke is sort of like a cheese sauce. Can you make  cheese sauce for it?",
+          "JJ": "This is better than pancakes. Fried eggs are okay if I pretend the yoke is sort of like a cheese sauce. Can you make cheese sauce for it?",
         },
       },
       {
-        steps:[
+        steps: [
           {
             instruction: "Quick Still Real Cheese Sauce"
           },
@@ -3605,7 +3605,7 @@ export const RecipeData: Recipe[] = [
             ]
           },
         ],
-        description: "Creative cooking - 'Breakfast Scrambles' \nMany combinations of plain leftovers can be substituted for the rice in this recipe. Think: chopped up baked potatoes, plain pasta,  couscous, barley, cold boiled potatoes, a few lentils, ... We call these 'Breakfast Scrambles' and this is the best way to clean out  your fridge and get the kids to enjoy it.",
+        description: "Creative cooking - 'Breakfast Scrambles' \nMany combinations of plain leftovers can be substituted for the rice in this recipe. Think: chopped up baked potatoes, plain pasta, couscous, barley, cold boiled potatoes, a few lentils, ... We call these 'Breakfast Scrambles' and this is the best way to clean out your fridge and get the kids to enjoy it.",
         outro: "Everything is not better with Blue Bonnet on it. It's cheese, my dear. Or ketchup if you are under age 6.",
       },
     ],
@@ -3617,14 +3617,14 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "Lots of time [sigh] but worth it! [smile]",
     "segments": [
       {
-        "intro": "If you are going to put in the time to make cinnamon rolls for any occasion, you MUST use the recipe. After nearly a decade of trying many different  recipes, THIS is the perfect combination of soft dough, cinnamon swirl and just-right glaze.",
+        "intro": "If you are going to put in the time to make cinnamon rolls for any occasion, you MUST use the recipe. After nearly a decade of trying many different recipes, THIS is the perfect combination of soft dough, cinnamon swirl and just-right glaze.",
         steps: [
           {
             instruction: "Mom's Best Cinnamon Rolls Makes 12 amazing rolls. Preheat oven to 375.",
           },
           {
             instruction: "Dough. Mix together",
-            ingredients:[
+            ingredients: [
               "10-12 oz water",
               "1 1/2 t salt",
               "2 T unsalted butter",
@@ -3638,14 +3638,14 @@ export const RecipeData: Recipe[] = [
           },
           {
             instruction: "Shaping. Punch down your dough and knead to get the bubbles mostly out. On a floured surface, roll dough into a 13 by 18 inch rectangle. Smear this rectangle with soften butter. Spread brown sugar evenlyh over the top. Sprinkle with cinnamon.",
-            ingredients:[
+            ingredients: [
               "4 T softened unsalted butter",
               "1/2-1 cup brown sugar",
               "2 t cinnamon",
             ]
           },
           {
-            instruction: "Roll up  the long edge so that you get a swirled roll up 11 inches long. Dab a little water along your last 1/2 inch to help seal up your scroll of dough.",
+            instruction: "Roll up the long edge so that you get a swirled roll up 11 inches long. Dab a little water along your last 1/2 inch to help seal up your scroll of dough.",
           },
           {
             instruction: "Grease a 9 by 13 inch cake pan. Cut the dough scroll into 12 slices and place in your cake pan. Cover with a towel and allow to rise until the tops of the rolls are level with the top edge of your cake pan."
@@ -3671,19 +3671,19 @@ export const RecipeData: Recipe[] = [
             ]
           },
           {
-            instruction: "Options:\nAdd raisins when you spread the brown sugar and cinnamon on  your rectangle.\nAdd drunken raisins instead (raisins that have soaked overnight  in rum).\nAdd orange zest to your dough and substitute orange juice for  the milk in your amaze-a-glaze."
+            instruction: "Options:\nAdd raisins when you spread the brown sugar and cinnamon on your rectangle.\nAdd drunken raisins instead (raisins that have soaked overnight in rum).\nAdd orange zest to your dough and substitute orange juice for the milk in your amaze-a-glaze."
           }
         ],
         reviews: {
           general: "thumbs up. WAAAY upl",
         },
         description: "Serve warm \
-          \nThese really are best warm from the oven, but since the stars so seldom align in a way that allows everyone to be seated at the table at  the precise moment the rolls are done, reheating just a wee bit in the microwave is good. \
-          \n\nCreative Cooking \
-          \nThis basic recipe can be made into cinnamon swirl bread or cinnamon raisin bread. When you are smearing the sugar and butter on  your rectangle of dough, stay away from the short ends. Roll up your scroll, seal the edge. Place this long scroll with the seam side  down on a greased cookie sheet or a 9x13 cake pan. Then shape the short ends by pulling the dough down and around and tuck it sort  of under the ends to hide the sugar glaze. Let it rise for an hour. Then bake at 375 F. for 40-50 minutes until light brown on top. When bread is still hot from the oven, it does not slice well. So, if you're making this loaf version of cinnamon rolls instead of rolls,  you're planning on eating your bread when cooler. Of course, you still want the Amaze-a-Glaze (or the kids will revolt).  \
-          \n\nCheating ... um, I mean ... Planning ahead\nThese rolls are so popular, I usually make a double batch. I bake one batch in a 9x13 pan for immediate consumption. I divide the  other batch into two 9-inch round cake pans and bake them. When the round half-batches are completely cooled, I put each on a  paper plate, then into a zippered plastic bag and into the freezer. If I take these out the night before, I can warm them slightly in the  oven or microwave and add the Amaze-a-Glaze in the morning. I won't tell you it's just as good as fresh-baked, but I assure you that  no one complains.",
+ \nThese really are best warm from the oven, but since the stars so seldom align in a way that allows everyone to be seated at the table at the precise moment the rolls are done, reheating just a wee bit in the microwave is good. \
+ \n\nCreative Cooking \
+ \nThis basic recipe can be made into cinnamon swirl bread or cinnamon raisin bread. When you are smearing the sugar and butter on your rectangle of dough, stay away from the short ends. Roll up your scroll, seal the edge. Place this long scroll with the seam side down on a greased cookie sheet or a 9x13 cake pan. Then shape the short ends by pulling the dough down and around and tuck it sort of under the ends to hide the sugar glaze. Let it rise for an hour. Then bake at 375 F. for 40-50 minutes until light brown on top. When bread is still hot from the oven, it does not slice well. So, if you're making this loaf version of cinnamon rolls instead of rolls, you're planning on eating your bread when cooler. Of course, you still want the Amaze-a-Glaze (or the kids will revolt). \
+ \n\nCheating ... um, I mean ... Planning ahead\nThese rolls are so popular, I usually make a double batch. I bake one batch in a 9x13 pan for immediate consumption. I divide the other batch into two 9-inch round cake pans and bake them. When the round half-batches are completely cooled, I put each on a paper plate, then into a zippered plastic bag and into the freezer. If I take these out the night before, I can warm them slightly in the oven or microwave and add the Amaze-a-Glaze in the morning. I won't tell you it's just as good as fresh-baked, but I assure you that no one complains.",
         outro: "'All happiness depends on a leisurely breakfast.' John Gunther"
-        },
+      },
     ],
   },
   {
@@ -3693,7 +3693,7 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "5-15 minutes prep; 30 minutes baking",
     "segments": [
       {
-        "intro": "Desperate for quiche but without enough time to make pie crust, we made up this recipe trying to capture the quiche idea. It worked  amazingly well. And since that first version involved bacon and onions, everyone had seconds.",
+        "intro": "Desperate for quiche but without enough time to make pie crust, we made up this recipe trying to capture the quiche idea. It worked amazingly well. And since that first version involved bacon and onions, everyone had seconds.",
         steps: [
           {
             instruction: "The basic recipe creates a 10-inch pie. Preheat oven to 350F.",
@@ -3724,20 +3724,20 @@ export const RecipeData: Recipe[] = [
             instruction: "bake at 350F for 30 minutes",
           }
         ],
-        description: "This basic recipe can be done in an early morning half-stupor. However, if you are seriously a morning-challenged person, you CAN make this for breakfast. Mix the bowl of ingredients the night before and put it in the fridge. You can even grease your pie plate the  night before. Set your oven to go on before your alarm goes off OR turn on your oven as soon as you stumble into the kitchen. In the  morning, whisk your bowl of stuff again, pour it into the pie plate and stick it in the oven. NOW you can go back to bed for 15  minutes or take your shower or walk the dog to the end of the street and back. \
-        \n\nTips\nIf you can measure 1/2 teaspoon of baking powder into a 1/2 cup of flour, you can make 'Bisquick'. You do not need to  purchase these boxed mix, or pancake mixes or waffle mixes. They try to sell you these because people think it will save them  time in the morning. All you need to get breakfast on the table is a lovely array of options in a handy little kitchen booklet.  • Save your money to invest in the large jar of Nutella.",
-        reviews:{
+        description: "This basic recipe can be done in an early morning half-stupor. However, if you are seriously a morning-challenged person, you CAN make this for breakfast. Mix the bowl of ingredients the night before and put it in the fridge. You can even grease your pie plate the night before. Set your oven to go on before your alarm goes off OR turn on your oven as soon as you stumble into the kitchen. In the morning, whisk your bowl of stuff again, pour it into the pie plate and stick it in the oven. NOW you can go back to bed for 15 minutes or take your shower or walk the dog to the end of the street and back. \
+ \n\nTips\nIf you can measure 1/2 t of baking powder into a 1/2 cup of flour, you can make 'Bisquick'. You do not need to purchase these boxed mix, or pancake mixes or waffle mixes. They try to sell you these because people think it will save them time in the morning. All you need to get breakfast on the table is a lovely array of options in a handy little kitchen booklet. • Save your money to invest in the large jar of Nutella.",
+        reviews: {
           "JJ": "This is a good way to not have pie crust. ",
           "PR": "What's not to like? It's bacon.",
         },
       },
       {
         bulletList: {
-          header: "Creative Options\nYou can add anything you would add to scrambled eggs, omelets or quiches. If the ingredients you are 'creating' with will add quite a  bit of liquid to the dish, you might toss in an extra 1 - 2 tablespoons of flour. ",
+          header: "Creative Options\nYou can add anything you would add to scrambled eggs, omelets or quiches. If the ingredients you are 'creating' with will add quite a bit of liquid to the dish, you might toss in an extra 1 - 2 T of flour. ",
           list: [
-            "Fried bacon bits and sautéed onions. If you cook up the bacon and onions together, do not add the oil or butter in the recipe. Just  use the bacon and onion mixture and you'll be fine.",
+            "Fried bacon bits and sautéed onions. If you cook up the bacon and onions together, do not add the oil or butter in the recipe. Just use the bacon and onion mixture and you'll be fine.",
             "Chopped or sliced pepperoni and 1/2 cup cottage cheese and mozzarella.",
-            "Diced cooked ham and 1/4 teaspoon dill.",
+            "Diced cooked ham and 1/4 t dill.",
             "Chopped green pepper and onions.",
             "Leftover cooked chopped broccoli plus cheddar cheese.",
             "Try different cheeses: blue, sharp cheddar, chipotle, smoked.",
@@ -3748,11 +3748,11 @@ export const RecipeData: Recipe[] = [
         bulletList: {
           header: "Making Breakfasts for the lactose intolerant",
           list: [
-            "Since several persons in the family have grown into lactose intolerance, we substitute in recipes constantly. Mostly I use soy milk,  coconut milk or lactose-free milks for the regular milks. I will make 'buttermilk' or 'yogurt' for recipes by stirring about 1  teaspoon of lemon juice into a cup of regular milk alternative and letting it rest for a few minutes. The liquid thickens and can sub  in baking situations for those other milk ingredients with the sour edge.",
-            "I have tried all the different cheese options. I even bought a book on making 'cheeze'. In the end, we all decided to use parmesan  (which has almost no lactose), the most aged cheeses (like super sharp cheddar), or the brands and types that claim to have zero grams of lactose per serving (though some seem to be more easily handled by our sensitive tracks than others).",
-            "The best cream cheese substitutes are a Tofu Cream Cheese I buy at our local health food store, certain herbed goat cheeses, or  the lactose-free cream cheese from Trader Joe’s. Yum.",
+            "Since several persons in the family have grown into lactose intolerance, we substitute in recipes constantly. Mostly I use soy milk, coconut milk or lactose-free milks for the regular milks. I will make 'buttermilk' or 'yogurt' for recipes by stirring about 1 t of lemon juice into a cup of regular milk alternative and letting it rest for a few minutes. The liquid thickens and can sub in baking situations for those other milk ingredients with the sour edge.",
+            "I have tried all the different cheese options. I even bought a book on making 'cheeze'. In the end, we all decided to use parmesan (which has almost no lactose), the most aged cheeses (like super sharp cheddar), or the brands and types that claim to have zero grams of lactose per serving (though some seem to be more easily handled by our sensitive tracks than others).",
+            "The best cream cheese substitutes are a Tofu Cream Cheese I buy at our local health food store, certain herbed goat cheeses, or the lactose-free cream cheese from Trader Joe’s. Yum.",
             "The best whipped topping substitutes are Dream Whip packets whisked into lactose-free milk.",
-            "Chocolate cream is easily made by blending 12 ounces of silken tofu with 1 cup melted chocolate chips, a tablespoon of honey or  agave nectar, and 1 teaspoon of vanilla. Seriously addicting. If you want it to be creamy add a little milk. If you want it more like a  thick mousse, add an additional 1/4 cup of chocolate chips. Really though, this is a dessert item and not generally served at  breakfast because we would all go into a chocolate coma and only resurface in time for seconds at dinner.",
+            "Chocolate cream is easily made by blending 12 ounces of silken tofu with 1 cup melted chocolate chips, a T of honey or agave nectar, and 1 t of vanilla. Seriously addicting. If you want it to be creamy add a little milk. If you want it more like a thick mousse, add an additional 1/4 cup of chocolate chips. Really though, this is a dessert item and not generally served at breakfast because we would all go into a chocolate coma and only resurface in time for seconds at dinner.",
           ]
         },
         outro: "'You CAN make an omelet without breaking any eggs. It's just a really bad omelet.' Steven Colbert",
@@ -3766,13 +3766,13 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "10-30 minutes prep; 1 hour baking",
     "segments": [
       {
-        "intro": "Quiche is a dinner item because seriously who is going to get up in the morning to make Quiche for breakfast? When on the rare  occasion that I do serve this for breakfast ... you can hear those sighs of satisfaction all the way to Burton Street.",
+        "intro": "Quiche is a dinner item because seriously who is going to get up in the morning to make Quiche for breakfast? When on the rare occasion that I do serve this for breakfast ... you can hear those sighs of satisfaction all the way to Burton Street.",
         steps: [
           {
             instruction: "The basic recipe creates a 9-inch pie. Preheat oven to 350F.",
           },
           {
-            instruction: "PIE CRUST\nPrepare or purchase a 9-inch pie crust. Homemade is always best and Mom's Pie Crust recipe is on the next page. But  some quiche is better than never quiche, so don't let the challenge of making pie crust stop you. If you are not in the pie crust  mood, buy one ready to go.",
+            instruction: "PIE CRUST\nPrepare or purchase a 9-inch pie crust. Homemade is always best and Mom's Pie Crust recipe is on the next page. But some quiche is better than never quiche, so don't let the challenge of making pie crust stop you. If you are not in the pie crust mood, buy one ready to go.",
           },
           {
             instruction: "The fillings\nChoose a good combination of fillings and put them in your pie crust. Tip: put the cheese on the bottom.",
@@ -3786,7 +3786,7 @@ export const RecipeData: Recipe[] = [
             ]
           },
           {
-            instruction: "THE CUSTARD\nMix up the base. Add an  optional item if you want. Pour  this mixture into your pie crust (over the patiently waiting  toppings).",
+            instruction: "THE CUSTARD\nMix up the base. Add an optional item if you want. Pour this mixture into your pie crust (over the patiently waiting toppings).",
           },
           {
             instruction: "Base - Whisk thoroughly together.",
@@ -3800,17 +3800,17 @@ export const RecipeData: Recipe[] = [
             ]
           },
           {
-            instruction: "Options\nConsider one of these:Substitute 1/2 cup milk with half and half.  Add in 1/3 cup sour cream. Add 1/2 cup cottage cheese.",
+            instruction: "Options\nConsider one of these:Substitute 1/2 cup milk with half and half. Add in 1/3 cup sour cream. Add 1/2 cup cottage cheese.",
           },
           {
-            instruction: "BAKE at 350 approximately 1 hour. When a knife inserted in the middle slides  back out without looking goopy, your quiche is done.",
+            instruction: "BAKE at 350 approximately 1 hour. When a knife inserted in the middle slides back out without looking goopy, your quiche is done.",
           },
           {
             instruction: "Tip: I always put my pie pan on a cookie sheet incase I spill which happens 2 out of 3 times."
           }
         ],
-        description: "Cheating \nThe Crust. I already gave you permission to buy a crust. Some pie with some crust is better than no pie with great crust. You can mix your base the night before and, you guessed it, keep it covered in the fridge until morning. Your quiche creation still  has to bake for an hour, but the actual morning prep time is probably down to about 10 minutes. Get it in the oven, then go back  to bed or shower, put in a load of laundry, and floss your teeth. (You've been meaning to do that for a while.) \n\nNot cheating\nHere is Mom's Pie Crust. I include this because it's worth it. Although I do not expect my husband to be objective, he's also never one  to heap praise. Eating any other pie crust is an occasion for him to remind me how much he appreciates this recipe.",
-        reviews:{
+        description: "Cheating \nThe Crust. I already gave you permission to buy a crust. Some pie with some crust is better than no pie with great crust. You can mix your base the night before and, you guessed it, keep it covered in the fridge until morning. Your quiche creation still has to bake for an hour, but the actual morning prep time is probably down to about 10 minutes. Get it in the oven, then go back to bed or shower, put in a load of laundry, and floss your teeth. (You've been meaning to do that for a while.) \n\nNot cheating\nHere is Mom's Pie Crust. I include this because it's worth it. Although I do not expect my husband to be objective, he's also never one to heap praise. Eating any other pie crust is an occasion for him to remind me how much he appreciates this recipe.",
+        reviews: {
           "AJ": "I wonder if you could invent a quiche that was chocolaty.",
           "NQ": "Eee-yew-uck. Quiche is a fine way to have eggs. Don't listen to him, Mom.",
           "JJ": "Can I take this cold in my lunch to school?",
@@ -3836,10 +3836,10 @@ export const RecipeData: Recipe[] = [
             ],
           },
           {
-            instruction: "If you don't know how to do this, go back to Biscuits or Simple Scones. While you're there, you might as  well make some of those too because obviously you're having a leisurely morning."
+            instruction: "If you don't know how to do this, go back to Biscuits or Simple Scones. While you're there, you might as well make some of those too because obviously you're having a leisurely morning."
           },
           {
-            instruction: "When your mixture resembles fine crumbles, stir in 4 tablespoons cold water with a fork until a ball starts forming. Your ball  should hold together well and not stick too much to your fingers. Adjust as needed by adding a tad more water to a dry mixture or a tad more flour to a wet mixture. Form a ball. Divide in half. Roll out each half into a 10 1/2 inch circle. Tip: Roll this out in between two sheets of wax paper  dusted with a little flour. Peel one paper back. The circle of dough should be stuck to the other one and can be easily swooped off  the counter and centered over your pie plate. Carefully peel away the second piece of wax paper. Tip: If you only need one crust, then put the 2nd one in a metal pie tin and freeze the whole thing inside a large plastic zipper bag.  Haul it out of the freezer on a day when you need that homemade! pie crust fast."
+            instruction: "When your mixture resembles fine crumbles, stir in 4 T cold water with a fork until a ball starts forming. Your ball should hold together well and not stick too much to your fingers. Adjust as needed by adding a tad more water to a dry mixture or a tad more flour to a wet mixture. Form a ball. Divide in half. Roll out each half into a 10 1/2 inch circle. Tip: Roll this out in between two sheets of wax paper dusted with a little flour. Peel one paper back. The circle of dough should be stuck to the other one and can be easily swooped off the counter and centered over your pie plate. Carefully peel away the second piece of wax paper. Tip: If you only need one crust, then put the 2nd one in a metal pie tin and freeze the whole thing inside a large plastic zipper bag. Haul it out of the freezer on a day when you need that homemade! pie crust fast."
           }
         ],
         outro: "'Cut my pie into four pieces. I don't think I could eat eight.' Yogi Berra",
@@ -3853,9 +3853,9 @@ export const RecipeData: Recipe[] = [
     "preparationTime": "1-5 minutes prep; 0 minutes baking",
     "segments": [
       {
-        "intro": "One of our favorite family breakfasts is dubbed “German breakfast.” This very quick meal consists simply of good bread with stuff on  it. Put out the bread. Set out the toppings. Basta! No cooking needed. How easy is that? That is why this dive into continental cuisine  counts as “the ultimate cheater breakfast.” The trick to turning this basic fare into one of my family’s favorite meals is GOOD bread  and YUMMY toppings.",
-        description: "BREAD. Use any and all kinds of good bread options. It’s okay to buy bread at stores but invest in good bread. Go international with  really good naan, German health bread (the dark brown compact bricks filled with seeds and all sorts of stuff the Germans call  “Ballaststoff” and we call fiber), a great sour-dough, croissants, or whatever else your family craves. But do NOT serve only  Wonderbread. If you do, one of my children (who have spent just enough time in Germany to become bread snobs) may magically  appear and poof your poor choice of bread into oblivion by smushing the entire loaf into the size of a golf ball. IF you serve only  Wonderbread, the possible failure of your family to appreciate “German breakfast” will not be on my conscience.\
-        \n\nTOPPINGS.\n If you invest in staple toppings for your pantry, you can pull them out of the cupboards whenever you are in need of a  super quick breakfast. We suggest: different varieties of peanut or nut or sunflower seed butters, unsalted butter, Dutch chocolate sprinkles, a variety of fruit spreads, tapenades, marinated  veggies, honey, and of course chocolate hazelnut spread.  Other toppings which must generally be eaten with a week  include: good cheeses, deli meats, spinach dip, egg salad, cream cheeses, Festive Feta*, and Must-hum Hummus**.  \n\nMust-hum Hummus** Before Hummus could be bought in 12 flavors in every grocer, we made  hummus ourselves, didn’t we? Blend together in a food processor: cream cheeses.\n\nFestive Feta* Crumble some feta into a microwavable bowl. Bonus points  if it’s a pretty bowl. Drizzle lightly with olive oil. Sprinkle  with dried basil and oregano. Optional: stir in a modest  amount of chopped red or green onion. Microwave 45-90  seconds or until melty. (No matter what the computer says,  1 can drained chick peas 1 tablespoon tahini paste 1 teaspoon garlic chopped 2 tablespoons olive oil 1 tablespoon lemon juice Optional stir ins ½ teaspoon basil, dill, or oregano Hot sauce, to taste Ground black pepper ½ tsp Tahi red pepper garlic past ¼ spoons of chick pea liquid “melty” is a word.) Stir and serve. Spread this topping over  a good piece of toasted bread. If you’re stealing this recipe  for an appetizer, use baguette slices and top with a bit of  olive.",
+        "intro": "One of our favorite family breakfasts is dubbed “German breakfast.” This very quick meal consists simply of good bread with stuff on it. Put out the bread. Set out the toppings. Basta! No cooking needed. How easy is that? That is why this dive into continental cuisine counts as “the ultimate cheater breakfast.” The trick to turning this basic fare into one of my family’s favorite meals is GOOD bread and YUMMY toppings.",
+        description: "BREAD. Use any and all kinds of good bread options. It’s okay to buy bread at stores but invest in good bread. Go international with really good naan, German health bread (the dark brown compact bricks filled with seeds and all sorts of stuff the Germans call “Ballaststoff” and we call fiber), a great sour-dough, croissants, or whatever else your family craves. But do NOT serve only Wonderbread. If you do, one of my children (who have spent just enough time in Germany to become bread snobs) may magically appear and poof your poor choice of bread into oblivion by smushing the entire loaf into the size of a golf ball. IF you serve only Wonderbread, the possible failure of your family to appreciate “German breakfast” will not be on my conscience.\
+ \n\nTOPPINGS.\n If you invest in staple toppings for your pantry, you can pull them out of the cupboards whenever you are in need of a super quick breakfast. We suggest: different varieties of peanut or nut or sunflower seed butters, unsalted butter, Dutch chocolate sprinkles, a variety of fruit spreads, tapenades, marinated veggies, honey, and of course chocolate hazelnut spread. Other toppings which must generally be eaten with a week include: good cheeses, deli meats, spinach dip, egg salad, cream cheeses, Festive Feta*, and Must-hum Hummus**. \n\nMust-hum Hummus** Before Hummus could be bought in 12 flavors in every grocer, we made hummus ourselves, didn’t we? Blend together in a food processor: cream cheeses.\n\nFestive Feta* Crumble some feta into a microwavable bowl. Bonus points if it’s a pretty bowl. Drizzle lightly with olive oil. Sprinkle with dried basil and oregano. Optional: stir in a modest amount of chopped red or green onion. Microwave 45-90 seconds or until melty. (No matter what the computer says, 1 can drained chick peas 1 T tahini paste 1 t garlic chopped 2 T olive oil 1 T lemon juice Optional stir ins ½ t basil, dill, or oregano Hot sauce, to taste Ground black pepper ½ tsp Tahi red pepper garlic past ¼ spoons of chick pea liquid “melty” is a word.) Stir and serve. Spread this topping over a good piece of toasted bread. If you’re stealing this recipe for an appetizer, use baguette slices and top with a bit of olive.",
         outro: "'How can a nation be called great if its bread tastes like Kleenex?' Julie Child",
       },
     ],
@@ -3869,7 +3869,7 @@ export const RecipeData: Recipe[] = [
         "intro": "“Simplicity is the ultimate sophistication.” – Leonardo di Vinci",
         "steps": [
           {
-            "instruction": "Cook bacon in your nice soup pot. Remove bacon to drain on paper towel. Reserve 3 tablespoons of grease in the soup pot OR dip into your jar of bacon boost.",
+            "instruction": "Cook bacon in your nice soup pot. Remove bacon to drain on paper towel. Reserve 3 T of grease in the soup pot OR dip into your jar of bacon boost.",
             ingredients: ["4 slices bacon or 3 T from your jar of bacon boost or vegetable oil (vegetarian)"]
           },
           {
@@ -4006,7 +4006,7 @@ export const RecipeData: Recipe[] = [
           {
             "instruction": "Melt butter in a large pot over medium heat. Stir in chopped leeks and onions and sauté about 5 minutes.",
             ingredients: [
-              "2 tablespoons butter",
+              "2 T butter",
               "2 large leeks (white and pale green parts only, save the dark greens for one of the Asian soups)",
               "1 large onion, peeled and chopped",
             ]
@@ -4028,7 +4028,7 @@ export const RecipeData: Recipe[] = [
             ingredients: [
               "1/4 cup dry white wine (optional)",
               "1/2 cup light cream or milk",
-              "1/4 teaspoon ground nutmeg",
+              "1/4 t ground nutmeg",
               "salt and pepper to taste",
             ]
           },
@@ -4071,14 +4071,14 @@ export const RecipeData: Recipe[] = [
               "1 10-ounce package frozen whole kernel corn",
               "2 cups chicken or veggie broth",
               "1 stalk celery, chopped (1/2 cup)",
-              "1/2 teaspoon salt",
-              "1/4 teaspoon ground pepper",
+              "1/2 t salt",
+              "1/4 t ground pepper",
             ]
           },
           {
             "instruction": "Combine flour and the remaining cool 1⁄2 cup broth. Add to vegetable mixture. Cook and stir until thickened and bubbly. Reduce heat to low.",
             ingredients: [
-              "2 tablespoons flour",
+              "2 T flour",
             ]
           },
           {
@@ -4089,7 +4089,7 @@ export const RecipeData: Recipe[] = [
           },
           {
             instruction: "Top each serving with some of the bacon. Garnish with paprika or snipped parsley, if desired.",
-            ingredients:[
+            ingredients: [
               "paprika (optional)",
               "snipped parsley (optional)",
             ]
@@ -4109,7 +4109,7 @@ export const RecipeData: Recipe[] = [
         "intro": "The word “chowder” comes from a corruption of the French word chaudière (cauldron).",
         "steps": [
           {
-            "instruction": "Cook bacon in a large stockpot until crispy, about 6-8 minutes. Transfer to a paper-towel-lined plate, reserving at least 1-2 tablespoons of the bacon fat in the pot.",
+            "instruction": "Cook bacon in a large stockpot until crispy, about 6-8 minutes. Transfer to a paper-towel-lined plate, reserving at least 1-2 T of the bacon fat in the pot.",
             ingredients: [
               "4 slices bacon, diced",
             ]
@@ -4117,16 +4117,16 @@ export const RecipeData: Recipe[] = [
           {
             "instruction": "Melt butter in the stockpot. Add garlic and onion, sautéing until onions are translucent, about 2-3 minutes. Stir in thyme, about 1 minute.",
             ingredients: [
-              "1-2 tablespoons unsalted butter",
+              "1-2 T unsalted butter",
               "2 cloves garlic, minced",
               "1 onion, diced",
-              "1/2 teaspoon dried thyme",
+              "1/2 t dried thyme",
             ]
           },
           {
             "instruction": "Whisk in flour until very lightly browned, about 1 minute. Gradually whisk in 1 cup milk, stock, clam juice, and bay leaf. Cook, whisking constantly until slightly thickened, about 1-2 minutes. Stir in potatoes.",
             ingredients: [
-              "3 tablespoons flour",
+              "3 T flour",
               "1 cup milk",
               "1 cup veggie stock",
               "2 (6.5 ounce) cans chopped clams, with reserved juices",
@@ -4146,7 +4146,7 @@ export const RecipeData: Recipe[] = [
           },
           {
             instruction: "Serve, garnished with bacon and parsley.",
-            ingredients:[
+            ingredients: [
               "parsley",
             ]
           }
@@ -4172,8 +4172,8 @@ export const RecipeData: Recipe[] = [
           {
             "instruction": "Season chicken with basil and pepper. Brown chicken in hot bacon drippings, stirring to brown all sides.*",
             ingredients: [
-              "1/2 teaspoon dried basil",
-              "1/8 teaspoon ground pepper",
+              "1/2 t dried basil",
+              "1/8 t ground pepper",
               "3-4 chicken breasts (3 lbs chicken), cut into small, thin pieces",
             ]
           },
@@ -4212,7 +4212,7 @@ export const RecipeData: Recipe[] = [
           {
             "instruction": "Sauté mushrooms in olive oil. Go ahead and just do this in your stockpot.",
             ingredients: [
-              "1 tablespoon olive oil",
+              "1 T olive oil",
               "1 cup white mushrooms, sliced",
             ]
           },
@@ -4239,9 +4239,9 @@ export const RecipeData: Recipe[] = [
           {
             instruction: "Remove the bay leaf from the soup and add the parsley, salt, and pepper. Serve your soup by putting 1⁄4 cup of hot cooked jasmine rice in each bowl then ladling a serving of soup over top.",
             ingredients: [
-              "1 teaspoon salt, or to taste",
+              "1 t salt, or to taste",
               "ground pepper to taste",
-              "fresh or dried thyme and 1/8 teaspoon ground turmeric (optional)",
+              "fresh or dried thyme and 1/8 t ground turmeric (optional)",
               "cook up some jasmine rice in a separate pot (optional)",
             ]
           }
@@ -4266,8 +4266,8 @@ export const RecipeData: Recipe[] = [
               "1 cup chopped carrots",
               "1 cup chopped celery",
               "1⁄4 cup chopped fresh parsley",
-              "1⁄2 teaspoon dried thyme",
-              "1⁄2 teaspoon ground pepper",
+              "1⁄2 t dried thyme",
+              "1⁄2 t ground pepper",
               "1 bay leaf",
             ]
           },
@@ -4275,7 +4275,7 @@ export const RecipeData: Recipe[] = [
             "instruction": "Stir in chopped chicken and boil until meat is cooked 10-15 minutes. Remove bay leaf. Stir in lime juice and rice. Heat a couple minutes until rice is hot and the grains separate. Serve with lime sliver as garnish.",
             ingredients: [
               "1-2 chicken breasts, chopped into thin slices",
-              "2 tablespoons lime juice",
+              "2 T lime juice",
               "2 cups cooked rice*",
               "lime slivers for garnish",
             ]
@@ -4298,7 +4298,7 @@ export const RecipeData: Recipe[] = [
             "instruction": "Brown onion in oil.",
             ingredients: [
               "1 medium onion, chopped",
-              "1 tablespoon oil",
+              "1 T oil",
             ]
           },
           {
@@ -4309,12 +4309,12 @@ export const RecipeData: Recipe[] = [
               "2 carrots, peeled and chopped",
               "1⁄2 cup finely chopped or shredded chicken",
               "1 1⁄2 cup egg noodles or broken up fettuccini",
-              "1 1⁄2 teaspoon curry powder",
-              "1⁄2 teaspoon garam masala",
-              "1⁄2 teaspoon salt",
-              "1⁄4 teaspoon pepper",
-              "dash of cinnamon", 
-              "dash of chili powder", 
+              "1 1⁄2 t curry powder",
+              "1⁄2 t garam masala",
+              "1⁄2 t salt",
+              "1⁄4 t pepper",
+              "dash of cinnamon",
+              "dash of chili powder",
               "dash cayenne pepper",
             ]
           },
@@ -4322,15 +4322,15 @@ export const RecipeData: Recipe[] = [
             instruction: "In a small cup, whisk together the water and cornstarch. Add a ladle of warm soup broth to the flour mixture and whisk together. Then stir the flour mixture into your soup. Stir until thickened and bubbly.",
             ingredients: [
               "1 cup water",
-              "1 tablespoon cornstarch",
+              "1 T cornstarch",
             ]
           }
         ],
         description: "Vegetarian option: Whip up this soup using vegetable stock and without the chicken. This becomes a pretty basic noodle soup but with a fun Indian curry flavor twist.",
         "outro": "Back in grad school, we were on such a tight budget that we almost never went to a restaurant.\
-        Once though as a special treat we tried out an Indian restaurant, a bit of a hole-in-the-wall-type\
-        place but it served up a tasty curry noodle soup. After several attempts, I managed to re-create that\
-        soup at home. Bonus: this recipe while bursting with flavors qualifies as a low-budget soup.",
+ Once though as a special treat we tried out an Indian restaurant, a bit of a hole-in-the-wall-type\
+ place but it served up a tasty curry noodle soup. After several attempts, I managed to re-create that\
+ soup at home. Bonus: this recipe while bursting with flavors qualifies as a low-budget soup.",
       }
     ]
   },
@@ -4343,16 +4343,16 @@ export const RecipeData: Recipe[] = [
         "intro": "You do not need to order Chinese take-out to satisfy your craving. Plus, this recipe has no MSG, is low-fat, super inexpensive, and impresses friends.",
         "steps": [
           {
-            "instruction": "In your large soup pot, sauté your chosen oniony option in 2 tablespoons of oil. If you have \
-              chosen to include chicken or tofu, then add chicken and sauté until cooked OR add your tofu \
-              and sauté until slightly browned. You can leave the chicken in the pot to continue, but if you \
-              chose to sauté tofu, remove the tofu and add it back near the end of your cooking time. (You \
-              can also just add the tofu without sautéing but you want to leave enough time for it to heat up \
-              without cooking it so long that if falls apart in your soup.",
+            "instruction": "In your large soup pot, sauté your chosen oniony option in 2 T of oil. If you have \
+ chosen to include chicken or tofu, then add chicken and sauté until cooked OR add your tofu \
+ and sauté until slightly browned. You can leave the chicken in the pot to continue, but if you \
+ chose to sauté tofu, remove the tofu and add it back near the end of your cooking time. (You \
+ can also just add the tofu without sautéing but you want to leave enough time for it to heat up \
+ without cooking it so long that if falls apart in your soup.",
             ingredients: [
-              "2 teaspoon vegetable oil",
+              "2 t vegetable oil",
               "1 onion, chopped OR 4 spring onions OR 1 leek washed and chopped",
-              "1 skinless chicken breast cut into very thin strips (optional)",     
+              "1 skinless chicken breast cut into very thin strips (optional)",
               "8 oz extra firm tofu, sautéed in a bit of vegetable oil (optional)"
             ]
           },
@@ -4361,8 +4361,8 @@ export const RecipeData: Recipe[] = [
             ingredients: [
               "4 cups chicken or beef stock",
               "1⁄2 cup chopped mushrooms (optional)",
-              "1⁄2 teaspoon ground black pepper",
-              "1⁄2 teaspoon of red chili pepper flakes",
+              "1⁄2 t ground black pepper",
+              "1⁄2 t of red chili pepper flakes",
               "1⁄2 cup chopped napa cabbage (optional)",
               "1⁄2 cup chopped bok choy (a mix of stems and leaves)",
               "1⁄2 cup chopped canned mini-corns (optional)",
@@ -4372,9 +4372,9 @@ export const RecipeData: Recipe[] = [
             instruction: "In a small bowl, whisk together the 1⁄4 cup water, cornstarch, soy sauce, rice wine vinegar. Add to your simmering soup and stir until slightly thickened and bubbly.",
             ingredients: [
               "1⁄4 cup water",
-              "2-3 tablespoons corn starch",
-              "2 tablespoons soy sauce",
-              "3 tablespoons rice wine vinegar",
+              "2-3 T corn starch",
+              "2 T soy sauce",
+              "3 T rice wine vinegar",
             ]
           },
           {
@@ -4406,8 +4406,8 @@ export const RecipeData: Recipe[] = [
         "steps": [
           {
             "instruction": "Put the water and the kombu seaweed in a pot and set over medium-low heat. Remove the \
-              kombu from the water when you see small bubbles coming from the kombu. If you are \
-              preparing this broth for vegetarians, then you are done. Otherwise continue.",
+ kombu from the water when you see small bubbles coming from the kombu. If you are \
+ preparing this broth for vegetarians, then you are done. Otherwise continue.",
             ingredients: [
               "2 oz Kombu seaweed",
               "4.5 cups water",
@@ -4430,7 +4430,7 @@ export const RecipeData: Recipe[] = [
           {
             instruction: "Combine your Dashi broth and your chosen optional ingredients in a soup pot. Warm to a gentle simmer and cook for about 10 minutes or until your veggies are the softness that you prefer.",
             ingredients: [
-              "1-2 tablespoons miso",
+              "1-2 T miso",
               "1⁄2 cup chopped Naganegi (Japanese leek) OR chopped green onions (optional)",
               "1⁄2 cup chopped napa cabbage OR 1⁄2 cup chopped bok choy stems and leaves",
               "1⁄2 slice deep fried tofu (Abura-age), add in the last 5 minutes of cooking",
@@ -4446,7 +4446,7 @@ export const RecipeData: Recipe[] = [
         ],
       },
       {
-        description: "You can also make a similar soup very quickly and with little to no planning ahead. Use 2 cups of water and 2-3 tablespoons miso. Sprinkle in a little onion powder. Include any or none of the optionals and/or the egg-drop.",
+        description: "You can also make a similar soup very quickly and with little to no planning ahead. Use 2 cups of water and 2-3 T miso. Sprinkle in a little onion powder. Include any or none of the optionals and/or the egg-drop.",
         outro: "I served this for breakfast to our exchange student Jabez one morning (because I read somewhere that this is sometimes done in Asian cultures). He sighed deeply and said that it reminded him of soup his mom would make. Win!"
       }
     ]
@@ -4466,8 +4466,8 @@ export const RecipeData: Recipe[] = [
               "2 stalks celery (optional)",
               "1 carrot, peeled and diced",
               "1⁄4 cup butter",
-              "2 tablespoons flour",
-              "2-4 teaspoons curry powder",
+              "2 T flour",
+              "2-4 t curry powder",
               "1 apple, cored, peeled and chopped",
               "1-2 skinless boneless chicken breasts, cut into small bits",
               "6 cups chicken broth",
@@ -4485,17 +4485,17 @@ export const RecipeData: Recipe[] = [
         ],
         description: "You can, of course, make this vegetarian by omitting the chicken and using vegetable broth instead of chicken broth. Bonus: the rest of the ingredients are pretty standard pantry staples, so you could make this on a day when you’re standing in the kitchen, wondering what in the world to whip up for dinner.",
         outro: "The Story of Mulligatawny. According to more than one source, British soldiers during the British\
-          occupation of Sri Lanka (then Ceylon) wanted soup at the start of their meals. While this may have\
-          been a British tradition, it was not a common practice in that part of the world. The creative Tamil\
-          servants watered down a peppery stew and served that. The British wanted to add meat and other\
-          ingredients more familiar to them. Long story short: lots of different variations got created by\
-          creative cooks in that part of the world and then back in Britain. In a myriad of east-meets-west\
-          combinations, mulligatawny, according to the internet, has become a common British pub menu\
-          staple. A fairly simple stew, mulligatawny very often includes chicken, rice, and apple along with\
-          bespoke combinations of spices that we might recognize as variations of Indian curries. You could\
-          call this “curry soup” but “mulligatawny” is so much more fun. BTW In Germany this soup is\
-          named in the English-language sketch “Dinner for One” which many Germans watch ritually every\
-          year around New Year’s."
+ occupation of Sri Lanka (then Ceylon) wanted soup at the start of their meals. While this may have\
+ been a British tradition, it was not a common practice in that part of the world. The creative Tamil\
+ servants watered down a peppery stew and served that. The British wanted to add meat and other\
+ ingredients more familiar to them. Long story short: lots of different variations got created by\
+ creative cooks in that part of the world and then back in Britain. In a myriad of east-meets-west\
+ combinations, mulligatawny, according to the internet, has become a common British pub menu\
+ staple. A fairly simple stew, mulligatawny very often includes chicken, rice, and apple along with\
+ bespoke combinations of spices that we might recognize as variations of Indian curries. You could\
+ call this “curry soup” but “mulligatawny” is so much more fun. BTW In Germany this soup is\
+ named in the English-language sketch “Dinner for One” which many Germans watch ritually every\
+ year around New Year’s."
       },
     ]
   },
@@ -4517,7 +4517,7 @@ export const RecipeData: Recipe[] = [
               "2 T flour",
               "2 T lime juice",
               "1-2 T Thai curry paste (red or green, your choice)",
-              "2 teaspoons grated lime zest",
+              "2 t grated lime zest",
               "2 stalks lemongrass, cut into 1-inch lengths",
               "sprinkle dried red chili flakes or use some hot sauce to spice it up",
             ]
@@ -4591,7 +4591,7 @@ export const RecipeData: Recipe[] = [
             ingredients: [
               "2 chicken breasts, chopped",
               "1 large onion, chopped",
-              "2 tablespoons olive oil",
+              "2 T olive oil",
             ]
           },
           {
@@ -4601,8 +4601,8 @@ export const RecipeData: Recipe[] = [
               "1 ~15-oz can white cannellini beans, drained",
               "1 small can (mild) green chilis",
               "2 cloves minced garlic",
-              "1-2 teaspoons dried oregano",
-              "1⁄2-1 teaspoon ground cumin",
+              "1-2 t dried oregano",
+              "1⁄2-1 t ground cumin",
               "pinch cayenne",
               "1/2 t chili powder",
               "salt and pepper to taste",
@@ -4634,7 +4634,7 @@ export const RecipeData: Recipe[] = [
           {
             "instruction": "Brown onion in oil. Optional: add chopped peppers of your choice (any color or type to suit your flavor cravings and to up the spice-heat, if you wish).",
             ingredients: [
-              "1 tablespoon oil",
+              "1 T oil",
               "1 large onion, chopped",
               "your favorite peppers, chopped (optional)",
             ]
@@ -4649,23 +4649,23 @@ export const RecipeData: Recipe[] = [
               "1 ~15 oz can corn, drained (optional)",
               "1 ~28 oz can chopped tomatoes",
               "1⁄2 cup salsa",
-              "2-4 teaspoons chili powder",
-              "1 teaspoon cumin",
-              "1 teaspoon oregano",
+              "2-4 t chili powder",
+              "1 t cumin",
+              "1 t oregano",
             ]
           },
         ],
         description: "Crock pot option: \nYou can put all the ingredients in a crockpot in the morning, including the\
-          chopped onion (without browning it separately). Then put your crock on low for 6-8 hours.\
-          Imagine the yummy smells when you come home at the end of your day away, thanks to some\
-          pretty easy morning cooking. All you have to do in the evening is decide which toppings you\
-          want.\
-          \n\nToppings:\
-          \nYou know how to do this! Add any or all of the following to satisfy your cravings: shredded\
-          cheddar or jack cheese, sour cream, salsa, nacho chips, tabasco, chopped avocado, chopped\
-          green onions, even shredded lettuce can add a fresh-veggie twist and push your chili into a taco\
-          salad direction, especially if you scoop your loaded chili with nacho chips.\
-          \n\nFusion Option:\n You can serve chili on rice. Truly. It’s good.",
+ chopped onion (without browning it separately). Then put your crock on low for 6-8 hours.\
+ Imagine the yummy smells when you come home at the end of your day away, thanks to some\
+ pretty easy morning cooking. All you have to do in the evening is decide which toppings you\
+ want.\
+ \n\nToppings:\
+ \nYou know how to do this! Add any or all of the following to satisfy your cravings: shredded\
+ cheddar or jack cheese, sour cream, salsa, nacho chips, tabasco, chopped avocado, chopped\
+ green onions, even shredded lettuce can add a fresh-veggie twist and push your chili into a taco\
+ salad direction, especially if you scoop your loaded chili with nacho chips.\
+ \n\nFusion Option:\n You can serve chili on rice. Truly. It’s good.",
         outro: "In my memory this was inspired originally by a vegetarian chili served up at a very cool bookstore café in Madison Wisconsin called “Canterbury Tales.” In my ideal post-COVID world, there would be a bookstore-café that served up soups with good bread and tea options with scones, and also had a great selection of yarns to pet and inspire relaxing knitting."
       },
     ]
@@ -4683,16 +4683,16 @@ export const RecipeData: Recipe[] = [
             ingredients: [
               "1 lb ground beef (or lamb or turkey or beyond burger)",
               "1 large onion",
-              "1 tablespoon oil, if needed",
+              "1 T oil, if needed",
               "<1 cup chopped peppers of your choice OR canned chilis OR some chopped jalapenos. (optional)",
-              "1-2 tablespoons chili powder",
+              "1-2 T chili powder",
               "2 cloves minced garlic",
-              "1 teaspoon cumin",
-              "1 teaspoon oregano",
-              "1 teaspoon basil",
-              "1 teaspoon sugar",
-              "1⁄2 teaspoon salt",
-              "1⁄2 teaspoon ground black pepper",
+              "1 t cumin",
+              "1 t oregano",
+              "1 t basil",
+              "1 t sugar",
+              "1⁄2 t salt",
+              "1⁄2 t ground black pepper",
             ]
           },
           {
@@ -4721,13 +4721,13 @@ export const RecipeData: Recipe[] = [
             ingredients: [
               "1 T ground cumin",
               "1 T chili powder",
-              "1⁄2 teaspoon cinnamon",
+              "1⁄2 t cinnamon",
               "2 t dried oregano",
               "2 t kosher salt",
               "1 t regular salt",
               "dash black pepper",
               "plus a couple good shakes of ground ginger",
-              "ground cloves", 
+              "ground cloves",
               "ground cinnamon",
             ]
           },
@@ -4744,7 +4744,7 @@ export const RecipeData: Recipe[] = [
               "1 cup finely chopped sweet onion",
               "1 red bell pepper, seeded and chopped (optional)",
               "2 stalks celery, chopped (optional)",
-              "1-2 tablespoons hot sauce or 1-2 tablespoons ketchup",
+              "1-2 T hot sauce or 1-2 T ketchup",
               "3 garlic cloves, grated or finely minced",
               "3 T tomato paste",
             ]
@@ -4782,17 +4782,17 @@ export const RecipeData: Recipe[] = [
               "1 cup chopped onion",
               "1 stalk celery",
               "3 cups chicken broth",
-              "1 teaspoon ground ginger",
-              "1 teaspoon curry powder (optional)",
+              "1 t ground ginger",
+              "1 t curry powder (optional)",
             ]
           },
           {
             "instruction": "Blender the soup in batches or use your stick blender until smooth. Return soup to the saucepan. Add curry powder, salt, and pepper to taste. Cook over low heat until heated through, about 10 minutes.",
             ingredients: [
-              "1 teaspoon ground ginger",
-              "1 teaspoon curry powder (optional)",
-              "1/2 teaspoon salt",
-              "1/8 teaspoon ground black pepper",
+              "1 t ground ginger",
+              "1 t curry powder (optional)",
+              "1/2 t salt",
+              "1/8 t ground black pepper",
             ]
           },
         ],
@@ -4817,8 +4817,8 @@ export const RecipeData: Recipe[] = [
               "1 cup finely diced carrots",
               "4 cups veggie broth (or chicken)",
               "1 cup finely diced onions",
-              "1 teaspoon dried oregano",
-              "1 tablespoon dried basil",
+              "1 t dried oregano",
+              "1 T dried basil",
               "1 bay leaf",
             ]
           },
@@ -4826,7 +4826,7 @@ export const RecipeData: Recipe[] = [
             "instruction": "About 45 minutes before serving, prepare a roux. Melt butter and oil over low heat in a saucepan. Whisk in flour. Stir constantly with whisk for 5 minutes. Slowly stir in 1 cup hot soup. Add another 3 cups and stir until smooth. Stir all the roux-soup mixture back into your slow cooker. Stir in the parmesan cheese, warmed milk, salt and pepper and herbs to taste.",
             ingredients: [
               "1⁄4 cup butter",
-              "2 tablespoons olive oil",
+              "2 T olive oil",
               "1⁄2 cup flour",
               "2 cups warmed milk or half-and-half",
               "salt, pepper, additional fresh or dried oregano or basil to taste",
@@ -4845,14 +4845,14 @@ export const RecipeData: Recipe[] = [
     "segments": [
       {
         "intro": "Adapted from the New Orleans School of Cooking. \
-          Once long ago I tagged along with Randy to a conference in New Orleans. I got to explore the \
-          French Quarter, listen to jazz, visit a yarn shop, and take a Cajun cooking class. Why didn’t I do \
-          more of this in life? Anyway, I adapted the yummy gumbo recipe from that cooking class to suit \
-          my family, and they all loved it. Jason wonders why I didn’t make this more often. Answer: mostly \
-          because it takes time and patience to make the caramel-colored roux and I so seldom had that 15 \
-          minutes to just stand at the stove stirring single-mindedly; there were always several other things \
-          that I tried to do whilst making dinner. But if you do have the time, this really is delicious and \
-          except for the roux, it isn’t difficult.",
+ Once long ago I tagged along with Randy to a conference in New Orleans. I got to explore the \
+ French Quarter, listen to jazz, visit a yarn shop, and take a Cajun cooking class. Why didn’t I do \
+ more of this in life? Anyway, I adapted the yummy gumbo recipe from that cooking class to suit \
+ my family, and they all loved it. Jason wonders why I didn’t make this more often. Answer: mostly \
+ because it takes time and patience to make the caramel-colored roux and I so seldom had that 15 \
+ minutes to just stand at the stove stirring single-mindedly; there were always several other things \
+ that I tried to do whilst making dinner. But if you do have the time, this really is delicious and \
+ except for the roux, it isn’t difficult.",
         "steps": [
           {
             "instruction": "Season and sauté the chicken in a small amount of oil or melted bacon fat in a large pot or fry pan. Add the sausage slices and sauté with the chicken.",
@@ -4875,7 +4875,7 @@ export const RecipeData: Recipe[] = [
               "2 cups chopped onion",
               "1 cup chopped celery",
               "1 cup chopped carrot",
-              "1 tablespoon chopped garlic",
+              "1 T chopped garlic",
               "4 cups stock",
               "1 T of Joe’s Stuff Cajun Seasoning OR make your own Cajun seasoning mix**",
             ]
@@ -4888,22 +4888,22 @@ export const RecipeData: Recipe[] = [
             ]
           }
         ],
-        description: "Serve your gumbo over rice. *The original recipe had green peppers, but with the pepper-adverse Randy at the table, we substitute celery.\n\n**Cajun Seasoning. This recipe based on thekitchencommunity.org creates a little bottle of Cajun seasoning. Adjust the amounts as you see fit. And although you should use whatever amount of Cajun seasoning in this soup that seems right to you, I recommend staring with 1-2 tablespoons and adjusting up as needed. Obviously, this will involve lots of sampling along the way Aw, shucks.",
+        description: "Serve your gumbo over rice. *The original recipe had green peppers, but with the pepper-adverse Randy at the table, we substitute celery.\n\n**Cajun Seasoning. This recipe based on thekitchencommunity.org creates a little bottle of Cajun seasoning. Adjust the amounts as you see fit. And although you should use whatever amount of Cajun seasoning in this soup that seems right to you, I recommend staring with 1-2 T and adjusting up as needed. Obviously, this will involve lots of sampling along the way Aw, shucks.",
       },
       {
         steps: [
           {
             instruction: "Mix together, stores well",
             ingredients: [
-              "4 tablespoons paprika or smoked paprika",
-              "1 tablespoon onion powder",
-              "2 teaspoons dried basil",
-              "1-2 teaspoons cayenne pepper (or more if you like it hot)",
-              "2 teaspoons garlic powder or granules",
-              "2 teaspoons dried oregano",
-              "2 teaspoons dried thyme",
-              "1-3 teaspoons salt (or omit and salt separately to taste)",
-              "1 teaspoon ground black pepper",
+              "4 T paprika or smoked paprika",
+              "1 T onion powder",
+              "2 t dried basil",
+              "1-2 t cayenne pepper (or more if you like it hot)",
+              "2 t garlic powder or granules",
+              "2 t dried oregano",
+              "2 t dried thyme",
+              "1-3 t salt (or omit and salt separately to taste)",
+              "1 t ground black pepper",
             ]
           }
         ],
@@ -4933,21 +4933,21 @@ export const RecipeData: Recipe[] = [
               "16-28 ounces canned crushed tomatoes, if you want a tomato flavor. Otherwise omit.",
               "1⁄2 cup pearled barley, if you like that in your veggie soups",
               "4-6 cups beef broth, add enough liquid so that your solid ingredients are covered with broth",
-              "1 teaspoon chopped garlic",
-              "1 teaspoon dried basil",
-              "1 teaspoon dried oregano",
+              "1 t chopped garlic",
+              "1 t dried basil",
+              "1 t dried oregano",
               "1 bay leaf",
-              "1 teaspoon beef bouillon",
+              "1 t beef bouillon",
               "ground black pepper to taste",
             ]
           },
         ],
         description: "Each of the ingredients is optional but, of course, you have to choose some ingredients or all you will have is hot water. BTW All amounts are adjustable. Be creative. \n\n* Tip 1: If you want to have leftover beef, set it aside before bringing the meat platter to the dining table. Otherwise, you run the risk of certain somebodies slowly helping themselves to more and more little nibbles from the meat platter and before you know it, you haven’t got enough beef for your soup plans. If this happens, then you can just make Vegetable Soup including a 28 oz can of crushed tomatoes.\
-          \n\nTip 2: Stir in any leftover gravy from the beef dinner. Obviously at our house “leftover gravy” is a \
-          curious and rare occurrence. One could even call “leftover gravy” an oxymoron. But if this is \
-          something you’ve got in the fridge, go for it. Or you can even make extra gravy with your original \
-          beef dinner, but you might have to put some aside – never even bringing the surplus gravy to the \
-          table and denying the existence of additional gravy in the kitchen. See Tip #1.",
+ \n\nTip 2: Stir in any leftover gravy from the beef dinner. Obviously at our house “leftover gravy” is a \
+ curious and rare occurrence. One could even call “leftover gravy” an oxymoron. But if this is \
+ something you’ve got in the fridge, go for it. Or you can even make extra gravy with your original \
+ beef dinner, but you might have to put some aside – never even bringing the surplus gravy to the \
+ table and denying the existence of additional gravy in the kitchen. See Tip #1.",
       },
     ]
   },
@@ -4962,7 +4962,7 @@ export const RecipeData: Recipe[] = [
           {
             "instruction": "You can sauté your chopped onions first in a little olive oil. But you can also just put everything into a stock pot, bring to a boil, and simmer until your veggies are tender.",
             ingredients: [
-              "1 tablespoon oil",
+              "1 T oil",
               "1⁄2 cup chopped onion",
               "1 cup chopped celery",
               "1 cup chopped carrot",
@@ -4974,10 +4974,10 @@ export const RecipeData: Recipe[] = [
             ]
           },
         ],
-        description: "Seasonings. Start 1/2 teaspoon of each and add more of whichever to taste: \
-          oregano, onion powder, celery salt, ground black pepper, garlic granules or chopped garlic. \
-          Secret ingredient. Shhh. Don’t tell anyone outside the family. Putting in two dashes of soy sauce \
-          adds a great umami flavor.",
+        description: "Seasonings. Start 1/2 t of each and add more of whichever to taste: \
+ oregano, onion powder, celery salt, ground black pepper, garlic granules or chopped garlic. \
+ Secret ingredient. Shhh. Don’t tell anyone outside the family. Putting in two dashes of soy sauce \
+ adds a great umami flavor.",
         outro: "I think that you can add a can of legumes (like black beans or chick peas), or some cooked pasta (like some orzos, small shells, or macaroni) and suddenly this tomato-based vegetable soup becomes a “minestrone.” I’m not sure this is completely accurate but I bet you can make one of these additions, add some basil and extra oregano, call it “minestrone,” and almost convince folks that this is a completely unique recipe. If you opt to add in or serve over some rice, then you are just embracing the concept of “Pruim Family comfort food.”"
       },
     ]
@@ -5002,9 +5002,9 @@ export const RecipeData: Recipe[] = [
             instruction: "Add onion powder, basil, oregano, and tortellini and cook according to package directions, stirring occasionally.",
             ingredients: [
               "8 ounces dried store-bought tortellini*",
-              "1⁄2 teaspoon onion powder",
-              "1⁄2 teaspoon dried basil",
-              "1⁄2 teaspoon dried oregano",
+              "1⁄2 t onion powder",
+              "1⁄2 t dried basil",
+              "1⁄2 t dried oregano",
               "parmesan cheese (optional)"
             ]
           },
@@ -5014,14 +5014,14 @@ export const RecipeData: Recipe[] = [
         ],
         description: "*You could opt for “fresh” store-bought tortellini or another type of pasta.",
         outro: "For a certain very busy phase of our family life, this was a go-to soup on those hectic days when \
-          we were trying to create a family dinner time between cross-country practice, music lessons, chess \
-          club, and Soul Delight rehearsals. And just for the record we almost always made time to eat \
-          dinner together. There was that one week when I looked at the crazy calendar and declared: \
-          “Alright, everyone, we are going to have a nice family meal on Saturday at 3 pm. Be there!” \
-          Anyway, throughout those very busy years, everyone ate this soup without complaining and \
-          Andrew even ate the carrots. I seem to remember though that sometimes the celery bits got left in \
-          the bottom of certain bowls, but there are worse things. At least the kids got the yummy celery \
-          flavor in the broth."
+ we were trying to create a family dinner time between cross-country practice, music lessons, chess \
+ club, and Soul Delight rehearsals. And just for the record we almost always made time to eat \
+ dinner together. There was that one week when I looked at the crazy calendar and declared: \
+ “Alright, everyone, we are going to have a nice family meal on Saturday at 3 pm. Be there!” \
+ Anyway, throughout those very busy years, everyone ate this soup without complaining and \
+ Andrew even ate the carrots. I seem to remember though that sometimes the celery bits got left in \
+ the bottom of certain bowls, but there are worse things. At least the kids got the yummy celery \
+ flavor in the broth."
       },
     ]
   },

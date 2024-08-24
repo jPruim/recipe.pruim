@@ -4767,12 +4767,11 @@ export const RecipeData: Recipe[] = [
     ]
   },
   {
-    "title": "Gwen’s Vegan/Beyond Burger, no-bean chili OR Vegan Stew",
+    "title": "Grandma Bev’s Carrot-Ginger Soup",
     "originalBookID": 3,
     "recipeNumber": 20,
     "segments": [
       {
-        "intro": "Grandma Bev’s Carrot-Ginger Soup",
         "steps": [
           {
             "instruction": "Heat butter in a large saucepan over medium heat. Add carrots, potato, onion, celery, chicken broth, and ginger. Cover and cook, stirring occasionally until vegetables are tender, about 30 minutes. Uncover and cool for 15 minutes.",

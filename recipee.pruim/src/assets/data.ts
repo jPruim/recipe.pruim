@@ -2299,13 +2299,13 @@ export const RecipeData: Recipe[] = [
     ],
   },
     {
-    "title": "Breakfast Bread Pudding",
+    "title": "Biscuits",
     "originalBookID": 2,
     "recipeNumber": 9,
     "preparationTime": "12 minutes prep; 12 minutes baking",
     "segments": [
       {
-        "intro": "hat do restaurants do to their biscuits? They are too dry or too salty or too oily or too chewy. Once again: homemade is best. And  do NOT let me find you trying to convince your children that those things that came out of a cardboard can in the fridge are really  'homemade.' NOT. ",
+        "intro": "What do restaurants do to their biscuits? They are too dry or too salty or too oily or too chewy. Once again: homemade is best. And  do NOT let me find you trying to convince your children that those things that came out of a cardboard can in the fridge are really  'homemade.' NOT. ",
         "steps": [
           {
             "instruction": "Makes 9 2-inch biscuites. Preheat oven to 450 F",
@@ -2594,7 +2594,7 @@ export const RecipeData: Recipe[] = [
     ],
   },
   {
-    "title": "Cinnamon Swirl Bissconies",
+    "title": "Savory Bissconies",
     "originalBookID": 2,
     "recipeNumber": 13,
     "preparationTime": "20 minutes prep; 12minutes baking",
@@ -3869,34 +3869,1161 @@ export const RecipeData: Recipe[] = [
         "intro": "“Simplicity is the ultimate sophistication.” – Leonardo di Vinci",
         "steps": [
           {
-            "instruction": "Preheat oven to 350."
+            "instruction": "Cook bacon in your nice soup pot. Remove bacon to drain on paper towel. Reserve 3 tablespoons of grease in the soup pot OR dip into your jar of bacon boost.",
+            ingredients: ["4 slices bacon or 3 T from your jar of bacon boost or vegetable oil (vegetarian)"]
           },
           {
-            "instruction": "Cream almond paste and eggs until smooth. Add margarine and sugar and beat well.",
+            "instruction": "Sauté the onions for a couple minutes in the fat.",
             "ingredients": [
-              "1 cup almond paste (8 oz.)",
-              "2 eggs",
-              "1 3/4 cup sugar",
-              "1 cup margarine, softened"
+              "1 large onion (peeled and chopped)",
             ]
           },
           {
-            "instruction": "Mix in remaining ingredients.",
+            "instruction": "Add potatoes, carrots, optional celery, salt, and pepper. Cover and cook on a fairly low simmer, stirring occasionally for 15-20 minutes. During this time, if the veggies keep sticking to the bottom of your pot, you can add some hot water or broth (about a cup). When your veggies are tender, then add 1 cup hot water and stir to unstick any bits from the bottom of the pot.",
             "ingredients": [
-              "1 cup sour",
-              "2 cups flour",
-              "1 t baking powder",
-              "1/4 t salt",
-              "1 t vanilla"
+              "3 medium potatoes, peeled and chopped into small chunks",
+              "1 medium carrot, peeled and chopped",
+              "1 stalk celery (optional)",
+              "1 t salt",
+              "1/4 t pepper",
+              "1 cup water and/or broth",
             ]
           },
           {
-            "instruction": "Pour into two 9-inch round pans. Bake 40-45 minutes. When cool drizzle with a powdered sugar glaze. (Try 1 cup powdered sugar and 1-2 T milk.) Optional: Top with slivered almonds. This freezes well if wrapped in plastic wrap and a freezer bag."
+            "instruction": "Warm your milk in the microwave. Add milk to your pot and bring to a simmer. In a separate bowl whisk together the sour cream or yogurt with the flour and paprika. Ladle up 1 cup of your hot mixture from your soup pot and whisk that into the separate flour + yogurt bowl. Then pour your thickener back into your soup pot and bring to a simmer again. Your soup will be creamy with small bits of potato and carrot.",
+            ingredients: [
+              "4 cups milk",
+              "1 cup sour cream or 1 cup plain Greek yogurt",
+              "2 T flour",
+              "dash paprika",
+            ]
           }
         ],
-        "description": "When Penny got sick, baked goods would sometimes show up. This one was so amazing, we had to ask for the recipe. It makes a very special gift. And since the recipe makes two 9-inch cakes, you get to give one away and still have one to enjoy yourself! Carefully remove your cake from the pan and onto a paper plate before glazing and gifting. You will make someone’s day with this special baked treat.\n2021: Spending decades in West Michigan, I never realized how challenging it can be to procure almond paste. If it shows up near you around Christmas, buy extra to stock up for baking this almond coffee cake and Mrs. Miller’s Almond bars (Recipe 26). The almond paste takes up room in your fridge, but it’s worth it.",
-        "outro": "Nothing says “I care” like something homemade that looks like it took a lot of time, even if it didn’t."
+        "description": "Serve with your reserved bacon bits, if you opted for those. Optional: Top with shredded cheese of your choice.",
+        "outro": "Jason almost always gravitates toward extra-sharp cheddar, which is a great choice to add to this soup. However, with its fairly bland potato-base, this soup is a good flavor backdrop for other cheese adventures. You could try parmesan, pepper jack, a smoked cheese, or even some sprinkles of something bleu."
       }
+    ]
+  },
+  {
+    "title": "Creamy Broccoli or Cauliflower Soup",
+    "originalBookID": 3,
+    "recipeNumber": 2,
+    "segments": [
+      {
+        "intro": "Broccoli is a multi-faceted, flexible, and delicious vegetable. Much maligned by George H.W. Bush and many others, broccoli should be esteemed, if not also steamed, for going from broccoli slaw, to al dente stir-frys, to flavoring this delicious soup with unpretentious ease.",
+        "steps": [
+          {
+            "instruction": "Chop all your veggies and put them in your favorite soup pot with the broth, thyme, oregano, bay leaf, salt, and pepper. Bring to a boil and then simmer until all your veggies are tender, 20-30 minutes.",
+            ingredients: [
+              "1 large head and peeled stem brocolli (or cauliflower), chopped",
+              "1 medium onion, peeled and chopped",
+              "2 carrots, peeled and chopped into small chunks",
+              "4 cups chicken or veggie broth",
+              "1/4 t thyme",
+              "1/2 t oregano",
+              "1 bay leaf",
+              "salt and pepper to taste",
+            ]
+          },
+          {
+            "instruction": "Remove the bay leaf. Blender your veggies and broth into a smooth slurry.",
+          },
+          {
+            "instruction": "Heat your milk in the microwave for 2 minutes. Add your milk to your veggie slurry along with the optional nutmeg (if you’re NOT going to add cheese ... which means Jason will probably never need the nutmeg in this recipe.). If using dried parsley, add it to the soup now. If using fresh parsley, add that at the very end just before serving. Bring your soup to a simmer.",
+            "ingredients": [
+              "3 cups milk",
+              "1-2 parsely",
+            ]
+          },
+          {
+            "instruction": "In a separate bowl, whisk together 1⁄2 cup water with either the flour or the cornstarch. Then whisk into this thickener a ladle of your hot soup mixture. Pour your thickener back into your soup pot and stir until thickened and bubbly. (This procedure for thickening soups will be included repeatedly in several recipes. Think of it as a life skill.)",
+            ingredients: [
+              "1/2 cup water",
+              "3 T flour or 2 T cornstarch",
+            ]
+          },
+          {
+            instruction: "Season with salt and pepper.",
+          }
+        ],
+        "description": "Optional: Top with shredded cheese. For Jason: NOT optional: Top with shredded cheese, preferably extra-sharp cheddar. Optional, even for Jason, Add 1 cup of shredded cheese to your hot soup while still on the stove. Stir and simmer until the cheese is melted and well-mixed into your soup. Not optional: Enjoy!",
+        "outro": "This soup was the only way to get certain children in my young parent life to eat broccoli or cauliflower. Depending on which combination of veggies you choose this can obviously be Creamy Broccoli Soup or a Creamy Cauliflower Soup."
+      }
+    ]
+  },
+  {
+    "title": "Butternut Squash and Potato Soup",
+    "originalBookID": 3,
+    "recipeNumber": 3,
+    "segments": [
+      {
+        "intro": "Butternut squash look like very large beige pears. Or like Mr. Lunt from Veggie Tales, if you’re the right age to remember those. Butternuts are the best for soups like this. Do not confuse this with buttercup squash, which look a bit like big green pin cushions with an extra bump on top, if you’ve ever had the occasion to see one of those. In contrast to both of those, honeynut squash ... oh, never mind. Just google it.",
+        "steps": [
+          {
+            "instruction": "Sauté onions in butter.",
+            ingredients: [
+              "1 medium onion, peeled and chopped",
+              "2 T butter",
+            ]
+          },
+          {
+            "instruction": "Add stock, squash, and potatoes. Bring to a boil and simmer for at least 25 minutes.",
+            ingredients: [
+              "3 cups cubed butternut squash, peeled, seeded, and cubed",
+              "1-2 cups potatoes, peeled and cubed",
+              "4-5 cups chicken or vegetable stock",
+            ]
+          },
+          {
+            "instruction": "In a separate bowl, whisk together the flour and water. Stir in a ladle of hot soup broth, then stir your thickener into the soup. Bring to a simmer so the broth thickens slightly.",
+            "ingredients": [
+              "1/2 cup water",
+              "1/3 cup flour",
+            ]
+          },
+          {
+            "instruction": "Remove your soup from the heat and blender the soup to a smooth texture. Use that hand blender stick, if you have one OR transfer in batches to your Ninja or other blender. Hack: if you have neither or cannot be bothered with the mess of the blender, you can use a potato masher. Your soup will end up less smooth with some small chunks of potato or squash. Just rename your soup “Rustic Squash-Potato Soup” and you’ll be fine.",
+          },
+          {
+            instruction: "Heat your milk in the microwave and stir into your thickened, pureed soup a few minutes before serving.",
+            ingredients: [
+              "2 cups milk",
+            ]
+          }
+        ],
+        "outro": "The difference between this soup and the Butternut Squash and Apple soup recipe is the texture.With the potato, this recipe has a sort of mashed-potato or heftier, umami texture. Can umami be a texture? Not sure, but if you make them both, you’ll understand. Not being a potato fan, Jason prefers squash soups without potato. His big brother, being possibly the biggest potato lover of the greater Grand Rapids area, prefers soups with potato. So, for the sake of brotherly love, we should alternate between the two squash soup recipes. Decide for yourself and write yourself a note about who in your group of eaters prefers which variety."
+      }
+    ]
+  },
+  {
+    "title": "Butternut Squash and Apple Soup",
+    "originalBookID": 3,
+    "recipeNumber": 4,
+    "segments": [
+      {
+        "intro": "This soup is smooth and creamy even though the amount of milk is minimal. The combination of vegetables and the lack of potato in this recipe also makes for a very smooth texture and a “light” feel.",
+        "steps": [
+          {
+            "instruction": "Melt butter in a large pot over medium heat. Stir in chopped leeks and onions and sauté about 5 minutes.",
+            ingredients: [
+              "2 tablespoons butter",
+              "2 large leeks (white and pale green parts only, save the dark greens for one of the Asian soups)",
+              "1 large onion, peeled and chopped",
+            ]
+          },
+          {
+            "instruction": "Add squash, carrots, apple, and chicken stock. Bring to boil, then reduce heat to medium-low, cover, and simmer until the vegetables are soft, about 20 minutes.",
+            ingredients: [
+              "2 cups peeled and cubed butternut squash",
+              "1 cup diced carrots",
+              "1 Granny Smith apple, peeled, cored, and sliced 1/4-inch thick",
+              "1 quart chicken stock",
+            ]
+          },
+          {
+            "instruction": "Carefully puree the soup in batches in a blender or use your blender stick to puree everything right in the pot.",
+          },
+          {
+            "instruction": "Return your pureed soup to the pot. Stir in the wine (optional) and the cream or milk. Season with nutmeg, salt, and pepper. Simmer gently for 5 minutes.",
+            ingredients: [
+              "1/4 cup dry white wine (optional)",
+              "1/2 cup light cream or milk",
+              "1/4 teaspoon ground nutmeg",
+              "salt and pepper to taste",
+            ]
+          },
+          {
+            instruction: "Ladle into bowls and garnish if you wish with the chopped chives.",
+            ingredients: [
+              "chopped chives (optional)"
+            ]
+          }
+        ],
+        "description": "Recipe found by Grandma Bev. https://www.allrecipes.com/recipe/149141/butternut-and-apple-harvest-soup/",
+        "outro": "Did you know every apple has a hidden surprise? Cut an apple the odd way, slicing it in half with the stem on one half and the indented “tail” at the other half. Look at the cross-section and find the star. Who knew there was this fun little surprise just waiting to be discovered."
+      }
+    ]
+  },
+  {
+    "title": "Buttermilk Corn Chowder",
+    "originalBookID": 3,
+    "recipeNumber": 5,
+    "segments": [
+      {
+        "intro": "“A first-rate soup is more creative than a second-rate painting.” – Abraham Maslow",
+        "steps": [
+          {
+            "instruction": "In a 3-quart saucepan cook bacon until crisp. Strain out bacon and set aside.",
+            ingredients: [
+              "2 slices bacon, cut up",
+            ]
+          },
+          {
+            "instruction": "Cook the chopped onion in the bacon drippings.",
+            ingredients: [
+              "1 small onion, chopped (1/4 cup)",
+            ]
+          },
+          {
+            "instruction": "Add the potatoes, corn, 1 1⁄2 cups of the broth, the celery, salt, and pepper. Bring to boil. Reduce heat. Cover and simmer for 15-20 minutes or until vegetables are tender.",
+            ingredients: [
+              "2 medium potatoes, peeled and cubed (about 2 cups)",
+              "1 10-ounce package frozen whole kernel corn",
+              "2 cups chicken or veggie broth",
+              "1 stalk celery, chopped (1/2 cup)",
+              "1/2 teaspoon salt",
+              "1/4 teaspoon ground pepper",
+            ]
+          },
+          {
+            "instruction": "Combine flour and the remaining cool 1⁄2 cup broth. Add to vegetable mixture. Cook and stir until thickened and bubbly. Reduce heat to low.",
+            ingredients: [
+              "2 tablespoons flour",
+            ]
+          },
+          {
+            instruction: "Stir in buttermilk. Heat through but to not boil.",
+            ingredients: [
+              "2 cups buttermilk",
+            ]
+          },
+          {
+            instruction: "Top each serving with some of the bacon. Garnish with paprika or snipped parsley, if desired.",
+            ingredients:[
+              "paprika (optional)",
+              "snipped parsley (optional)",
+            ]
+          }
+        ],
+        description: "From the BHG Soups and Stews Cook Book.",
+        "outro": "This used to be one of our favorite soups until too many of us became lactose-challenged and developed gut issues that made lots of corn a troublesome ingredient. I think we could try a lactose-free substitute for the buttermilk, such as some plain yogurt mixed with lactose-free milk, but warning: the texture might not be as creamy. BTW Double the recipe if you’re cooking for more than 2 people."
+      }
+    ]
+  },
+  {
+    "title": "Easy New England Clam Chowder",
+    "originalBookID": 3,
+    "recipeNumber": 6,
+    "segments": [
+      {
+        "intro": "The word “chowder” comes from a corruption of the French word chaudière (cauldron).",
+        "steps": [
+          {
+            "instruction": "Cook bacon in a large stockpot until crispy, about 6-8 minutes. Transfer to a paper-towel-lined plate, reserving at least 1-2 tablespoons of the bacon fat in the pot.",
+            ingredients: [
+              "4 slices bacon, diced",
+            ]
+          },
+          {
+            "instruction": "Melt butter in the stockpot. Add garlic and onion, sautéing until onions are translucent, about 2-3 minutes. Stir in thyme, about 1 minute.",
+            ingredients: [
+              "1-2 tablespoons unsalted butter",
+              "2 cloves garlic, minced",
+              "1 onion, diced",
+              "1/2 teaspoon dried thyme",
+            ]
+          },
+          {
+            "instruction": "Whisk in flour until very lightly browned, about 1 minute. Gradually whisk in 1 cup milk, stock, clam juice, and bay leaf. Cook, whisking constantly until slightly thickened, about 1-2 minutes. Stir in potatoes.",
+            ingredients: [
+              "3 tablespoons flour",
+              "1 cup milk",
+              "1 cup veggie stock",
+              "2 (6.5 ounce) cans chopped clams, with reserved juices",
+              "1 bay leaf",
+              "2 russet potatoes, peeled and diced",
+            ]
+          },
+          {
+            "instruction": "Bring to boil. Reduce heat and simmer until potatoes are tender, about 12-15 minutes.",
+          },
+          {
+            instruction: "Stir in half and half or milk and the clams. Heat through. Remove your bay leaf. Season with salt and pepper. If the soup is too thick, add more milk until you get your desired consistency.",
+            ingredients: [
+              "1 cup half and half, or milk",
+              "Salt and pepper to taste.",
+            ]
+          },
+          {
+            instruction: "Serve, garnished with bacon and parsley.",
+            ingredients:[
+              "parsley",
+            ]
+          }
+        ],
+        "outro": "Although we lived in New England for three years, we never ate much seafood and never cooked fresh clams. Because we lack clamming experience, this recipe uses canned clams which might be cheating but it does so in a delicious way. One of my lasting family vacation memories is visiting San Francisco on one of our California mostly camping trips and all enjoying a steaming bowl of clam chowder on Fisherman’s Wharf. Nowadays making clam chowder at home with lactose-free milk is the only way some of us can ever have a big steamy mug of New England Chowder yumminess."
+      }
+    ]
+  },
+  {
+    "title": "Chicken Cider Stew",
+    "originalBookID": 3,
+    "recipeNumber": 7,
+    "segments": [
+      {
+        "intro": "Happiness is hot soup on a cold day. Go ahead: buy that thermos and take 5 minutes to heat up and pack a hot soup lunch for somebody in your circle of care, including possibly yourself. You won’t be sorry.",
+        "steps": [
+          {
+            "instruction": "Cook bacon in large pot until crisp. Remove bacon, setting aside on paper towel. Reserve drippings in the pot.",
+            ingredients: [
+              "4 slices bacon, diced",
+            ]
+          },
+          {
+            "instruction": "Season chicken with basil and pepper. Brown chicken in hot bacon drippings, stirring to brown all sides.*",
+            ingredients: [
+              "1/2 teaspoon dried basil",
+              "1/8 teaspoon ground pepper",
+              "3-4 chicken breasts (3 lbs chicken), cut into small, thin pieces",
+            ]
+          },
+          {
+            "instruction": "Add 3 cups apple cider, ketchup, carrots, onions, and green beans. Stir well to mix and bring to boil. If you want a brothier soup, add a cup of chicken stock. Reduce heat. Cover and simmer 45 minutes or until chicken is fork tender.",
+            ingredients: [
+              "3 cups apple cider or apple juice",
+              "1/4 cup ketchup (the secret ingredient)",
+              "1 cup veggie stock",
+              "1 cup thinly sliced carrots",
+              "1 medium onion, peeled and chopped",
+              "1 8 oz package frozen green beans",
+            ]
+          },
+          {
+            "instruction": "In a small bowl, whisk together flour and 1⁄2 cup apple cider. Add a ladle of the warm soup liquid to the flour mixture and whisk to mix well. Gradually stir your flour mixture into the hot stew and stir until the stew is thickened and bubbly. Stir in bacon and add salt and pepper. to taste.",
+            ingredients: [
+              "1/4 cup flour",
+              "1/2 cup apple juice or cider",
+            ]
+          },
+        ],
+        description: "*Tip: Check out the Souper Secret F “Cutting meats against the grain” so that your bites of chicken can be as tender as possible.",
+        "outro": "Folks can identify pretty much everything in this delicious recipe but are surprised by the combination of flavors. With the apple cider base, this is a great autumn soup. It reheats or travels well in a thermos for lunch, which makes going back to school and brown bag lunches at the end of a relaxing summer not so bad after all."
+      }
+    ]
+  },
+  {
+    "title": "Curious chicken and vegetable soup",
+    "originalBookID": 3,
+    "recipeNumber": 8,
+    "segments": [
+      {
+        "intro": "This is “curious” because of the lovely mushroom and asparagus flavors in the broth. Plus, the recipe is GERD-friendly. If that doesn’t mean anything to you, no worries. Know that this soup is a happy-for-all-omnivores type of soup.",
+        "steps": [
+          {
+            "instruction": "Sauté mushrooms in olive oil. Go ahead and just do this in your stockpot.",
+            ingredients: [
+              "1 tablespoon olive oil",
+              "1 cup white mushrooms, sliced",
+            ]
+          },
+          {
+            "instruction": "Add the water and broth to the stockpot and bring to a boil. Add carrots, celery, chicken, and bay leaf Cover and simmer for 25-30 minutes or until chicken is cooked through. Set the timer for 20 minutes – so you do step 3 with about 5-10 minutes left on the cooking time.",
+            ingredients: [
+              "4 cups water",
+              "4 cups chicken or veggie broth",
+              "1 cup carrots, peeled and thinly sliced",
+              "1 cup of sliced celery",
+              "1-2 chicken breasts (uncooked OR 1 1⁄2 cups cooked chicken)",
+              "1 bay leaf",
+            ]
+          },
+          {
+            "instruction": "With 5-10 minutes left on step 2 cooking, add the asparagus to the stockpot.",
+            ingredients: [
+              "1 cup asparagus, chopped",
+            ]
+          },
+          {
+            "instruction": "Remove the chicken from stockpot and either shred it by tearing it up with two forks OR finely slice/chop into thin slivers and bits. Add your shredded chicken back to the stock pot.",
+          },
+          {
+            instruction: "Remove the bay leaf from the soup and add the parsley, salt, and pepper. Serve your soup by putting 1⁄4 cup of hot cooked jasmine rice in each bowl then ladling a serving of soup over top.",
+            ingredients: [
+              "1 teaspoon salt, or to taste",
+              "ground pepper to taste",
+              "fresh or dried thyme and 1/8 teaspoon ground turmeric (optional)",
+              "cook up some jasmine rice in a separate pot (optional)",
+            ]
+          }
+        ],
+        "outro": "Some colleagues invited us over one Saturday for a “simple lunch”. We chatted for at least 90 minutes while the cooking was happening. Then they served this amazing soup. I’m pretty sure this does not qualify as “simple,” but it is delicious. Original recipe by Chaunté Truelsen."
+      }
+    ]
+  },
+  {
+    "title": "Chicken Rice Soup",
+    "originalBookID": 3,
+    "recipeNumber": 9,
+    "segments": [
+      {
+        "intro": "This soup was discovered on-line by Grandma Bev. While a pretty basic chicken-rice soup recipe, this version features the snappy addition of lime juice.",
+        "steps": [
+          {
+            "instruction": "Combine broth, onion, carrots, celery, parsley, thyme, pepper, and bay leaf in a large stock pot. Bring to boil and simmer until vegetables are soft 10-15 minutes.",
+            ingredients: [
+              "10 cups chicken broth",
+              "1 onion, chopped",
+              "1 cup chopped carrots",
+              "1 cup chopped celery",
+              "1⁄4 cup chopped fresh parsley",
+              "1⁄2 teaspoon dried thyme",
+              "1⁄2 teaspoon ground pepper",
+              "1 bay leaf",
+            ]
+          },
+          {
+            "instruction": "Stir in chopped chicken and boil until meat is cooked 10-15 minutes. Remove bay leaf. Stir in lime juice and rice. Heat a couple minutes until rice is hot and the grains separate. Serve with lime sliver as garnish.",
+            ingredients: [
+              "1-2 chicken breasts, chopped into thin slices",
+              "2 tablespoons lime juice",
+              "2 cups cooked rice*",
+              "lime slivers for garnish",
+            ]
+          },
+        ],
+        description: "* This recipe calls for your rice to be cooked separately. Although the recipe says to stir your rice into the soup on the stove, I recommend serving each person a small plop of rice and then ladling the soup over top. The rice grains remain firm and any leftovers will not suffer from swollen-rice syndrome.",
+        "outro": "Grandma Dykstra used to make chicken rice soup with the leftovers from a roast chicken on a Sunday. Her version only had chicken, onion, celery, broth, and rice. She also simmered the rice along with everything else which means that her soup turned out a bit more like a porridge, especially if you were reheating it the second day. Cooking the rice separately and adding the rice to each bowl as you ladle the soup OR adding some leftover cooked rice in the last few minutes keeps the soup from becoming a porridge. *Also, although our family finds new crop long grain jasmine rice to be superior for all rice-y things, in this soup using basmati rice can also keep your grains intact and more separate (not clumping together). So, it may be worth it to have a small supply of basmati rice next to the 20 lb. bag of jasmine from the import store. ;) https://www.allrecipes.com/recipe/231291/hearty-chicken-and-rice-soup/"
+      }
+    ]
+  },
+  {
+    "title": "Indian Curry Noodle Soup",
+    "originalBookID": 3,
+    "recipeNumber": 10,
+    "segments": [
+      {
+        "intro": "Introduce young children early to curry flavors. There is a huge variety of options and curry dishes can be made anywhere on the scale from very mild to super spicy. Once introduced into your family repertoire, curries can show up as occasional favorites or evolve over time with fun food adventures from India, China, Southeast Asia, Britain, Netherlands, and likely many other places in our world, too.",
+        "steps": [
+          {
+            "instruction": "Brown onion in oil.",
+            ingredients: [
+              "1 medium onion, chopped",
+              "1 tablespoon oil",
+            ]
+          },
+          {
+            "instruction": "Add remaining soup ingredients. Bring to a boil, then simmer about 30 minutes.",
+            ingredients: [
+              "6 cups chicken or vegetable stock",
+              "1-2 stalks celery, chopped",
+              "2 carrots, peeled and chopped",
+              "1⁄2 cup finely chopped or shredded chicken",
+              "1 1⁄2 cup egg noodles or broken up fettuccini",
+              "1 1⁄2 teaspoon curry powder",
+              "1⁄2 teaspoon garam masala",
+              "1⁄2 teaspoon salt",
+              "1⁄4 teaspoon pepper",
+              "dash of cinnamon", 
+              "dash of chili powder", 
+              "dash cayenne pepper",
+            ]
+          },
+          {
+            instruction: "In a small cup, whisk together the water and cornstarch. Add a ladle of warm soup broth to the flour mixture and whisk together. Then stir the flour mixture into your soup. Stir until thickened and bubbly.",
+            ingredients: [
+              "1 cup water",
+              "1 tablespoon cornstarch",
+            ]
+          }
+        ],
+        description: "Vegetarian option: Whip up this soup using vegetable stock and without the chicken. This becomes a pretty basic noodle soup but with a fun Indian curry flavor twist.",
+        "outro": "Back in grad school, we were on such a tight budget that we almost never went to a restaurant.\
+        Once though as a special treat we tried out an Indian restaurant, a bit of a hole-in-the-wall-type\
+        place but it served up a tasty curry noodle soup. After several attempts, I managed to re-create that\
+        soup at home. Bonus: this recipe while bursting with flavors qualifies as a low-budget soup.",
+      }
+    ]
+  },
+  {
+    "title": "Penny’s Asian Hot and Sour Soup",
+    "originalBookID": 3,
+    "recipeNumber": 11,
+    "segments": [
+      {
+        "intro": "You do not need to order Chinese take-out to satisfy your craving. Plus, this recipe has no MSG, is low-fat, super inexpensive, and impresses friends.",
+        "steps": [
+          {
+            "instruction": "In your large soup pot, sauté your chosen oniony option in 2 tablespoons of oil. If you have \
+              chosen to include chicken or tofu, then add chicken and sauté until cooked OR add your tofu \
+              and sauté until slightly browned. You can leave the chicken in the pot to continue, but if you \
+              chose to sauté tofu, remove the tofu and add it back near the end of your cooking time. (You \
+              can also just add the tofu without sautéing but you want to leave enough time for it to heat up \
+              without cooking it so long that if falls apart in your soup.",
+            ingredients: [
+              "2 teaspoon vegetable oil",
+              "1 onion, chopped OR 4 spring onions OR 1 leek washed and chopped",
+              "1 skinless chicken breast cut into very thin strips (optional)",     
+              "8 oz extra firm tofu, sautéed in a bit of vegetable oil (optional)"
+            ]
+          },
+          {
+            "instruction": "Add the broth, mushrooms, ground pepper, and chili flakes. Bring to a light boil.",
+            ingredients: [
+              "4 cups chicken or beef stock",
+              "1⁄2 cup chopped mushrooms (optional)",
+              "1⁄2 teaspoon ground black pepper",
+              "1⁄2 teaspoon of red chili pepper flakes",
+              "1⁄2 cup chopped napa cabbage (optional)",
+              "1⁄2 cup chopped bok choy (a mix of stems and leaves)",
+              "1⁄2 cup chopped canned mini-corns (optional)",
+            ]
+          },
+          {
+            instruction: "In a small bowl, whisk together the 1⁄4 cup water, cornstarch, soy sauce, rice wine vinegar. Add to your simmering soup and stir until slightly thickened and bubbly.",
+            ingredients: [
+              "1⁄4 cup water",
+              "2-3 tablespoons corn starch",
+              "2 tablespoons soy sauce",
+              "3 tablespoons rice wine vinegar",
+            ]
+          },
+          {
+            instruction: "Whisk your eggs in a separate bowl. Slowly drizzle your whisked eggs into your soup while stirring. You want to have long thin cooked egg ribbons and not clumps of cooked egg.",
+            ingredients: [
+              "1-2 eggs, whisked"
+            ]
+          },
+          {
+            instruction: "Stir in your tofu if you opted for that. Stir in your sesame oil and serve.",
+            ingredients: [
+              "one drizzle of sesame oil",
+              "finely chopped tofu if not sauteed at the beginning (optional)",
+            ]
+          }
+        ],
+        description: "If you choose to add a lot of the extras, then your soup will be full of yummy bits and less brothy. In fact, you may find yourself wanting to add another cup of broth. Also, with the store-bought broth and the soy sauce, you do want to carefully monitor the overall saltiness of your creation. See also Souper Secrets E “Saltiness vs Flavor.”",
+        outro: "This soup makes great leftovers and qualifies as one of Mom’s comfort foods, so it also made it into the Comfort Food Cookbook. It even sounds good on some hard chemo days. This heats up well and makes your office mates jealous if they smell the soup warming up in the work room microwave. So, if you want leftovers (which you probably do), then double the recipe."
+      }
+    ]
+  },
+  {
+    "title": "Japanese Dashi (broth) & Miso Soup",
+    "originalBookID": 3,
+    "recipeNumber": 12,
+    "segments": [
+      {
+        "intro": "This very simple broth recipe will probably necessitate a trip to your local Asian or Japanese import store. I hope you all live in a place that offers such rich delights. Invest in these shelf-stable ingredients and then they will be in your pantry when you want to have these lovely Asian umami flavors in any broth.",
+        "steps": [
+          {
+            "instruction": "Put the water and the kombu seaweed in a pot and set over medium-low heat. Remove the \
+              kombu from the water when you see small bubbles coming from the kombu. If you are \
+              preparing this broth for vegetarians, then you are done. Otherwise continue.",
+            ingredients: [
+              "2 oz Kombu seaweed",
+              "4.5 cups water",
+            ]
+          },
+          {
+            "instruction": "Bring your broth to a boil. Turn off the heat and add dried bonito flakes. Turn on the heat and let the bonito steep in the broth for at least 3 minutes.",
+            ingredients: [
+              "5 oz dried bonito flakes (This is a dried fish which is hard like a piece of wood and then shaved into fluffy flakes. Buy the already-shaved into flakes.)",
+            ]
+          },
+          {
+            instruction: "Strain out the bonito flakes and your dashi (broth) is ready to go.",
+          }
+        ],
+        description: "You’ll have to find a nice miso (Asian soup bouillon). But once you invest, it stays good in the fridge indefinitely and makes for a great quick soup base on its own."
+      },
+      {
+        steps: [
+          {
+            instruction: "Combine your Dashi broth and your chosen optional ingredients in a soup pot. Warm to a gentle simmer and cook for about 10 minutes or until your veggies are the softness that you prefer.",
+            ingredients: [
+              "1-2 tablespoons miso",
+              "1⁄2 cup chopped Naganegi (Japanese leek) OR chopped green onions (optional)",
+              "1⁄2 cup chopped napa cabbage OR 1⁄2 cup chopped bok choy stems and leaves",
+              "1⁄2 slice deep fried tofu (Abura-age), add in the last 5 minutes of cooking",
+              "1⁄2 cup cubed extra-firm tofu, add in the last few minutes of cooking",
+            ],
+          },
+          {
+            instruction: "You can turn this into a variation on egg-drop soup by whisking 1 egg in a small separate cup and then drizzling the egg mixture into your hot and cooked soup while stirring. Allow to cook for at least a minute after all your egg is drizzled in. Serve and enjoy.",
+            ingredients: [
+              "1 egg",
+            ]
+          }
+        ],
+      },
+      {
+        description: "You can also make a similar soup very quickly and with little to no planning ahead. Use 2 cups of water and 2-3 tablespoons miso. Sprinkle in a little onion powder. Include any or none of the optionals and/or the egg-drop.",
+        outro: "I served this for breakfast to our exchange student Jabez one morning (because I read somewhere that this is sometimes done in Asian cultures). He sighed deeply and said that it reminded him of soup his mom would make. Win!"
+      }
+    ]
+  },
+  {
+    "title": "Mulligatawny",
+    "originalBookID": 3,
+    "recipeNumber": 13,
+    "segments": [
+      {
+        "intro": "This chicken, rice, and curry soup is a fusion of Indian and British flavors. Since curry powders are a combination of herbs and spices, your soup will taste very different depending on which curry powder you choose. I suggest a basic yellow curry powder, not a hot curry (unless you’re part of the Rindels clan) or Thai curry which would definitely push this soup in a curious direction. In any case, have fun experimenting.",
+        "steps": [
+          {
+            "instruction": "Sauté onions, celery, and carrot in butter for about 4 minutes. Stir in flour and curry powder and sauté for another 4 minutes. Add apple, chicken, and chicken broth. Bring to a boil and simmer 10 minutes. Add rice and thyme. Simmer another 20 minutes or until rice is done.",
+            ingredients: [
+              "1⁄2 cup chopped onion",
+              "2 stalks celery (optional)",
+              "1 carrot, peeled and diced",
+              "1⁄4 cup butter",
+              "2 tablespoons flour",
+              "2-4 teaspoons curry powder",
+              "1 apple, cored, peeled and chopped",
+              "1-2 skinless boneless chicken breasts, cut into small bits",
+              "6 cups chicken broth",
+              "1/3 cup jasmine rice",
+              "1 pinch dried thyme",
+            ]
+          },
+          {
+            "instruction": "If using milk, warm the milk in the microwave and stir into your soup pot just before serving. If using cream, you can drizzle some cream into each bowl of soup as you serve it. If you’re up for a challenge, you can try to make those fun barista designs.",
+            ingredients: [
+              "1⁄2 cup milk or cream",
+              "salt and pepper to taste",
+            ]
+          },
+        ],
+        description: "You can, of course, make this vegetarian by omitting the chicken and using vegetable broth instead of chicken broth. Bonus: the rest of the ingredients are pretty standard pantry staples, so you could make this on a day when you’re standing in the kitchen, wondering what in the world to whip up for dinner.",
+        outro: "The Story of Mulligatawny. According to more than one source, British soldiers during the British\
+          occupation of Sri Lanka (then Ceylon) wanted soup at the start of their meals. While this may have\
+          been a British tradition, it was not a common practice in that part of the world. The creative Tamil\
+          servants watered down a peppery stew and served that. The British wanted to add meat and other\
+          ingredients more familiar to them. Long story short: lots of different variations got created by\
+          creative cooks in that part of the world and then back in Britain. In a myriad of east-meets-west\
+          combinations, mulligatawny, according to the internet, has become a common British pub menu\
+          staple. A fairly simple stew, mulligatawny very often includes chicken, rice, and apple along with\
+          bespoke combinations of spices that we might recognize as variations of Indian curries. You could\
+          call this “curry soup” but “mulligatawny” is so much more fun. BTW In Germany this soup is\
+          named in the English-language sketch “Dinner for One” which many Germans watch ritually every\
+          year around New Year’s."
+      },
+    ]
+  },
+  {
+    "title": "Thai Coconut Noodle Soup",
+    "originalBookID": 3,
+    "recipeNumber": 14,
+    "segments": [
+      {
+        "intro": "The inclusion of this recipe is thanks to Marla who reminded me that this recipe is one of her favorites. We all need friends who help us remember forgotten little joys and then encourage us to rediscover them again.",
+        "steps": [
+          {
+            "instruction": "In a large saucepan over high heat, combine all the broth ingredients, except the chopped pepper. Bring to a boil. Reduce heat and simmer for 15 minutes. Strain and discard the solids.",
+            ingredients: [
+              "3 cups unsweetened coconut milk (or a mix of coconut and regular milk)",
+              "2 1⁄2 cups vegetable stock",
+              "2 T fish sauce or hoisin sauce",
+              "2 T grated gingerroot",
+              "2 T flour",
+              "2 T lime juice",
+              "1-2 T Thai curry paste (red or green, your choice)",
+              "2 teaspoons grated lime zest",
+              "2 stalks lemongrass, cut into 1-inch lengths",
+              "sprinkle dried red chili flakes or use some hot sauce to spice it up",
+            ]
+          },
+          {
+            "instruction": "Return your broth to saucepan and bring to a boil. Add the red pepper and cook for 3 minutes or until tender.",
+            ingredients: [
+              "1⁄2 red pepper, finely diced",
+            ]
+          },
+          {
+            instruction: "Cook your noodles, or heat up your already cooked noodles in the microwave or by pouring boiling water over the noodles lying in your strainer in your sink. Toss your noodles with sesame oil.",
+            ingredients: [
+              "2 cups cooked noodles",
+              "1 t sesame oil",
+            ]
+          },
+          {
+            instruction: "When your soup broth is done and your chopped peppers are tender, stir in the cooked noodles and chives. Bring your soup to a gentle boil. Then serve, garnished with fresh cilantro.",
+            ingredients: [
+              "1⁄4 cup chopped chives",
+            ]
+          }
+        ],
+        outro: "I don’t make this as often as I’d like because I so seldom have lemon grass. Confession: I have made this without any lemongrass and loved it just the same. Plus, someone in the house doesn’t like coconut milk. But assuming you like coconut milk and Thai flavors, you don’t have to let the lack or cost of fresh lemon grass stop you. I have also discovered lemon grass powder which you can have on hand. OR this might seem like a pretty big compromise, but you can just add a squeeze of lemon juice and some fresh ground pepper as substitutes. A little compromise in this awesome soup is a small price to pay for actually getting to eat this soup more often and sharing it with others."
+      },
+    ]
+  },
+  {
+    "title": "Cheater Creamy Corn Soup with an Asian Twist",
+    "originalBookID": 3,
+    "recipeNumber": 15,
+    "segments": [
+      {
+        "intro": "In 5 minutes, you can have a bowl of this comforting soup ready to go, ... unless it takes you 5 minutes to find the can opener.",
+        "steps": [
+          {
+            "instruction": "Stir together the creamed corn and the broth. Bring to a simmer.",
+            ingredients: [
+              "1 can creamed corn",
+              "1 can chicken or vegetable broth",
+            ]
+          },
+          {
+            "instruction": "In a separate cup, whisk the egg. Slowly drizzle the egg into your soup so you have nice strings of cooked egg and not clumps.",
+            ingredients: [
+              "1 egg",
+            ]
+          },
+          {
+            instruction: "Season with a few drips of soy sauce and enjoy.",
+            ingredients: [
+              "soy sauce to taste",
+            ]
+          },
+        ],
+        outro: "One of the things Grandma Dykstra did when she lived in Taipei Taiwan for 8 years is attend a Chinese Cooking Class at The Grand Hotel Recreation Club. We still have a little orange-covered booklet-collection of recipes, 1965 edition, as evidence. This corn soup recipe is an adaptation of recipe #3 from that book. So, even though it seems like a cheater recipe, I’d say it’s almost “authentic.”"
+      },
+    ]
+  },
+  {
+    "title": "White Chicken Chili",
+    "originalBookID": 3,
+    "recipeNumber": 16,
+    "segments": [
+      {
+        "intro": "If you’ve only had red chilis, you’ve got to try this for a change. Very different and very yummy.",
+        "steps": [
+          {
+            "instruction": "Brown chicken and onion in oil.",
+            ingredients: [
+              "2 chicken breasts, chopped",
+              "1 large onion, chopped",
+              "2 tablespoons olive oil",
+            ]
+          },
+          {
+            "instruction": "Add the broth, beans, chilis, and herbs and spices. Bring to a simmer and cook for 10-30 minutes.",
+            ingredients: [
+              "4-5 cups chicken broth",
+              "1 ~15-oz can white cannellini beans, drained",
+              "1 small can (mild) green chilis",
+              "2 cloves minced garlic",
+              "1-2 teaspoons dried oregano",
+              "1⁄2-1 teaspoon ground cumin",
+              "pinch cayenne",
+              "1/2 t chili powder",
+              "salt and pepper to taste",
+            ]
+          },
+          {
+            instruction: "If you want a thicker broth/sauce, then thicken your soup: in a small cup, whisk together the water and flour. Add a ladle of warm soup broth to the flour mixture and whisk together. Then stir the flour mixture into your soup. Stir until thickened and bubbly.",
+            ingredients: [
+              "1⁄4 cup flour",
+              "3⁄4 cup broth or water",
+            ]
+          },
+          {
+            instruction: "Serve your chili with optional sides such as salsa, shredded white cheddar, sour cream, chopped avocado, and nacho chips. This recipe makes 4 generous servings, but if you’re having company over, then double the recipe so that folks can have seconds."
+          }
+        ],
+        outro: "This recipe with the cannellini beans feels almost like a comfort food. Okay, not at all for Randy but for Jason and me? Sure. I’m adding cannellini beans and canned green chilis to my pantry so that I have the option to cook up this chili the next time Dad is away. I’m not saying I want Dad to be away, but it’s nice to have a yummy chili to look forward to and offset him being away, Just to be clear. ;)"
+      },
+    ]
+  },
+  {
+    "title": "Quick Vegetarian Chili",
+    "originalBookID": 3,
+    "recipeNumber": 17,
+    "segments": [
+      {
+        "intro": "Grab your can opener and Go! This is definitely a “create your own” adventure, which means you’ll have to cook this several times to figure out your favorite combinations. Also, because this recipe uses canned beans and not dried beans, you can stir up a veggie chili in 15 minutes, if you have to.",
+        "steps": [
+          {
+            "instruction": "Brown onion in oil. Optional: add chopped peppers of your choice (any color or type to suit your flavor cravings and to up the spice-heat, if you wish).",
+            ingredients: [
+              "1 tablespoon oil",
+              "1 large onion, chopped",
+              "your favorite peppers, chopped (optional)",
+            ]
+          },
+          {
+            "instruction": "Stir in all your canned goods and however much salsa (mild, medium, or hot) that you wish. Stir in the seasonings and allow to simmer at least 15 minutes or up to an hour on low. Be careful adding any salt because of the salt already in all the canned ingredients.",
+            ingredients: [
+              "1 or 2 ~15 oz. can pork & beans with sauce",
+              "1 ~15 oz. can kidney beans, drained",
+              "1 ~15 oz. can chickpeas, drained",
+              "1 ~15 oz can black beans, drained (optional)",
+              "1 ~15 oz can corn, drained (optional)",
+              "1 ~28 oz can chopped tomatoes",
+              "1⁄2 cup salsa",
+              "2-4 teaspoons chili powder",
+              "1 teaspoon cumin",
+              "1 teaspoon oregano",
+            ]
+          },
+        ],
+        description: "Crock pot option: \nYou can put all the ingredients in a crockpot in the morning, including the\
+          chopped onion (without browning it separately). Then put your crock on low for 6-8 hours.\
+          Imagine the yummy smells when you come home at the end of your day away, thanks to some\
+          pretty easy morning cooking. All you have to do in the evening is decide which toppings you\
+          want.\
+          \n\nToppings:\
+          \nYou know how to do this! Add any or all of the following to satisfy your cravings: shredded\
+          cheddar or jack cheese, sour cream, salsa, nacho chips, tabasco, chopped avocado, chopped\
+          green onions, even shredded lettuce can add a fresh-veggie twist and push your chili into a taco\
+          salad direction, especially if you scoop your loaded chili with nacho chips.\
+          \n\nFusion Option:\n You can serve chili on rice. Truly. It’s good.",
+        outro: "In my memory this was inspired originally by a vegetarian chili served up at a very cool bookstore café in Madison Wisconsin called “Canterbury Tales.” In my ideal post-COVID world, there would be a bookstore-café that served up soups with good bread and tea options with scones, and also had a great selection of yarns to pet and inspire relaxing knitting."
+      },
+    ]
+  },
+  {
+    "title": "Rockin Red Chili",
+    "originalBookID": 3,
+    "recipeNumber": 18,
+    "segments": [
+      {
+        "intro": "You rock it the way You want it. Makes 4 generous servings. Double the recipe if you’re having guests over.",
+        "steps": [
+          {
+            "instruction": "Brown/sauté the meat, salt and pepper, and onion (and chopped peppers, if desired). Do this with the added oil if your meat does not have enough fat to brown everything nicely. Add all the seasonings to the meat as it cooks.",
+            ingredients: [
+              "1 lb ground beef (or lamb or turkey or beyond burger)",
+              "1 large onion",
+              "1 tablespoon oil, if needed",
+              "<1 cup chopped peppers of your choice OR canned chilis OR some chopped jalapenos. (optional)",
+              "1-2 tablespoons chili powder",
+              "2 cloves minced garlic",
+              "1 teaspoon cumin",
+              "1 teaspoon oregano",
+              "1 teaspoon basil",
+              "1 teaspoon sugar",
+              "1⁄2 teaspoon salt",
+              "1⁄2 teaspoon ground black pepper",
+            ]
+          },
+          {
+            "instruction": "When the meat is cooked, stir in the remaining ingredients. Simmer at least 15 minutes and up to an hour. You can also put this into a crock pot on low for the day.",
+            ingredients: [
+              "1 28 oz can chopped tomatoes",
+              "1 6 oz can tomato paste OR 1⁄2 cup ketchup OR 1 can condensed tomato soup.",
+              "1 ~15 oz can kidney beans, drained",
+            ]
+          },
+        ],
+        outro: "Grandma Dykstra actually used to make a version of chili that had no added tomatoes, just the ground beef (onion maybe), kidney beans, chili powder, and Campbell’s canned tomato soup concentrate. It turned out more like a stew or casserole and not much like any chili you’d get in any restaurant, but it was still a step away from the very Dutchy traditional meat-and-potatoes. I used to hate the kidney beans, so I would pick them all out and eat them first, then enjoy the meat and sauce. After a couple years of doing that, I decided the beans were part of the chili and I learned to enjoy the chili in an integrated way. \n\nI have to admit to outsiders that our family has grown into spice-wimps. We like a wide variety of spices and flavors, but when it comes to spicey-“heat” – we are minimalists. We like to blame this on the children when they were young, or on the 6 years that we lived with Grandma Dykstra. But nowadays we have no real excuse. It just is. So, it’s a bit unfair to call this “Rockin” chili. I suspect most folks will want to up the amount of zip and heat that we have in these chili recipes. Fortunately, that’s easy to do. And if you are my sister and brother-in-law, just throw in some jalapenos and set out the hot sauces."
+      },
+    ]
+  },
+  {
+    "title": "Gwen’s Vegan/Beyond Burger, no-bean chili OR Vegan Stew",
+    "originalBookID": 3,
+    "recipeNumber": 19,
+    "segments": [
+      {
+        "intro": "Adapted by the amazing Gwen from Sunny’s Kitchen: Easy Food for Real Life",
+        "steps": [
+          {
+            "instruction": "Make the seasoning blend and set aside.",
+            ingredients: [
+              "1 T ground cumin",
+              "1 T chili powder",
+              "1⁄2 teaspoon cinnamon",
+              "2 t dried oregano",
+              "2 t kosher salt",
+              "1 t regular salt",
+              "dash black pepper",
+              "plus a couple good shakes of ground ginger",
+              "ground cloves", 
+              "ground cinnamon",
+            ]
+          },
+          {
+            "instruction": "Sear/fry up the beyond burger: Heat olive oil in a large pot over high heat until it begins to swirl. Add the beyond burger with half of the seasoning. Cook, stirring intermittently until the burger is browned on all sides – about 5 minutes. Remove your beyond burger to a bowl.",
+            ingredients: [
+              "2 T olive oil",
+              "1 lb Beyond Burger",
+            ]
+          },
+          {
+            instruction: "Build the flavor: Reduce heat to medium and add the onions, garlic, tomato paste, and optional chopped peppers and/or celery and the hot sauce or ketchup. Cook, stirring until everything turns a dark reddish brown – about 10 minutes.",
+            ingredients: [
+              "1 cup finely chopped sweet onion",
+              "1 red bell pepper, seeded and chopped (optional)",
+              "2 stalks celery, chopped (optional)",
+              "1-2 tablespoons hot sauce or 1-2 tablespoons ketchup",
+              "3 garlic cloves, grated or finely minced",
+              "3 T tomato paste",
+            ]
+          },
+          {
+            instruction: "Complete the chili: Stir in your reserved beyond burger, sprinkle with the remaining half of the seasoning blend. Stir in the BBQ tofu bites, the cornmeal, stock, wine, and squash (Gwen partially cooks the squash in the microwave first for easier peeling. Maybe everybody does that. But if not, that’s her tip. Mom peels and chops the raw squash and throws it in to cook with the stew.). Bring to a boil. Then reduce to a simmer and cook until the chili is thick and the liquid is reduced, 40-50 minutes. Stir frequently. If your concoction is already quite thick, then keep the lid on the pot.",
+            ingredients: [
+              "1 package BBQ Tofu Bites*",
+              "2 T fine cornmeal",
+              "2 cups vegetable stock",
+              "1 cup red wine",
+              "1 small butternut squash, peeled, seeded, and cut into 1⁄2-in cubes",
+              "2-3 peeled and chopped sweet potatoes. (optional)",
+            ]
+          }
+        ],
+        description: "*BBQ Tofu bites can be bought as a pre-packaged product. However, you can also create your own. Gwen says she just chops extra-firm tofu into cubes and marinates them overnight in BBQ sauce.",
+        outro: "Gwen has embodied inclusive excellence in her cooking for our Bible study group over the decades. She serves up her adventurous and fun recipes with an array of optional add-ins and toppings that let each person avoid what they don’t like and pile on favorite flavors in a diversity of ways. I may qualify as a diversity professional, but Gwen embodies inclusive excellence in her impressive potluck spreads."
+      },
+    ]
+  },
+  {
+    "title": "Gwen’s Vegan/Beyond Burger, no-bean chili OR Vegan Stew",
+    "originalBookID": 3,
+    "recipeNumber": 20,
+    "segments": [
+      {
+        "intro": "Grandma Bev’s Carrot-Ginger Soup",
+        "steps": [
+          {
+            "instruction": "Heat butter in a large saucepan over medium heat. Add carrots, potato, onion, celery, chicken broth, and ginger. Cover and cook, stirring occasionally until vegetables are tender, about 30 minutes. Uncover and cool for 15 minutes.",
+            ingredients: [
+              "1⁄4 cup butter",
+              "2 1⁄2 cups sliced carrots",
+              "1 large potato, peeled and cubed",
+              "1 cup chopped onion",
+              "1 stalk celery",
+              "3 cups chicken broth",
+              "1 teaspoon ground ginger",
+              "1 teaspoon curry powder (optional)",
+            ]
+          },
+          {
+            "instruction": "Blender the soup in batches or use your stick blender until smooth. Return soup to the saucepan. Add curry powder, salt, and pepper to taste. Cook over low heat until heated through, about 10 minutes.",
+            ingredients: [
+              "1 teaspoon ground ginger",
+              "1 teaspoon curry powder (optional)",
+              "1/2 teaspoon salt",
+              "1/8 teaspoon ground black pepper",
+            ]
+          },
+        ],
+        description: "Optional: Stir in 1⁄2 cup cream or milk before final heating.",
+        outro: "I’ve lost count of how many times Grandma Bev has delivered containers of this soup. But I haven’t forgotten how much it makes us feel loved."
+      },
+    ]
+  },
+  {
+    "title": "Susan’s Creamy Tomato Soup",
+    "originalBookID": 3,
+    "recipeNumber": 21,
+    "segments": [
+      {
+        "intro": "If your tomato soup experiences have been mostly from a Campbell’s soup can, you really should try a soup like this one.",
+        "steps": [
+          {
+            "instruction": "In a large slow cooker combine tomatoes, celery, carrots, broth, onions, oregano, basil, and bay leaf. Cover and cook on LOW for 5-7 hours, until flavors are blended and vegetables are soft.",
+            ingredients: [
+              "28 oz can diced tomatoes",
+              "1 cup finely diced celery",
+              "1 cup finely diced carrots",
+              "4 cups veggie broth (or chicken)",
+              "1 cup finely diced onions",
+              "1 teaspoon dried oregano",
+              "1 tablespoon dried basil",
+              "1 bay leaf",
+            ]
+          },
+          {
+            "instruction": "About 45 minutes before serving, prepare a roux. Melt butter and oil over low heat in a saucepan. Whisk in flour. Stir constantly with whisk for 5 minutes. Slowly stir in 1 cup hot soup. Add another 3 cups and stir until smooth. Stir all the roux-soup mixture back into your slow cooker. Stir in the parmesan cheese, warmed milk, salt and pepper and herbs to taste.",
+            ingredients: [
+              "1⁄4 cup butter",
+              "2 tablespoons olive oil",
+              "1⁄2 cup flour",
+              "2 cups warmed milk or half-and-half",
+              "salt, pepper, additional fresh or dried oregano or basil to taste",
+            ]
+          },
+        ],
+        description: "Of course, you can make this recipe late in the afternoon on the stove. I bet after reading through most of this cookbook, you can figure out how to do that.",
+        outro: "When Susan heard about this cookbook project, she immediately offered this recipe as one of her favorites. We tried it that same week. Creamy and delicious."
+      },
+    ]
+  },
+  {
+    "title": "New Orleans Gumbo",
+    "originalBookID": 3,
+    "recipeNumber": 22,
+    "segments": [
+      {
+        "intro": "Adapted from the New Orleans School of Cooking. \
+          Once long ago I tagged along with Randy to a conference in New Orleans. I got to explore the \
+          French Quarter, listen to jazz, visit a yarn shop, and take a Cajun cooking class. Why didn’t I do \
+          more of this in life? Anyway, I adapted the yummy gumbo recipe from that cooking class to suit \
+          my family, and they all loved it. Jason wonders why I didn’t make this more often. Answer: mostly \
+          because it takes time and patience to make the caramel-colored roux and I so seldom had that 15 \
+          minutes to just stand at the stove stirring single-mindedly; there were always several other things \
+          that I tried to do whilst making dinner. But if you do have the time, this really is delicious and \
+          except for the roux, it isn’t difficult.",
+        "steps": [
+          {
+            "instruction": "Season and sauté the chicken in a small amount of oil or melted bacon fat in a large pot or fry pan. Add the sausage slices and sauté with the chicken.",
+            ingredients: [
+              "3-4 cups chopped chicken",
+              "12-16 ounces Andouille sausage or kielbasa, sliced",
+              "Oil for sautéing.",
+            ]
+          },
+          {
+            "instruction": "In a separate large stock pot, make your roux. The oil must be free of food particulate to avoid burning. Stir equal amounts of oil and flour together and cook over low to medium heat, stirring constantly. This roux is different from all the others] roux in this cookbook. Do not take a break or ignore your roux for even a minute. You have to pay close attention. It should thicken AND turn a caramel-brown color. This takes a while, perhaps 10-15 minutes. If you walk away, you’ll be sorry. If it turns dark brown and tastes like burnt mud, throw it out and start over.",
+            ingredients: [
+              "1⁄2 cup oil",
+              "1⁄2 cup flour",
+            ]
+          },
+          {
+            instruction: "Add the onion, celery, and carrots and sauté for a few minutes. Then add in your cooked meats, garlic, the stock, and your Cajun seasoning. Bring to boil, then reduce heat to simmer and cook for an hour or more. Season to your taste with more Cajun seasoning, if needed.",
+            ingredients: [
+              "2 cups chopped onion",
+              "1 cup chopped celery",
+              "1 cup chopped carrot",
+              "1 tablespoon chopped garlic",
+              "4 cups stock",
+              "1 T of Joe’s Stuff Cajun Seasoning OR make your own Cajun seasoning mix**",
+            ]
+          },
+          {
+            instruction: "Approximately 10 minutes before serving add the green onions and allow to simmer.",
+            ingredients: [
+              "1 cup chopped green onions",
+              "Serve with cooked rice.",
+            ]
+          }
+        ],
+        description: "Serve your gumbo over rice. *The original recipe had green peppers, but with the pepper-adverse Randy at the table, we substitute celery.\n\n**Cajun Seasoning. This recipe based on thekitchencommunity.org creates a little bottle of Cajun seasoning. Adjust the amounts as you see fit. And although you should use whatever amount of Cajun seasoning in this soup that seems right to you, I recommend staring with 1-2 tablespoons and adjusting up as needed. Obviously, this will involve lots of sampling along the way Aw, shucks.",
+      },
+      {
+        steps: [
+          {
+            instruction: "Mix together, stores well",
+            ingredients: [
+              "4 tablespoons paprika or smoked paprika",
+              "1 tablespoon onion powder",
+              "2 teaspoons dried basil",
+              "1-2 teaspoons cayenne pepper (or more if you like it hot)",
+              "2 teaspoons garlic powder or granules",
+              "2 teaspoons dried oregano",
+              "2 teaspoons dried thyme",
+              "1-3 teaspoons salt (or omit and salt separately to taste)",
+              "1 teaspoon ground black pepper",
+            ]
+          }
+        ],
+        outro: "I’ve only made New Orleans Gumbo a handful of times but apparently it left a positive and lasting impression on Jason who, since moving into our Omena apartment after graduating from university, has mentioned gumbo several times, always with a rather wistful longing. So, here’s the recipe. I’ve been hesitating planning on this soup since trying to avoid nitrate-laden meats for daughter-in-law Hannah. Then I discovered an impressive selection of nitrate-free sausage options at the local grocer. Gumbo evenings, here we come!"
+      },
+    ]
+  },
+  {
+    "title": "Crockpot Beef and Veggie Soup",
+    "originalBookID": 3,
+    "recipeNumber": 23,
+    "segments": [
+      {
+        "intro": "If you can find about 20 minutes in the morning to get everything chopped and into the crockpot, then you can go about your day knowing that a delicious dinner option awaits you. Plus, then you can come home at the end of the day to the comforting and yummy smells.",
+        "steps": [
+          {
+            "instruction": "Put some or all of these ingredients into your crock pot. Put on high with the change to low after 4 hours function OR put on low for 6-8 hours. It might help to start with hot beef broth. Just microwave it before adding it to your crock. It also helps imho to warm up your frozen veggies in some hot water, then drain the veggies before adding to your crock.",
+            ingredients: [
+              "1 lb. chopped stewing beef or sautéed ground beef",
+              "1 onion, chopped and peeled",
+              "2 stalks chopped celery",
+              "2 large carrots, peeled and chopped",
+              "2-3 large russet potatoes, peeled and chopped",
+              "1 cup frozen corn",
+              "1 cup frozen peas",
+              "1 cup frozen beans",
+              "16-28 ounces canned crushed tomatoes, if you want a tomato flavor. Otherwise omit.",
+              "1⁄2 cup pearled barley, if you like that in your veggie soups",
+              "4-6 cups beef broth, add enough liquid so that your solid ingredients are covered with broth",
+              "1 teaspoon chopped garlic",
+              "1 teaspoon dried basil",
+              "1 teaspoon dried oregano",
+              "1 bay leaf",
+              "1 teaspoon beef bouillon",
+              "ground black pepper to taste",
+            ]
+          },
+        ],
+        description: "Each of the ingredients is optional but, of course, you have to choose some ingredients or all you will have is hot water. BTW All amounts are adjustable. Be creative. \n\n* Tip 1: If you want to have leftover beef, set it aside before bringing the meat platter to the dining table. Otherwise, you run the risk of certain somebodies slowly helping themselves to more and more little nibbles from the meat platter and before you know it, you haven’t got enough beef for your soup plans. If this happens, then you can just make Vegetable Soup including a 28 oz can of crushed tomatoes.\
+          \n\nTip 2: Stir in any leftover gravy from the beef dinner. Obviously at our house “leftover gravy” is a \
+          curious and rare occurrence. One could even call “leftover gravy” an oxymoron. But if this is \
+          something you’ve got in the fridge, go for it. Or you can even make extra gravy with your original \
+          beef dinner, but you might have to put some aside – never even bringing the surplus gravy to the \
+          table and denying the existence of additional gravy in the kitchen. See Tip #1.",
+      },
+    ]
+  },
+  {
+    "title": "Vegetable Soup and variations",
+    "originalBookID": 3,
+    "recipeNumber": 24,
+    "segments": [
+      {
+        "intro": "This is just the meatless version of the Beef and Veggie Soup with a few veggie adaptations.",
+        "steps": [
+          {
+            "instruction": "You can sauté your chopped onions first in a little olive oil. But you can also just put everything into a stock pot, bring to a boil, and simmer until your veggies are tender.",
+            ingredients: [
+              "1 tablespoon oil",
+              "1⁄2 cup chopped onion",
+              "1 cup chopped celery",
+              "1 cup chopped carrot",
+              "2 cups chopped potato",
+              "8 cups broth or 8 cups in a combination of broth and canned diced tomatoes",
+              "1⁄2 cup frozen corn (optional)",
+              "1⁄2 cup frozen beans or chopped fresh beans (optional)",
+              "1⁄2 cup frozen peas (optional)",
+            ]
+          },
+        ],
+        description: "Seasonings. Start 1/2 teaspoon of each and add more of whichever to taste: \
+          oregano, onion powder, celery salt, ground black pepper, garlic granules or chopped garlic. \
+          Secret ingredient. Shhh. Don’t tell anyone outside the family. Putting in two dashes of soy sauce \
+          adds a great umami flavor.",
+        outro: "I think that you can add a can of legumes (like black beans or chick peas), or some cooked pasta (like some orzos, small shells, or macaroni) and suddenly this tomato-based vegetable soup becomes a “minestrone.” I’m not sure this is completely accurate but I bet you can make one of these additions, add some basil and extra oregano, call it “minestrone,” and almost convince folks that this is a completely unique recipe. If you opt to add in or serve over some rice, then you are just embracing the concept of “Pruim Family comfort food.”"
+      },
+    ]
+  },
+  {
+    "title": "Quick Tortellini Soup",
+    "originalBookID": 3,
+    "recipeNumber": 25,
+    "segments": [
+      {
+        "intro": "Depending on how long you’re supposed to cook your tortellini, this soup takes about 20 minutes to make, but it is a pretty stress-free 20 minutes.",
+        "steps": [
+          {
+            "instruction": "Put your stock, carrots, and celery into pot and bring to a boil.",
+            ingredients: [
+              "4-6 cups chicken or vegetable stock",
+              "1-2 carrots, peeled and chopped",
+              "1-2 stalks celery, chopped (optional)",
+            ]
+          },
+          {
+            instruction: "Add onion powder, basil, oregano, and tortellini and cook according to package directions, stirring occasionally.",
+            ingredients: [
+              "8 ounces dried store-bought tortellini*",
+              "1⁄2 teaspoon onion powder",
+              "1⁄2 teaspoon dried basil",
+              "1⁄2 teaspoon dried oregano",
+              "parmesan cheese (optional)"
+            ]
+          },
+          {
+            instruction: "When your tortellini are cooked the way you like, serve your soup with a good sprinkling of parmesan on top of each bowl-ful.",
+          }
+        ],
+        description: "*You could opt for “fresh” store-bought tortellini or another type of pasta.",
+        outro: "For a certain very busy phase of our family life, this was a go-to soup on those hectic days when \
+          we were trying to create a family dinner time between cross-country practice, music lessons, chess \
+          club, and Soul Delight rehearsals. And just for the record we almost always made time to eat \
+          dinner together. There was that one week when I looked at the crazy calendar and declared: \
+          “Alright, everyone, we are going to have a nice family meal on Saturday at 3 pm. Be there!” \
+          Anyway, throughout those very busy years, everyone ate this soup without complaining and \
+          Andrew even ate the carrots. I seem to remember though that sometimes the celery bits got left in \
+          the bottom of certain bowls, but there are worse things. At least the kids got the yummy celery \
+          flavor in the broth."
+      },
     ]
   },
 ]

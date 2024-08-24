@@ -1,0 +1,16 @@
+<div class="">
+  <h4 class="color-theme-2">Kid Review</h4>
+  <div class="review-container review-border">
+    <div  *ngFor="let review of reviews | keyvalue">
+      <div *ngIf="review.key!='general'">
+        <p>{{review.key}}: {{ review.value }}</p>
+      </div>
+      <div *ngIf="review.key=='general'">
+        <p>{{ review.value }}</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  

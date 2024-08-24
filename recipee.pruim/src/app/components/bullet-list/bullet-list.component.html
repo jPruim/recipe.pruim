@@ -1,0 +1,6 @@
+<p>{{ bulletList.header }}</p>
+<ul class="item-container">
+  <div *ngFor="let item of bulletList?.list" >
+    <li class="item"><span class="list-span">{{' ' + item}}</span></li>
+  </div>
+</ul>

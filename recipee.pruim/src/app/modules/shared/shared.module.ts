@@ -4,7 +4,8 @@ import { HeaderComponent } from 'src/app/components/header/header.component';
 import { ImageComponent } from 'src/app/components/image/image.component';
 import { SteplistComponent } from 'src/app/components/steplist/steplist.component';
 import { CardComponent } from 'src/app/components/card/card.component';
-
+import { ReviewComponent } from 'src/app/components/review/review.component';
+import { BulletListComponent } from 'src/app/components/bullet-list/bullet-list.component';
 
 
 @NgModule({
@@ -13,6 +14,8 @@ import { CardComponent } from 'src/app/components/card/card.component';
     ImageComponent,
     SteplistComponent,
     CardComponent,
+    ReviewComponent,
+    BulletListComponent, 
   ],
   imports: [
     CommonModule
@@ -25,6 +28,8 @@ import { CardComponent } from 'src/app/components/card/card.component';
     ImageComponent,
     SteplistComponent,
     CardComponent,
+    ReviewComponent,
+    BulletListComponent,
   ]
 })
 export class SharedModule { }

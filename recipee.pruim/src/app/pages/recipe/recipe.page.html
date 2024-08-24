@@ -12,8 +12,16 @@
               <app-image [imageLink]="segment.imageLink || ''" [caption]="''"></app-image>
             </div>
             <p class="intro-text">{{ segment?.intro }}</p>
-            <app-steplist [steps]="segment?.steps || []"></app-steplist>
+            <div *ngIf="segment?.steps">
+              <app-steplist [steps]="segment?.steps || []"></app-steplist>
+            </div>
             <p class="description-text">{{ segment?.description}}</p>
+            <div *ngIf="segment?.reviews">
+              <app-review [reviews]="segment?.reviews || {}"></app-review>
+            </div>
+            <div *ngIf="segment?.bulletList">
+              <app-bullet-list [bulletList]="segment?.bulletList || {}"></app-bullet-list>
+            </div>
             <p class="outro-text">{{ segment?.outro}}</p>
           </div>
         </div>

@@ -1,20 +1,52 @@
-export interface Recipe { 
+export interface RecipeOld { 
     title: string; 
+    originalBookID?: number;
+    recipeNumber?: number;
+    preparationTime?: string;
+    categoryID?: number;
+    lastEdit?: string;
     intro?: string;
     description?: string;
     outro?: string;
+    reviews?: Reviews;
+    imageLink?: string; 
+    links?: RecipeRef[];
+    steps?: Step[];
+}
+
+export interface Recipe {
+    title: string; 
     originalBookID?: number;
     recipeNumber?: number;
-    steps?: Step[];
-    imageLink?: string; 
+    preparationTime?: string;
     categoryID?: number;
     lastEdit?: string;
+    segments?: PageSegment[];
+}
+
+export interface PageSegment {
+    intro?: string;
+    imageLink?: string; 
+    steps?: Step[];
+    description?: string;
+    bulletList?: BulletList;
+    reviews?: Reviews;
+    outro?: string;
     links?: RecipeRef[];
 }
 
 export interface RecipeRef {
     originalBookID: number,
     recipeNumber: number,
+}
+
+export interface BulletList {
+    header?: string;
+    list?: string[];
+}
+
+export interface Reviews {
+    [key:string]: string
 }
 
 export interface IngredientList {

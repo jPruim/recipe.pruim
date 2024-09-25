@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Recipe } from 'src/app/interfaces/recipe';
+import { PageSegment, Recipe, RecipeOld } from 'src/app/interfaces/recipe';
 import { RecipeData } from 'src/assets/data';
 
 @Component({
@@ -11,6 +11,15 @@ export class TableOfContentsPage implements OnInit {
   public recipeArray : any[] = [];
   constructor() { }
 
+  // from: https://stackoverflow.com/questions/11233498/json-stringify-without-quotes-on-properties to clean JSON stringify of extra quotes
+  cleanIt(obj: any) {
+    var cleaned = JSON.stringify(obj, null, 2);
+
+    return cleaned.replace(/^[\t ]*"[^:\n\r]+(?<!\\)":/gm, function (match) {
+        return match.replace(/"/g, "");
+    });
+  }
+
   ngOnInit() {
     this.recipeArray = RecipeData;
     this.shortenDescriptions();
@@ -18,7 +27,7 @@ export class TableOfContentsPage implements OnInit {
 
   shortenDescriptions(){
     this.recipeArray.forEach( (el) => {
-      el?.intro?.length ?? 0 > 150 ? el.intro = el.intro.slice(0,140) + "...": '';
+      el?.segments?.first?.intro?.length ?? 0 > 150 ? el.segments.first.intro = el.segments.first.intro.slice(0,140) + "...": '';
     })
   }
   search(event: any){

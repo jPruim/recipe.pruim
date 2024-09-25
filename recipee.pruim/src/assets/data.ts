@@ -5025,6 +5025,50 @@ export const RecipeData: Recipe[] = [
       },
     ]
   },
+  {
+    "title": "Naan",
+    "originalBookID": 100,
+    "recipeNumber": 2,
+    "segments": [
+      {
+        "intro": "Naan truly brings together Indian food, and the family too",
+        "steps": [
+          {
+            "instruction": "Add yeast to warm water. Leave for 10 minutes.",
+            ingredients: [
+              "2 1/4t yeast",
+              "1 cup warm water",
+            ]
+          },
+          {
+            instruction: "Add sugar, salt, milk, and the egg to the mixture. Stir to form a soft dough.",
+            ingredients: [
+              "1/4 cup sugar",
+              "2 t salt",
+              "3 T milk",
+              "1 egg (beaten)",
+            ]
+          },
+          {
+            instruction: "Oil a separate boil.",
+            ingredients: [
+              "1 T oil"
+            ]
+          },
+        ],
+        description: "*You could opt for “fresh” store-bought tortellini or another type of pasta.",
+        outro: "For a certain very busy phase of our family life, this was a go-to soup on those hectic days when \
+ we were trying to create a family dinner time between cross-country practice, music lessons, chess \
+ club, and Soul Delight rehearsals. And just for the record we almost always made time to eat \
+ dinner together. There was that one week when I looked at the crazy calendar and declared: \
+ “Alright, everyone, we are going to have a nice family meal on Saturday at 3 pm. Be there!” \
+ Anyway, throughout those very busy years, everyone ate this soup without complaining and \
+ Andrew even ate the carrots. I seem to remember though that sometimes the celery bits got left in \
+ the bottom of certain bowls, but there are worse things. At least the kids got the yummy celery \
+ flavor in the broth."
+      },
+    ]
+  },
 ]
 
 

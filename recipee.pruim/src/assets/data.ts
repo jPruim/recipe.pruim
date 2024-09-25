@@ -3241,7 +3241,7 @@ export const RecipeData: Recipe[] = [
     ],
   },
   {
-    "title": "Baked Apples",
+    "title": "Fruit Soup",
     "originalBookID": 2,
     "recipeNumber": 23,
     "preparationTime": "5-15",
